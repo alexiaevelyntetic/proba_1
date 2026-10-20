@@ -1,0 +1,10 @@
+# Input data belongs to the client and is not published; copy the CSVs into the repo root.
+/our_categories.csv
+/supplier_products.csv
+/labelled_products.csv
+/sales.csv
+/BRIEF.md
+
+__pycache__/
+*.pyc
+.venv/

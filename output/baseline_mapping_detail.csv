@@ -1,0 +1,3031 @@
+supplier_category,key,our_category_id,share,n_labels,category_revenue
+ALE STOUT,alestout,6845,1.0,2.0,103314.38
+AP PE,appe,7245,1.0,2.0,25974.2
+APLS PRS,aplsprs,,,,297746.8
+APLS.PE,apls.pe,7245,1.0,1.0,21662.25
+APLSPRS,aplsprs,,,,297746.8
+APPLEPRS & CTRS FRUI,appleprs&ctrsfrui,,,,177722.72999999998
+APPLEPRS + CITRUS FRT,appleprs+citrusfrt,4548,1.0,1.0,104044.04
+APPLES PRS,applesprs,4548,0.4,5.0,315372.5
+ASSORTED LINES (old),assortedlines(old),7333,0.25,4.0,70086.09
+ASSORTED LINES - grocery,assortedlines-grocery,9535,0.5,2.0,148133.93
+Ale st,alest,,,,290348.05
+Ale st and Cri,alestandcri,6845,1.0,4.0,35200.85
+Ale stou,alestou,,,,98034.12
+Ap pears,appears,8174,1.0,1.0,95138.31
+Apls   pear,aplspear,7245,1.0,2.0,85599.81
+Apls Pear,aplspear,7245,1.0,2.0,85599.81
+Apls pear,aplspear,7245,1.0,2.0,85599.81
+Apls-pears,apls-pears,7245,1.0,3.0,444173.31
+Appl Pear,applpear,,,,26798.829999999998
+Apple.pe,apple.pe,7245,1.0,3.0,324637.29
+Appleprs + Citrus Frt,appleprs+citrusfrt,4548,1.0,1.0,104044.04
+Apples Pe,applespe,7245,1.0,2.0,127271.87999999999
+Apples.pears + Gra melon,apples.pears+gramelon,,,,36778.799999999996
+Apples.prs,apples.prs,7245,1.0,1.0,37555.52
+Applespea,applespea,7245,1.0,1.0,22630.86
+Assorted (old),assorted(old),3201,0.4,5.0,126802.96
+Assorted 2,assorted2,6111,0.5,2.0,189284.99
+Assorted 3,assorted3,8421,0.3333333333333333,6.0,127589.77
+BA,ba,,,,162654.23
+BA - HOM BAKIN MXS,ba-hombakinmxs,,,,154100.38
+BA.INGRD AND SUGAR,ba.ingrdandsugar,7788,1.0,1.0,156423.74
+BA: HOME BAKING MXS + PCKLS CON,ba:homebakingmxs+pcklscon,9023,0.5,2.0,56549.0
+BA: Wk,ba:wk,,,,108096.65
+BAB: BABYFD/NAPPIES WPS,bab:babyfd/nappieswps,,,,86109.62
+BABY - NA WPS,baby-nawps,,,,72314.35
+BABY - NAPPIESWIPES,baby-nappieswipes,,,,91889.33
+BABY > NA.WIPE,baby>na.wipe,8762,1.0,1.0,48559.979999999996
+BABY > NPS-WPS,baby>nps-wps,,,,59723.71
+BABY.FOOD,baby.food,2870,1.0,2.0,90913.09
+BABY/BY FD,baby/byfd,,,,100959.95999999999
+BABYFO: APPLE,babyfo:apple,2870,1.0,1.0,80983.45999999999
+BACO,baco,,,,74497.82
+BACON + BF,bacon+bf,9205,1.0,1.0,45970.31
+BACON Range B,baconrangeb,9205,1.0,1.0,104082.78
+BACON-Z,bacon-z,5856,1.0,1.0,179231.7
+BAK - SUGAR,bak-sugar,7788,1.0,3.0,205755.56
+BAK BEANS,bakbeans,3682,1.0,1.0,126077.25
+BAK.INGREDIENTS,bak.ingredients,,,,151799.41
+BAK/FL/BULK,bak/fl/bulk,4977,0.75,4.0,235749.79
+BAKEBNS,bakebns,7139,1.0,1.0,13609.08
+BAKED BEANS,bakedbeans,,,,52048.15
+BAKED BNS,bakedbns,7139,1.0,1.0,282398.11
+BAKIN-INGRD,bakin-ingrd,,,,34553.75
+BAKING-ING,baking-ing,3791,1.0,2.0,172597.52
+BAKING.ING,baking.ing,,,,77256.39
+BAKING: BAKI.IN,baking:baki.in,,,,79474.82
+BAKING: SUGAR,baking:sugar,,,,106855.53
+BAKINGINGRD,bakingingrd,3791,1.0,6.0,82409.03
+BAKINGINGRD & FLOUR,bakingingrd&flour,3791,1.0,2.0,37918.0
+BATH SHWR BATH,bathshwrbath,,,,347691.56
+BATH TOILE & SAVOURY PS,bathtoile&savouryps,3743,0.75,4.0,285776.58
+BATH-TOILE,bath-toile,3743,0.5,4.0,93470.88
+BATH/SHOW.BATH,bath/show.bath,5824,1.0,1.0,37531.52
+BA_SHWR BATH,ba_shwrbath,5824,1.0,5.0,142906.37
+BCN,bcn,9205,0.8,5.0,209547.07
+BCN/Plus,bcn/plus,,,,48272.58
+BEE - CDR,bee-cdr,7789,1.0,1.0,31038.769999999997
+BEEF + SGS,beef+sgs,,,,61127.12
+BEEF AND SAUSAGES,beefandsausages,,,,235989.92
+BEER CIDER,beercider,,,,40308.63
+BEER CIDER  ,beercider,,,,40308.63
+BEER: CIDER,beer:cider,7789,1.0,2.0,66282.57
+BER,ber,1475,0.8,5.0,224211.17
+BF,bf,4045,1.0,8.0,238531.13
+BIS SAVO-BISCUITS,bissavo-biscuits,6633,1.0,1.0,75539.36
+BISCUITS-SAV BISC AND SWT BSCTS,biscuits-savbiscandswtbscts,6633,1.0,4.0,132186.49
+BKD BEANS,bkdbeans,7139,1.0,3.0,43484.77
+BKD-BNS,bkd-bns,7139,1.0,2.0,27006.149999999998
+BKD.BEANS   AND TND FISH,bkd.beansandtndfish,,,,524114.87
+BKD.BEANS AND TND FISH,bkd.beansandtndfish,,,,524114.87
+BKDBEA,bkdbea,,,,272408.01
+BKNG   INGREDIENTS,bkngingredients,3791,0.6666666666666666,3.0,77857.42
+BKNG   SGR,bkngsgr,,,,235679.42
+BKNG INGREDIENTS,bkngingredients,3791,0.6666666666666666,3.0,77857.42
+BKNG SGR,bkngsgr,,,,235679.42
+BKNG SGR ,bkngsgr,,,,235679.42
+BKNG SU,bkngsu,7788,1.0,2.0,78018.18
+BKNG-HOM-BAK-MIXES,bkng-hom-bak-mixes,3762,1.0,3.0,226461.29
+BKNG/SUGAR + SUGA,bkng/sugar+suga,,,,336832.33999999997
+BKNGINGRD,bkngingrd,3791,1.0,5.0,417345.65
+BKNG_HOMBKNGMIXES,bkng_hombkngmixes,,,,91543.46
+BLCHS,blchs,8364,1.0,4.0,194422.44
+BR CEREALS,brcereals,,,,52608.2
+BR LAGE,brlage,8945,1.0,2.0,90714.84
+BR WHT-BRD,brwht-brd,8297,1.0,1.0,103632.06
+BR WRPSFLATBREADS & GARLIC BRD,brwrpsflatbreads&garlicbrd,,,,41188.369999999995
+BRD - WHT BREAD & WR FL,brd-whtbread&wrfl,,,,284394.84
+BRD > WRPS.FLATBREADS,brd>wrps.flatbreads,2674,1.0,2.0,95238.19
+BRD WRAFLTBR,brdwrafltbr,2674,1.0,3.0,86466.79
+BRD-WHLML-BREA,brd-whlml-brea,5363,1.0,3.0,116630.90000000001
+BRE-GA.BRD,bre-ga.brd,6200,1.0,2.0,99950.20999999999
+BRE/GRLC-BRD,bre/grlc-brd,,,,7947.67
+BREA - GARLI-BREAD,brea-garli-bread,,,,87187.56
+BREA/CE/PORRIDGE,brea/ce/porridge,,,,219444.06
+BREA/CER,brea/cer,,,,32782.19
+BREAD - WHLML-BREAD,bread-whlml-bread,5363,1.0,2.0,45960.590000000004
+BREAD-GARLIC.BREA,bread-garlic.brea,6200,1.0,2.0,29220.81
+BREAD-WHLML BREAD,bread-whlmlbread,5363,1.0,1.0,49524.91
+BREAD-WRAPS-FLA,bread-wraps-fla,2674,0.75,4.0,258946.13
+BREAD-WRAPS-FLA  ,bread-wraps-fla,2674,0.75,4.0,258946.13
+BREAD/ROLLS-BAPS,bread/rolls-baps,4748,1.0,2.0,86433.26
+BREAD: WHOLEMEALBREAD,bread:wholemealbread,,,,36839.79
+BREAK CEREALS,breakcereals,1484,1.0,1.0,95501.46
+BREAKFAST CE,breakfastce,,,,61777.18
+BRKFS > PRDG,brkfs>prdg,,,,55468.41
+BRKFS > PRDG  ,brkfs>prdg,,,,55468.41
+BRKFS-PORRIDGE,brkfs-porridge,,,,164104.9
+BRKFS-PRDG,brkfs-prdg,1484,1.0,1.0,28486.6
+BRKFS_PORRIDGE,brkfs_porridge,,,,61968.88
+BR_CI,br_ci,7789,1.0,2.0,275723.21
+BTHRM TO,bthrmto,3743,1.0,3.0,192120.45
+BTHRM TOILET,bthrmtoilet,,,,53633.47
+BTHRM-TLT,bthrm-tlt,,,,48041.6
+BTHRM.TLT/SNDWC,bthrm.tlt/sndwc,3743,1.0,1.0,71817.55
+BTR,btr,8993,1.0,1.0,63646.08
+BTR SPREADS,btrspreads,,,,50587.06
+BTR: Organic,btr:organic,,,,30152.61
+BUT-Seasonal,but-seasonal,8993,1.0,1.0,116879.63
+BUT: SPRDS,but:sprds,1464,1.0,1.0,74196.01
+BUTTER - SP,butter-sp,1464,1.0,4.0,85613.57
+BUTTER - Wk,butter-wk,,,,69473.79000000001
+BUTTER/Imported,butter/imported,8993,1.0,1.0,810.54
+BUTTER/SPREADS,butter/spreads,,,,16163.600000000002
+BUTTE_BUTTER,butte_butter,,,,68055.78
+BY FOOD/NPS WI,byfood/npswi,8762,0.6666666666666666,3.0,65706.58
+BY-FOO,by-foo,1387,1.0,4.0,409244.38
+Ba - Sub,ba-sub,9205,1.0,1.0,82122.89
+Ba > Homebakinmxs,ba>homebakinmxs,9278,0.5,4.0,116960.48
+Ba Nappies wps,banappieswps,,,,308036.73
+Ba-Ba.food,ba-ba.food,2870,1.0,5.0,287203.57
+Ba-ingrd,ba-ingrd,3791,1.0,1.0,172269.6
+Ba-ingredients,ba-ingredients,3791,1.0,3.0,86441.11
+Ba.toilet,ba.toilet,,,,134852.51
+Ba/Sho Bath,ba/shobath,5824,1.0,3.0,106459.95999999999
+Bab Napp wps,babnappwps,,,,110770.05
+Bab foo,babfoo,2870,1.0,3.0,55824.96
+Babfd,babfd,2870,1.0,2.0,147941.93
+Baby food & Nap wip,babyfood&napwip,,,,73516.32
+Baby-Nappi wipe,baby-nappiwipe,,,,119370.42999999998
+Baby_Ba foo + Nappies wps,baby_bafoo+nappieswps,,,,270466.97000000003
+Bac,bac,,,,128466.17
+Bac-Z,bac-z,9205,0.6666666666666666,3.0,193843.69
+Baco > Local,baco>local,9205,1.0,1.0,127719.91
+Bacon,bacon,4045,0.3333333333333333,3.0,102984.34999999999
+Bacon & Ckd Me,bacon&ckdme,,,,455939.63
+Bacon/Lamb,bacon/lamb,9205,1.0,1.0,229454.97999999998
+Baingredients,baingredients,,,,251059.91
+Bak bns,bakbns,7139,1.0,2.0,30505.21
+Bak.bns,bak.bns,3682,0.5,2.0,50749.27
+Baked Be,bakedbe,,,,196586.05
+Baked.bns,baked.bns,,,,20456.8
+Baki - Bkng Ingrd,baki-bkngingrd,3791,1.0,4.0,167579.19
+Baki/Baki Ingredients,baki/bakiingredients,3791,1.0,3.0,54396.9
+Bakin Bkng Ing,bakinbknging,3791,1.0,1.0,56086.07
+Baking - Baking-in/Flr,baking-baking-in/flr,,,,190856.62
+Baking - Hm Baking Mixes,baking-hmbakingmixes,3762,1.0,2.0,181963.86000000002
+Baking Flr,bakingflr,,,,45051.4
+Baking Ingre,bakingingre,3791,1.0,1.0,93062.86
+Baking-Ho.baking.mxs,baking-ho.baking.mxs,3762,1.0,2.0,77020.68
+Baking.ingrd,baking.ingrd,3791,0.75,4.0,137960.87
+Baking: Sgr,baking:sgr,3834,1.0,3.0,175246.75
+Baking: Sugar,baking:sugar,,,,106855.53
+Bakiningre/Pst,bakiningre/pst,,,,145106.35
+Bat Shower-bth & Rc,batshower-bth&rc,9134,1.0,1.0,134252.59
+Bat Tlt,battlt,3743,1.0,1.0,96656.86
+Bathroom.toilet,bathroom.toilet,,,,318398.38
+Be,be,4045,1.0,8.0,506284.36
+Be ,be,4045,1.0,8.0,506284.36
+Bee,bee,4045,1.0,6.0,202555.05
+Bee - Cider,bee-cider,7789,1.0,1.0,86999.54000000001
+Bee Cdr,beecdr,,,,339947.53
+Beef,beef,4045,1.0,2.0,65274.340000000004
+Beef - Range B,beef-rangeb,4045,1.0,6.0,328818.19
+Beer > Lager & Othr Juic,beer>lager&othrjuic,8882,0.5,2.0,32806.42
+Beer Cider,beercider,,,,40308.63
+Berr,berr,,,,15712.74
+Berries,berries,1475,1.0,2.0,42343.24
+Berries and Grapes melon,berriesandgrapesmelon,8174,0.5,2.0,54393.61
+Berries/Grp 2,berries/grp2,1475,0.6666666666666666,3.0,41053.509999999995
+Berries/grp 2,berries/grp2,1475,0.6666666666666666,3.0,41053.509999999995
+Bi/Swtbscts,bi/swtbscts,9417,1.0,5.0,87206.83
+Bis: Svry Bscts,bis:svrybscts,6633,1.0,4.0,86024.25
+Bisc-Savo bi,bisc-savobi,6633,1.0,4.0,204413.77
+Biscuits_Savo-biscuits,biscuits_savo-biscuits,6633,1.0,1.0,120365.63
+Biscuits_Savoury-bisc,biscuits_savoury-bisc,9417,0.5,2.0,103861.52
+Bkd Be,bkdbe,7139,1.0,6.0,146829.43
+Bkng ingrd,bkngingrd,3791,1.0,5.0,417345.65
+Bkng.in,bkng.in,,,,707484.75
+Bkng.ingrd,bkng.ingrd,3791,1.0,1.0,87730.36
+Bkng_Sugar,bkng_sugar,,,,8708.2
+Bkngingredients,bkngingredients,3791,0.6666666666666666,3.0,77857.42
+Blu chees,bluchees,8364,1.0,6.0,355673.26
+Br - Crls-Sub,br-crls-sub,1484,1.0,2.0,54539.049999999996
+Br Cider - Range A,brcider-rangea,,,,16919.96
+Br-Wh-brd,br-wh-brd,,,,45843.380000000005
+Br/Cid,br/cid,,,,70407.33
+Br/Wra flatbreads,br/wraflatbreads,,,,56770.4
+Br: Cerea,br:cerea,,,,48305.0
+Brd - Wholemeal.bread,brd-wholemeal.bread,5363,1.0,2.0,29679.68
+Bre/Prdg,bre/prdg,8689,0.6666666666666666,3.0,95287.83
+Bre_Cereals,bre_cereals,1484,1.0,3.0,411689.39
+Bread > Whol.br,bread>whol.br,5363,1.0,1.0,99732.28
+Bread-Garlicbread,bread-garlicbread,6200,1.0,1.0,32038.27
+Bread/Wrpsfltbr,bread/wrpsfltbr,2674,1.0,3.0,158458.89
+Bread: Wholemeal bre,bread:wholemealbre,5363,1.0,3.0,73969.81999999999
+Break > Prdg And Spi,break>prdgandspi,9849,1.0,1.0,51495.84
+Breakfast - Crls,breakfast-crls,1484,1.0,1.0,17593.73
+Breakfast_Cereals,breakfast_cereals,1484,1.0,4.0,145612.09
+Brkfs - Cereals,brkfs-cereals,1484,1.0,2.0,119263.01000000001
+Brkfs - Crls,brkfs-crls,,,,10738.89
+Brkfs - Crls  ,brkfs-crls,,,,10738.89
+Brs,brs,,,,452587.57
+Bth > Sh-bth,bth>sh-bth,,,,28351.53
+Bthrm toilet and Su cleaners,bthrmtoiletandsucleaners,,,,255308.94999999998
+Btr-Btr,btr-btr,,,,95316.45000000001
+Bu,bu,,,,239161.74
+But,but,8993,1.0,3.0,311176.34
+Butt,butt,8993,1.0,3.0,308829.56
+Butt/Sprds,butt/sprds,1464,1.0,2.0,401836.11
+Butte - Sprds,butte-sprds,,,,76058.08
+Butter > Butte,butter>butte,,,,63294.97
+Butter Btr & Spreads,butterbtr&spreads,8993,1.0,1.0,68196.5
+Butter Btr & Spreads ,butterbtr&spreads,8993,1.0,1.0,68196.5
+Butter Butter And Spreads,butterbutterandspreads,8993,1.0,2.0,105487.94
+Butter/Ext,butter/ext,,,,56180.85
+Butter_Bu Wk,butter_buwk,8993,1.0,1.0,123439.5
+By Foo,byfoo,,,,202144.49
+By-Nps-wip,by-nps-wip,8762,1.0,4.0,124404.21
+By.food,by.food,2870,1.0,2.0,131127.97
+By.food + Dog Foo,by.food+dogfoo,2870,1.0,1.0,115492.66
+By/By-food/Carrot,by/by-food/carrot,,,,46227.86
+CAK SL BAR,cakslbar,1365,1.0,1.0,192670.7
+CAK-SLCS-BARS,cak-slcs-bars,1365,1.0,1.0,115929.18
+CAKE SLIC BA,cakeslicba,,,,19382.940000000002
+CAKE SLICES BARS,cakeslicesbars,8762,0.5,2.0,214134.38
+CAKES > CAKE-SLIC-BAR,cakes>cake-slic-bar,,,,54774.39
+CAKES WHLCAKES + CAKE SLI BARS,cakeswhlcakes+cakeslibars,,,,330091.7
+CAKES WHOLE-CAKES,cakeswhole-cakes,1501,1.0,1.0,43624.2
+CAKES-WHCAK,cakes-whcak,1501,1.0,2.0,128400.95
+CAKES-WHOLCA,cakes-wholca,1501,1.0,1.0,31033.12
+CAKES: CK SLCS BARS,cakes:ckslcsbars,1365,1.0,1.0,43168.35
+CAKESLIBARS,cakeslibars,1365,1.0,1.0,71404.47
+CAKESLICEBA & WHL CAKES,cakesliceba&whlcakes,,,,248478.69
+CAKE_CAKE SLIC BARS,cake_cakeslicbars,1365,0.8,5.0,236966.65
+CAK_WHOLE CKS/SCNS TCKS,cak_wholecks/scnstcks,,,,54389.82
+CASLICESBARS,caslicesbars,1365,1.0,1.0,38383.09
+CAT-FOOD Branded,cat-foodbranded,,,,96497.94
+CAT.FOOD,cat.food,6111,1.0,2.0,33521.01
+CATFD,catfd,1387,1.0,1.0,73806.83
+CATFOOD & PET CARE,catfood&petcare,6111,1.0,1.0,94164.54000000001
+CDR: ST,cdr:st,7789,1.0,1.0,59797.29
+CE AND RT VGTBL,ceandrtvgtbl,4584,0.6666666666666666,3.0,87044.28
+CE BARS,cebars,1093,0.5,2.0,117919.48
+CE BARS + DRIED FRUIT,cebars+driedfruit,9978,1.0,1.0,45480.17
+CER & PRDG,cer&prdg,8689,0.75,4.0,329279.42
+CER Main,cermain,1484,1.0,2.0,59537.85
+CER/OL,cer/ol,1484,1.0,1.0,83683.39
+CERE: Imported,cere:imported,1484,1.0,1.0,41352.29
+CEREAL BRS,cerealbrs,9978,1.0,2.0,24424.14
+CEREALS,cereals,1484,1.0,1.0,102481.97
+CF > Own Label,cf>ownlabel,9269,1.0,2.0,39359.78
+CH GUM,chgum,,,,25745.629999999997
+CH GUM + TORTILLA COR SNAC-Organic,chgum+tortillacorsnac-organic,9841,0.5,2.0,51653.53
+CH-BA,ch-ba,6788,1.0,4.0,100247.7
+CH-DSRTS & GR MLN,ch-dsrts&grmln,,,,53741.47
+CH.DESSERTS,ch.desserts,,,,86034.81
+CHBARS/SAVOURY BI,chbars/savourybi,6788,1.0,1.0,46589.020000000004
+CHCKN & COOK MEATS,chckn&cookmeats,2638,0.8333333333333334,6.0,121578.17
+CHDE,chde,,,,241423.02000000002
+CHE   GUM,chegum,,,,292259.11
+CHE GUM,chegum,,,,292259.11
+CHE GUM ,chegum,,,,292259.11
+CHE-GUM,che-gum,5411,1.0,4.0,185536.28
+CHE.GUM,che.gum,,,,31488.54
+CHEESE - HAR.CHEESE,cheese-har.cheese,2931,1.0,6.0,280708.04
+CHEESE > SFT.CHEES,cheese>sft.chees,9117,1.0,2.0,29987.84
+CHEWIGUM,chewigum,5411,1.0,2.0,70347.43
+CHEWING GUM,chewinggum,5411,1.0,1.0,89214.20999999999
+CHEWING.GUM,chewing.gum,,,,407425.1
+CHEWINGGUM,chewinggum,5411,1.0,1.0,89214.20999999999
+CHI DESSERTS,chidesserts,1034,1.0,1.0,28576.49
+CHICKEN,chicken,2638,1.0,7.0,59811.380000000005
+CHILL-RE-MLS,chill-re-mls,,,,154751.31
+CHILLED DESSERTS,chilleddesserts,1034,1.0,3.0,228473.78
+CHILLED RDY MEALS,chilledrdymeals,1531,1.0,5.0,151025.13
+CHILLED READY MEALS,chilledreadymeals,,,,234822.22
+CHILLED.DESSERTS,chilled.desserts,1034,1.0,1.0,45005.91
+CHIPS POTAT PRO,chipspotatpro,4761,1.0,2.0,146284.38999999998
+CHIPS.PT.PRODUCTS,chips.pt.products,4761,1.0,5.0,225545.71
+CHIPSPOTAPRO,chipspotapro,4761,1.0,2.0,161659.4
+CHIPSPOTATPR,chipspotatpr,4761,1.0,2.0,184648.94
+CHIPSPOTATPR  ,chipspotatpr,4761,1.0,2.0,184648.94
+CHLD DESSERTS,chlddesserts,1034,1.0,1.0,121019.48
+CHLD READY MLS,chldreadymls,1531,1.0,3.0,354335.84
+CHLD.RDY.MLS/SWT BSCTS,chld.rdy.mls/swtbscts,,,,151117.34
+CHLDDES + SPREADS,chlddes+spreads,1464,0.5,2.0,42266.9
+CHOCO BARS ORANG,chocobarsorang,,,,38177.65
+CHOCOLATE BRS: ORA,chocolatebrs:ora,6788,1.0,3.0,118410.17
+CHPS PT PRDCT,chpsptprdct,4761,1.0,2.0,107182.44
+CHPS-POTA-PRDCT,chps-pota-prdct,4761,1.0,2.0,253075.55000000002
+CHS   > HRD CHS,chs>hrdchs,,,,608050.68
+CHS > HRD CHS,chs>hrdchs,,,,608050.68
+CHS > HRD CHS  ,chs>hrdchs,,,,608050.68
+CHS/COTT-CHEE/FLAVOURED MILK,chs/cott-chee/flavouredmilk,,,,46284.03
+CHWNG GUM,chwnggum,,,,285054.09
+CI,ci,7789,1.0,1.0,160260.4
+CIDER - Spec,cider-spec,,,,147438.69
+CIDER_APL,cider_apl,7789,1.0,1.0,30957.32
+CITR.FRUI,citr.frui,,,,83309.31999999999
+CITR.FRUIT,citr.fruit,4548,1.0,4.0,130140.54000000001
+CITRUS-FRUIT & RI,citrus-fruit&ri,,,,157748.8
+CITRUSFRT/TROPICAL FRUIT,citrusfrt/tropicalfruit,,,,88871.48999999999
+CK-SLCS-BAR,ck-slcs-bar,1365,1.0,2.0,49168.54
+CKD ME,ckdme,,,,141741.82
+CKNG SAUCES,ckngsauces,7443,1.0,3.0,54378.5
+CKS > CAKE-SLICES-BARS + ROLLS BAPS,cks>cake-slices-bars+rollsbaps,,,,229599.94
+CKS-CAKE SLICES BAR,cks-cakeslicesbar,,,,89676.74
+CKS: CAKE SLCS BARS + LA,cks:cakeslcsbars+la,,,,113234.28
+CKS_WHOLE CAKES,cks_wholecakes,1501,1.0,2.0,62869.54
+CLEAN - BTHRM.TLT,clean-bthrm.tlt,,,,170125.93
+CLEAN-BTHRM TOI,clean-bthrmtoi,3743,1.0,1.0,107027.92
+CLEANING: SU-CLEANERS,cleaning:su-cleaners,2138,1.0,2.0,157569.55
+CLNG: SRFC.CLEAN,clng:srfc.clean,,,,313432.20999999996
+CNFCT-CHEWGUM,cnfct-chewgum,5411,1.0,2.0,77416.64
+CNFCT-CHWNG GUM,cnfct-chwnggum,5411,1.0,2.0,60295.159999999996
+CNFCT-SWTS,cnfct-swts,8522,1.0,5.0,228392.06
+CO,co,3117,1.0,1.0,36933.64
+COFF,coff,9269,1.0,1.0,111140.91
+COFFEE,coffee,9269,1.0,3.0,101746.04000000001
+COF_Seasonal,cof_seasonal,,,,41948.76
+COLA,cola,,,,75702.83
+COLA AND SQU,colaandsqu,3117,0.5,2.0,60944.36
+CONF SW,confsw,8522,1.0,1.0,104572.44
+CONFE/SWEETS AND CHEWING GUM,confe/sweetsandchewinggum,8522,1.0,1.0,91681.92
+CONFECTIONERY-CHEWINGGUM,confectionery-chewinggum,5411,1.0,5.0,102852.63
+CONFECTIONERY_CHOCOLATE.BAR,confectionery_chocolate.bar,6788,1.0,2.0,134455.87
+COO.MEATS,coo.meats,9318,0.6,5.0,34625.770000000004
+COO.MEATS ,coo.meats,9318,0.6,5.0,34625.770000000004
+COOK SAUCE,cooksauce,7443,0.6666666666666666,3.0,53478.32
+COOKED MTS,cookedmts,9318,1.0,4.0,123148.81
+COOKING SAUCE,cookingsauce,,,,59791.8
+COOKING SCS,cookingscs,,,,47876.66
+COOKING.SAU,cooking.sau,7443,1.0,1.0,69927.53
+COTCHEES,cotchees,,,,147409.46
+COTCHEESE + BL CHEES,cotcheese+blchees,8737,0.8,5.0,202557.62
+COTT-CHEESE,cott-cheese,8737,1.0,3.0,126719.2
+COTTA CHEESE,cottacheese,,,,128988.32
+COTTACHE AND SFT CH,cottacheandsftch,,,,28484.55
+COTTAGE CHE + SOFT CHS,cottageche+softchs,8737,1.0,1.0,62922.56
+COTTAGE-CHEES,cottage-chees,,,,32284.53
+COTTAGE.CHEES,cottage.chees,,,,164315.41999999998
+COTTAGECHEES,cottagechees,8737,1.0,1.0,72350.5
+CO_CH GUM,co_chgum,8522,1.0,1.0,55805.12
+CR,cr,4268,1.0,2.0,165025.80000000002
+CR - CRISPS,cr-crisps,4268,1.0,3.0,106863.88
+CR > SALT,cr>salt,,,,94414.63
+CR.PA + MFNS CR,cr.pa+mfnscr,,,,84019.48999999999
+CR: FRESH-CREAM AND SVRY PS,cr:fresh-creamandsvryps,7386,1.0,3.0,29556.05
+CRACK,crack,7626,1.0,1.0,26578.07
+CRACKERS,crackers,7626,1.0,2.0,72598.01
+CRCKR,crckr,7626,1.0,1.0,27783.33
+CRI,cri,,,,68476.9
+CRI - NUTS AND CH BA > Export,cri-nutsandchba>export,9983,0.5,2.0,341813.08999999997
+CRI-TORTCORNSNCKS,cri-tortcornsncks,,,,63907.47
+CRI: CRACKERS,cri:crackers,7626,1.0,1.0,20501.82
+CRIS - TRTL CORN SNA,cris-trtlcornsna,9841,1.0,1.0,62036.04
+CRIS: POPCORN PRETZELS,cris:popcornpretzels,,,,167331.1
+CRISP,crisp,4268,1.0,1.0,46825.38
+CRISP/NUTS,crisp/nuts,9983,1.0,1.0,12833.439999999999
+CRISP: NUTS,crisp:nuts,9983,1.0,2.0,19601.39
+CRISPS,crisps,4268,1.0,3.0,39780.81
+CRISPS - POPC-PRETZELS,crisps-popc-pretzels,2537,1.0,1.0,69403.38
+CRISPS > TORTILLA COR SNAC/CEREA BA,crisps>tortillacorsnac/cereaba,,,,186758.42
+CRISPS-TRTL CORN SNCKS,crisps-trtlcornsncks,9841,1.0,1.0,51481.909999999996
+CRISPS: CRAC,crisps:crac,7626,1.0,1.0,80888.08
+CRISPS: TOR CRN SNACKS,crisps:torcrnsnacks,,,,66773.52
+CRISPS_PCRN.PRTZL & CRACKERS,crisps_pcrn.prtzl&crackers,7626,0.5,4.0,197866.24
+CRL-BA/DR FRUIT,crl-ba/drfruit,,,,405257.68
+CRL.BARS,crl.bars,9978,1.0,3.0,161324.18
+CRLS & DRIED HRBS SPCS,crls&driedhrbsspcs,,,,66614.86
+CRLS_Own Label,crls_ownlabel,,,,100627.48
+CRM > FRESHCRE,crm>freshcre,9318,0.5,2.0,53997.03
+CRO PA,cropa,1416,1.0,2.0,51553.35
+CRO.PSTRS,cro.pstrs,1416,1.0,1.0,74107.92
+CROI PSTRS,croipstrs,1416,1.0,1.0,42696.05
+CROIS   PSTRS,croispstrs,1416,1.0,2.0,247766.88
+CROIS PSTRS,croispstrs,1416,1.0,2.0,247766.88
+CROIS PSTRS  ,croispstrs,1416,1.0,2.0,247766.88
+CRSNT PA,crsntpa,1416,0.8333333333333334,6.0,341037.04
+CRSNT.PASTRIES + SVRY BISC,crsnt.pastries+svrybisc,,,,53566.12
+CRSPS   + SAVOURY BIS,crsps+savourybis,,,,123850.34999999999
+CRSPS + SAVOURY BIS,crsps+savourybis,,,,123850.34999999999
+CRSPS + SAVOURY BIS ,crsps+savourybis,,,,123850.34999999999
+CRSPS > CRCKR,crsps>crckr,8882,1.0,1.0,353686.22
+CRSPS: CRA,crsps:cra,7626,1.0,6.0,196988.94
+CRSPS: CRA ,crsps:cra,7626,1.0,6.0,196988.94
+CRSPS: NUT/Sub,crsps:nut/sub,9983,1.0,1.0,124652.19
+CTG-CHEES,ctg-chees,8737,1.0,1.0,76056.33
+CTRS FRT,ctrsfrt,4548,1.0,8.0,196733.52
+CTRS-FRU,ctrs-fru,,,,26627.32
+CTRS.FRUIT,ctrs.fruit,,,,25508.260000000002
+CTRS.FRUIT/BRS,ctrs.fruit/brs,,,,188793.46
+Ca_Whole-cakes,ca_whole-cakes,1501,1.0,1.0,42928.81
+Cak-Ck.slic.brs,cak-ck.slic.brs,,,,46568.21
+Cak.slices.bars,cak.slices.bars,1365,1.0,2.0,170308.81
+Cak/Whl ca,cak/whlca,8689,0.5,2.0,43854.479999999996
+Cake Slcs Bars,cakeslcsbars,,,,421063.69
+Cake Whlca,cakewhlca,,,,121135.29000000001
+Cake sl bar,cakeslbar,,,,54618.77
+Cake-sl-brs,cake-sl-brs,1365,1.0,1.0,97930.9
+Cake-sli-brs,cake-sli-brs,1365,1.0,1.0,5416.74
+Cake.slices.brs,cake.slices.brs,,,,73209.13
+Cake_Cake Slic Bars,cake_cakeslicbars,1365,0.8,5.0,236966.65
+Cakes - Wholecakes,cakes-wholecakes,,,,66568.1
+Cakes/Ckslicebar/Le,cakes/ckslicebar/le,1365,1.0,1.0,73082.33
+Cakes_Wh.cks,cakes_wh.cks,1501,1.0,9.0,386403.79
+Cakes_Whole ca & Pi,cakes_wholeca&pi,,,,95530.91
+Cakeslcsbar,cakeslcsbar,1365,1.0,2.0,474062.58999999997
+Cat Foo,catfoo,6111,1.0,1.0,38421.24
+Cat Food + Pet Care,catfood+petcare,,,,161410.46
+Cat fd,catfd,1387,1.0,1.0,73806.83
+Cat fo,catfo,6111,1.0,1.0,86233.84999999999
+Cat-fd,cat-fd,6111,1.0,3.0,95971.94
+Cat-foo,cat-foo,6111,1.0,3.0,56913.409999999996
+Cat.fd,cat.fd,,,,120411.95
+Catfo,catfo,6111,1.0,1.0,86233.84999999999
+Cdr,cdr,7789,1.0,4.0,104327.09
+Cdr   & Col,cdr&col,,,,505392.66000000003
+Cdr & Col,cdr&col,,,,505392.66000000003
+Cdr/Bake Beans,cdr/bakebeans,,,,256307.15
+Cdr/Coffee,cdr/coffee,,,,170821.57
+Cdr_Pear,cdr_pear,7789,1.0,3.0,265300.73
+Ce & Oil: Basic,ce&oil:basic,7014,0.5,2.0,182329.46
+Cer,cer,,,,19459.93
+Cer-brs,cer-brs,,,,19579.3
+Cere,cere,1484,1.0,1.0,176970.84
+Cerea,cerea,,,,258537.22999999998
+Cereal brs & Nts,cerealbrs&nts,,,,106406.89
+Cereals Multi,cerealsmulti,1484,1.0,3.0,160772.35
+Cereals/Multi,cereals/multi,1484,1.0,8.0,367558.86
+Cereals_Std,cereals_std,1484,1.0,2.0,120029.09
+Cf,cf,9269,1.0,4.0,148333.61
+Cf + Hot chclt,cf+hotchclt,,,,644614.18
+Ch.dsrts/Natural Ygrt,ch.dsrts/naturalygrt,7219,1.0,1.0,110025.57
+Ch/Soft-cheese,ch/soft-cheese,,,,112181.11
+Ch/Soft-cheese ,ch/soft-cheese,,,,112181.11
+Che-gum & Choco Bar,che-gum&chocobar,5411,1.0,3.0,237110.76
+Cheese-Cottage Chs,cheese-cottagechs,,,,44220.700000000004
+Cheese/Cochs,cheese/cochs,8737,1.0,1.0,111081.06999999999
+Chewi Gum,chewigum,5411,1.0,2.0,70347.43
+Chewi-gum,chewi-gum,,,,222344.9
+Chewing-gum & Chclt ba,chewing-gum&chcltba,,,,68869.51
+Chewing.gum,chewing.gum,,,,407425.1
+Chi dsrts,chidsrts,1034,1.0,1.0,118617.84
+Chi ready mea,chireadymea,1531,1.0,2.0,207576.83
+Chi-desserts,chi-desserts,1034,1.0,2.0,171155.3
+Chil De,childe,,,,130722.59
+Chill.desse,chill.desse,1034,1.0,1.0,27202.879999999997
+Chilled rdy mls,chilledrdymls,,,,64434.95
+Chilled-dsrts,chilled-dsrts,2363,0.6666666666666666,3.0,401873.56
+Chilleddesse,chilleddesse,1034,1.0,1.0,86249.66
+Chip Pt   Prdct,chipptprdct,,,,242329.33000000002
+Chip Pt Prdct,chipptprdct,,,,242329.33000000002
+Chips pota products,chipspotaproducts,,,,27503.739999999998
+Chips-po-prod,chips-po-prod,4761,1.0,1.0,109809.31
+Chld-de,chld-de,1034,0.6666666666666666,3.0,135485.65
+Chld-de ,chld-de,1034,0.6666666666666666,3.0,135485.65
+Chld-rdy-meals,chld-rdy-meals,,,,86898.44
+Chld-rea-mea,chld-rea-mea,1531,1.0,1.0,169290.45
+Chldreadymls,chldreadymls,1531,1.0,3.0,354335.84
+Chocolate brs > Mint,chocolatebrs>mint,,,,31006.149999999998
+Chocolate brs > Mint  ,chocolatebrs>mint,,,,31006.149999999998
+Chps-pot-produ,chps-pot-produ,4761,1.0,3.0,68553.18
+Chps.potat.prdct,chps.potat.prdct,4761,0.5,2.0,143369.55
+Chpspotatoproducts/Frzn desserts,chpspotatoproducts/frzndesserts,,,,47018.14
+Chs_Sft Chee,chs_sftchee,9117,0.8,5.0,37577.39
+Chwng-gum,chwng-gum,,,,24697.32
+Cid - Basic,cid-basic,,,,8538.75
+Cide,cide,7789,1.0,4.0,283910.23
+Cider And Stl Wate,ciderandstlwate,7789,0.6666666666666666,3.0,63724.34
+Cider and Lager,ciderandlager,7789,0.6666666666666666,3.0,220921.88999999998
+Cider: X,cider:x,,,,70935.52
+Citr.frt,citr.frt,,,,1518945.74
+Citru fruit,citrufruit,,,,24776.36
+Citrus frt + Mushrooms,citrusfrt+mushrooms,4548,0.6666666666666666,6.0,149808.81
+Citrus-frt,citrus-frt,4548,1.0,1.0,147900.57
+Citrus.frui,citrus.frui,,,,342654.19
+Citrusfruit,citrusfruit,,,,50633.44
+Ck Sli Bar,ckslibar,1365,1.0,1.0,27741.850000000002
+Ck-sli-brs,ck-sli-brs,1365,1.0,5.0,332646.2
+Ckd.meats,ckd.meats,9318,1.0,1.0,13230.68
+Cks - Whocakes + Scones teacakes,cks-whocakes+sconesteacakes,1501,1.0,1.0,33664.020000000004
+Cks > Whole Cks,cks>wholecks,,,,155930.38
+Cks-Cake-sl-brs,cks-cake-sl-brs,1365,1.0,1.0,15026.68
+Cks/Cakeslbrs,cks/cakeslbrs,1365,0.42857142857142855,7.0,358986.7
+Cks_Cake Sl Bars,cks_cakeslbars,1365,1.0,2.0,111620.5
+Cks_Whol Cakes,cks_wholcakes,1501,1.0,1.0,79248.48
+Ckslcsbars/Ch,ckslcsbars/ch,,,,62029.56
+Cl: Surfaclnrs/Bathroom To,cl:surfaclnrs/bathroomto,2138,0.5,2.0,31757.02
+Cl: Surfaclnrs/Bathroom To ,cl:surfaclnrs/bathroomto,2138,0.5,2.0,31757.02
+Cleaning Su.cl,cleaningsu.cl,2138,0.6666666666666666,3.0,204147.06
+Clng Srfc-clnrs,clngsrfc-clnrs,,,,144859.19
+Clng-Bathrtoil,clng-bathrtoil,3743,1.0,10.0,761937.44
+Cnfct Chew Gum,cnfctchewgum,,,,26670.46
+Cnfct Swts,cnfctswts,8522,1.0,1.0,23445.45
+Cnfct-Sweets,cnfct-sweets,8522,1.0,1.0,57473.05
+Cnfct: Swts,cnfct:swts,,,,51680.5
+Co Chewing-gum,cochewing-gum,8993,1.0,1.0,63707.58
+Co/Chwng-gum,co/chwng-gum,,,,220617.97
+Co/chwng-gum,co/chwng-gum,,,,220617.97
+Cof,cof,9269,1.0,4.0,192798.4
+Coffe,coffe,9269,1.0,1.0,8311.71
+Coffee/Own Label,coffee/ownlabel,9269,0.8,5.0,167287.21
+Cola + Ice Lolli,cola+icelolli,,,,105551.54
+Cola-Select,cola-select,,,,7752.820000000001
+Con Chwng gum,conchwnggum,,,,164182.91
+Conf - Chwnggum,conf-chwnggum,,,,97244.59
+Confe - Sweet,confe-sweet,8522,1.0,3.0,329428.0
+Confe/Ch Gum And Sweets,confe/chgumandsweets,,,,114471.36
+Confectionery - Chewgum,confectionery-chewgum,,,,144994.77
+Cooked-me,cooked-me,9318,1.0,1.0,59262.18
+Cooking Sauces,cookingsauces,,,,96495.94
+Cotta chs,cottachs,8737,1.0,1.0,39562.17
+Cottage Cheese,cottagecheese,8737,0.5,2.0,360006.34
+Cottage.chee,cottage.chee,8737,1.0,1.0,30916.83
+Cottagechee,cottagechee,8737,1.0,2.0,33168.61
+Cottcheese,cottcheese,8737,1.0,1.0,108765.55
+Cr Pstrs,crpstrs,,,,34955.56
+Cr_Nts & Crckr,cr_nts&crckr,,,,45650.08
+Cra + Chclt bars,cra+chcltbars,,,,249107.63
+Cra + Chclt bars  ,cra+chcltbars,,,,249107.63
+Cra/Onion,cra/onion,7626,1.0,1.0,29472.75
+Crack & Nts,crack&nts,7626,0.6666666666666666,3.0,131707.82
+Crckr - Chilled,crckr-chilled,7626,1.0,2.0,74986.39
+Crea: Fre-cr,crea:fre-cr,,,,363584.22000000003
+Cri + Energy Sport Drnks/Imp,cri+energysportdrnks/imp,4268,1.0,4.0,84405.0
+Cri/Nuts,cri/nuts,9983,1.0,2.0,150615.45
+Crisp - Pcrnpr,crisp-pcrnpr,4803,1.0,2.0,87859.0
+Crisps - Chilled,crisps-chilled,4268,1.0,4.0,172883.41
+Crisps > Cr And Nts,crisps>crandnts,4268,0.5,2.0,177320.83
+Crisps > Range A,crisps>rangea,,,,113884.47
+Crisps-Crackers,crisps-crackers,7626,1.0,7.0,291468.08
+Crisps-Crckr,crisps-crckr,7626,1.0,3.0,69019.06
+Crisps/Crisps,crisps/crisps,,,,791447.24
+Crl bars,crlbars,9978,1.0,2.0,84601.67
+Crls,crls,1484,0.5,4.0,170152.97
+Crls - Prem Range,crls-premrange,1484,1.0,2.0,87661.28
+Crls Multi,crlsmulti,,,,16842.86
+Crls-Grp 1,crls-grp1,,,,128616.96
+Crls_Sub,crls_sub,1484,1.0,1.0,27985.190000000002
+Crm Fresh Crea,crmfreshcrea,,,,44047.69
+Crm/Fres Crm/Ndls,crm/frescrm/ndls,4718,0.75,4.0,113529.5
+Crm/Frsh cream,crm/frshcream,,,,40239.41
+Croipas,croipas,1416,0.5,2.0,353378.2
+Crois pastries,croispastries,1416,1.0,3.0,118210.3
+Crois-pastries,crois-pastries,1416,1.0,3.0,71038.36
+Croissants Pastr,croissantspastr,1416,1.0,1.0,189674.66
+Croissants pas,croissantspas,,,,46471.67
+Croissants-past,croissants-past,,,,82742.23
+Croissants-pstrs,croissants-pstrs,1416,1.0,1.0,46871.93
+Crsnt Pstrs,crsntpstrs,,,,78220.53
+Crsnt pastries,crsntpastries,1416,1.0,1.0,211611.7
+Crsnt-past,crsnt-past,,,,61128.200000000004
+Crsnt-pastr,crsnt-pastr,1416,1.0,2.0,30907.350000000002
+Crsnt-pstrs,crsnt-pstrs,1416,1.0,4.0,146782.35
+Crsntpa,crsntpa,1416,0.8333333333333334,6.0,341037.04
+Crsps,crsps,,,,116116.26
+Crsps - Nut,crsps-nut,,,,39131.11
+Crsps-Cra,crsps-cra,,,,134171.72
+Crsps-Nts,crsps-nts,9983,1.0,3.0,213107.6
+Crsps/Crisps-Old,crsps/crisps-old,4268,1.0,1.0,182693.63999999998
+Crsps: Nuts,crsps:nuts,,,,19627.41
+Crsps: On,crsps:on,4268,1.0,1.0,98484.8
+Ctrs-fruit,ctrs-fruit,1475,0.5,2.0,107826.84999999999
+Ctrsfrt,ctrsfrt,4548,1.0,8.0,196733.52
+DE,de,,,,241479.86000000002
+DE   > Spec,de>spec,,,,43040.12
+DE > Spec,de>spec,,,,43040.12
+DE: DE/PASTA,de:de/pasta,6275,1.0,1.0,18130.7
+DEN CARE,dencare,,,,86012.0
+DEN.CARE,den.care,8449,1.0,1.0,23301.25
+DENTAL: DNTL CARE,dental:dntlcare,8449,1.0,2.0,67574.1
+DEOD - DEODORANT,deod-deodorant,6275,1.0,2.0,65548.65
+DEOD: DRNT,deod:drnt,6275,1.0,2.0,179025.66
+DEODO/DEOD + SHOWE BATH,deodo/deod+showebath,,,,18191.27
+DEODORANT + RLS BA,deodorant+rlsba,,,,443620.91
+DEODORANT/FRESH PA,deodorant/freshpa,6275,0.6666666666666666,3.0,248667.05
+DEO_DRNT,deo_drnt,,,,75964.34000000001
+DI,di,,,,134625.11000000002
+DI - WSHNG LIQ,di-wshngliq,6643,1.0,1.0,169385.46
+DI-WASHING-UP LIQUI,di-washing-upliqui,,,,17787.239999999998
+DI.PRODUCTS/WASHING-UP   LIQU,di.products/washing-upliqu,5756,1.0,3.0,57772.61
+DI.PRODUCTS/WASHING-UP LIQU,di.products/washing-upliqu,5756,1.0,3.0,57772.61
+DI/PREPA SALADS,di/prepasalads,5088,0.5,2.0,45355.119999999995
+DIP/DIP,dip/dip,2154,1.0,3.0,276415.51
+DIPS,dips,2154,1.0,2.0,111746.43
+DIPS & PREP SALADS,dips&prepsalads,2154,0.6666666666666666,3.0,55667.97
+DIPS > DIPS,dips>dips,2154,1.0,4.0,162735.68
+DIPS > DPS Ambient,dips>dpsambient,2154,1.0,1.0,70782.05
+DIPS DPS,dipsdps,2154,1.0,4.0,233554.64
+DIPS/PRE SALAD,dips/presalad,,,,114910.54
+DIPS/PREPARED SLDS,dips/preparedslds,5088,1.0,1.0,251203.64
+DIPS: Export,dips:export,,,,66620.5
+DIPS: PRE SLDS,dips:preslds,,,,22642.100000000002
+DIPS: PRESALA,dips:presala,5088,1.0,2.0,177276.09
+DIPS: PRPRD.SALAD,dips:prprd.salad,5088,1.0,1.0,51489.97
+DIP_DPS - RANGE A,dip_dps-rangea,2154,1.0,2.0,214722.53
+DISH PR,dishpr,5756,1.0,5.0,128171.21
+DISH PRDCT,dishprdct,5756,1.0,1.0,370947.87
+DISHWASHING > WASH.LIQU,dishwashing>wash.liqu,6643,1.0,1.0,93646.63
+DISHWASHING DISHWASHER PRO,dishwashingdishwasherpro,,,,185932.19
+DISHWASHING DISHWASHER PRO ,dishwashingdishwasherpro,,,,185932.19
+DNTL CARE,dntlcare,,,,121163.41
+DNTL-CR,dntl-cr,8449,1.0,2.0,88206.07
+DNTL-DENTACR,dntl-dentacr,,,,17285.64
+DNTLCARE,dntlcare,,,,121163.41
+DOG FOOD,dogfood,1387,1.0,6.0,223812.87
+DOG-FOOD + NAPPIES WIPE,dog-food+nappieswipe,4632,1.0,2.0,168127.9
+DOG-FOOD + NAPPIES WIPE  ,dog-food+nappieswipe,4632,1.0,2.0,168127.9
+DPS DIPS,dpsdips,2154,1.0,3.0,105035.05
+DPS/PR   SAL,dps/prsal,5088,0.5,2.0,218098.27
+DPS/PR SAL,dps/prsal,5088,0.5,2.0,218098.27
+DPS: Lge,dps:lge,2154,1.0,2.0,234012.28
+DPS: PREPARED-SALAD,dps:prepared-salad,,,,28635.25
+DRD FRT,drdfrt,,,,50284.29
+DRD HERBS SPICES,drdherbsspices,6054,1.0,1.0,23759.49
+DRD.HRBS.SP,drd.hrbs.sp,6054,1.0,1.0,41896.770000000004
+DRI HE SPICES,drihespices,6054,1.0,2.0,120305.56999999999
+DRI.FRT,dri.frt,1093,0.6,5.0,112396.56999999999
+DRIE HERBS SPCS,drieherbsspcs,,,,48107.93
+DRIE HERBS SPICES,drieherbsspices,,,,100426.16
+DRIE HERBS SPICES  ,drieherbsspices,,,,100426.16
+DRIED.HERBS.SPIC,dried.herbs.spic,,,,430972.6
+DRIED.HERBS.SPIC  ,dried.herbs.spic,,,,430972.6
+DRIEDFRUI,driedfrui,1093,1.0,1.0,93187.85
+DRIEDFRUI  ,driedfrui,1093,1.0,1.0,93187.85
+DRNT,drnt,6275,1.0,1.0,38815.630000000005
+DRNT DEOD,drntdeod,6275,1.0,3.0,51679.49
+DRNT-Branded,drnt-branded,6275,1.0,2.0,29439.050000000003
+DSHWS > DIS.PRODUCTS,dshws>dis.products,,,,25167.96
+DSHWS-DSHWSPROD,dshws-dshwsprod,5756,1.0,1.0,11070.34
+DSHWS: DSHWS-PR,dshws:dshws-pr,5756,0.5,2.0,208814.88
+DSRTS - CHLD DESSE,dsrts-chlddesse,1034,1.0,4.0,311625.99
+DSRTS-CHLD DESS,dsrts-chlddess,1034,1.0,5.0,254397.56
+DSRTS: CHIL-DESSERTS AND FRZN VEGETABLES,dsrts:chil-dessertsandfrznvegetables,1034,0.75,4.0,106682.57
+Den Dntl cr,dendntlcr,,,,151486.39
+Dental Dent-care,dentaldent-care,,,,83903.09
+Dental-care/Single,dental-care/single,8449,1.0,5.0,126855.47
+Dental-cr,dental-cr,,,,73751.34
+Dental.cr,dental.cr,8449,1.0,1.0,68132.92
+Deo,deo,6275,1.0,2.0,31294.95
+Deo And Crls,deoandcrls,,,,38866.88
+Deod,deod,6275,0.75,4.0,170954.52
+Deod_Deodorant,deod_deodorant,9134,1.0,1.0,137631.44
+Deodo,deodo,,,,15034.329999999998
+Deodo - Deod,deodo-deod,,,,22266.28
+Deodorant-Drnt - Value,deodorant-drnt-value,6275,1.0,3.0,38176.33
+Deodorant: Drnt,deodorant:drnt,6275,1.0,2.0,57305.94
+Desserts Chld Desserts,dessertschlddesserts,1034,1.0,2.0,80401.73
+Desserts_Childe,desserts_childe,,,,60150.770000000004
+Di Produ,diprodu,5756,1.0,1.0,100619.5
+Di/Prprd Slds,di/prprdslds,,,,129739.03
+Di/Prprd Slds ,di/prprdslds,,,,129739.03
+Dip,dip,2154,1.0,2.0,26515.06
+Dip > Swee,dip>swee,2154,1.0,2.0,142439.76
+Dips   - Deli,dips-deli,,,,534116.54
+Dips - Deli,dips-deli,,,,534116.54
+Dips > Di,dips>di,2154,1.0,2.0,16036.93
+Dips > Prprd-salad,dips>prprd-salad,,,,14433.89
+Dips Dips-Grp 3,dipsdips-grp3,2154,1.0,5.0,404988.7
+Dips-Chilled,dips-chilled,,,,107845.72
+Dips/Di_Local,dips/di_local,,,,153652.19
+Dips/Mtfr,dips/mtfr,,,,424339.07
+Dips: Dips,dips:dips,,,,98844.79
+Dips: Prepared.salads,dips:prepared.salads,,,,64857.72
+Dips_Kids,dips_kids,,,,878934.44
+Dish > Washi-liq/Tnd fish,dish>washi-liq/tndfish,6643,0.7142857142857143,7.0,435759.34
+Dishprdct,dishprdct,5756,1.0,1.0,370947.87
+Dishw-Was li and Ktchn ro,dishw-wasliandktchnro,6643,0.5,2.0,157620.79
+Dishw.prdct,dishw.prdct,5756,1.0,2.0,221205.88
+Dishwasher-prdct,dishwasher-prdct,5756,1.0,3.0,319984.92
+Dishwasher.pr,dishwasher.pr,5756,1.0,1.0,78998.73
+Dishwashing - Dishwasher pr and On garlic,dishwashing-dishwasherprandongarlic,5756,1.0,1.0,113660.68
+Dishwashing/Dish Prdct,dishwashing/dishprdct,,,,304007.27
+Dishwashing/Dish Prdct  ,dishwashing/dishprdct,,,,304007.27
+Dntl cr,dntlcr,8449,1.0,8.0,215950.5
+Dntl.care/De,dntl.care/de,8449,0.5,2.0,94910.34999999999
+Dogfd,dogfd,1387,1.0,2.0,292962.37
+Dogfood,dogfood,1387,1.0,6.0,223812.87
+Dps,dps,5088,1.0,1.0,117377.53
+Dps Di,dpsdi,2154,1.0,2.0,81383.18
+Dps/Dps,dps/dps,2154,0.75,4.0,176132.84
+Dr Herbs Spcs,drherbsspcs,6054,1.0,5.0,107472.42
+Dr.frt,dr.frt,,,,254806.52
+Drd Her Spices,drdherspices,6054,1.0,2.0,59439.939999999995
+Drd Herb Spices,drdherbspices,6054,1.0,3.0,97257.8
+Drd Hrbs Spi,drdhrbsspi,,,,9448.19
+Drd-fruit,drd-fruit,1093,1.0,3.0,79310.8
+Drd-hrbs-spcs,drd-hrbs-spcs,6054,1.0,1.0,74853.95999999999
+Dri Frt,drifrt,1093,1.0,1.0,80434.74
+Dri frui,drifrui,1093,0.6666666666666666,3.0,171065.45
+Drie Hrbs Spices,driehrbsspices,,,,52629.08
+Dried fruit & Cereal brs,driedfruit&cerealbrs,,,,240048.34
+Dried-herbs-spices,dried-herbs-spices,,,,67587.04000000001
+Dried-herbs-spices + Rice,dried-herbs-spices+rice,,,,125963.48
+Dried.frui + Cereal   ba,dried.frui+cerealba,1093,1.0,2.0,69444.01
+Dried.frui + Cereal ba,dried.frui+cerealba,1093,1.0,2.0,69444.01
+Dried.fruit and Cr,dried.fruitandcr,7626,0.5,2.0,124543.76999999999
+Dried.herbs.spic,dried.herbs.spic,,,,430972.6
+Drnt Org,drntorg,,,,45926.17
+Dshws Produ,dshwsprodu,,,,6452.219999999999
+Dshws Produ + Wshng Liquid,dshwsprodu+wshngliquid,,,,272562.26
+Dshws-Was.liquid,dshws-was.liquid,6643,1.0,1.0,95827.71
+Dsrts Chilled.dsrts,dsrtschilled.dsrts,1034,1.0,1.0,38674.78
+Dsrts/Chilled De/Range B,dsrts/chilledde/rangeb,1034,1.0,2.0,80748.61
+Dsrts_chi.desserts,dsrts_chi.desserts,,,,172313.26
+EG,eg,,,,61672.66
+EG AND CTG CH Org,egandctgchorg,,,,72993.08
+EG: X,eg:x,8090,1.0,1.0,126929.13
+EGG,egg,8090,1.0,1.0,91233.98
+EGG > EGGS,egg>eggs,8090,1.0,2.0,102018.53
+EGG > EGGS ,egg>eggs,8090,1.0,2.0,102018.53
+EGG: EGGS & LAG: Ext,egg:eggs&lag:ext,8945,0.5,2.0,141172.63
+EGGS AND NA YGRT,eggsandnaygrt,,,,62950.1
+EGGS-EGS,eggs-egs,8090,1.0,1.0,48593.619999999995
+EGGS_Range C,eggs_rangec,8090,1.0,1.0,56477.08
+EGS-EGGS & WHIT BR - Grp 2,egs-eggs&whitbr-grp2,8090,1.0,2.0,34358.56
+EGS/EGGS,egs/eggs,8090,1.0,1.0,46085.75
+ENERG SPORT DRNKS,energsportdrnks,,,,130313.04000000001
+ENERGY SPORTS DR,energysportsdr,7981,1.0,2.0,173596.06
+ENERGY.SPORTS.DRNKS,energy.sports.drnks,7981,1.0,1.0,57562.619999999995
+ENERGYSPODR,energyspodr,7981,1.0,1.0,8986.57
+ENERGYSPORTSDRINKS,energysportsdrinks,7981,0.75,4.0,155356.94
+ENESPDRINKS,enespdrinks,7981,1.0,4.0,126600.49
+ENRGY SPOR DRNKS,enrgyspordrnks,7981,0.75,4.0,115974.65000000001
+ENRGY-SPORTS-DRINKS,enrgy-sports-drinks,7981,1.0,1.0,60404.43
+ENRGY.SPORTS.DR,enrgy.sports.dr,7981,1.0,1.0,173018.59
+ENRGYSPORTDRINK,enrgysportdrink,7981,1.0,1.0,75884.11
+ENRGYSPORTSDRINKS,enrgysportsdrinks,,,,42008.259999999995
+ENRGYSPRTSDRINKS,enrgysprtsdrinks,5607,1.0,1.0,83088.0
+ENRGYSPRTSDRINKS ,enrgysprtsdrinks,5607,1.0,1.0,83088.0
+Eg Egs,egegs,8090,1.0,2.0,112489.15
+Eg_Eggs - Imported,eg_eggs-imported,,,,334470.9
+Egg: Eggs,egg:eggs,8090,1.0,5.0,126435.22
+Eggs + Fruit Yog,eggs+fruityog,,,,59225.79
+Eggs > Eggs And Ce,eggs>eggsandce,8090,1.0,2.0,82749.97
+Eggs Egs,eggsegs,8090,1.0,1.0,86954.73
+Eggs-Std Range,eggs-stdrange,8090,1.0,2.0,81890.5
+Eggs/Eggs,eggs/eggs,8090,1.0,2.0,40425.729999999996
+Egs,egs,8090,1.0,1.0,107700.48000000001
+Egs - Ext,egs-ext,8090,1.0,1.0,34097.79
+Egs > Egs,egs>egs,,,,61205.009999999995
+Egs/Eggs,egs/eggs,8090,1.0,1.0,46085.75
+Egs/Single,egs/single,,,,109311.19
+Ener-sports-drnks,ener-sports-drnks,7981,1.0,1.0,95831.72
+Ener-sprts-drin > OL,ener-sprts-drin>ol,7981,1.0,1.0,59355.85
+Energ-sports-drnks,energ-sports-drnks,,,,166918.63999999998
+Energsportsdrinks,energsportsdrinks,7981,1.0,1.0,63760.47
+Energy Sprts Drinks,energysprtsdrinks,7981,1.0,1.0,94810.76999999999
+Energy-spor-dr,energy-spor-dr,7981,1.0,4.0,250862.44999999998
+Energy.sprts.drinks,energy.sprts.drinks,,,,58566.240000000005
+Energysprtsdr,energysprtsdr,7981,1.0,1.0,57339.71
+Enrgy Sports Drnks,enrgysportsdrnks,7981,1.0,2.0,110179.26000000001
+FABR.CON,fabr.con,4024,1.0,4.0,145941.88
+FABRIC CNDTN,fabriccndtn,,,,48460.96
+FABRIC.CONDI,fabric.condi,4024,1.0,5.0,229350.12
+FD: SNDWC,fd:sndwc,,,,8262.95
+FD_FL,fd_fl,3754,1.0,14.0,438354.13
+FISH - FROZE-FSH,fish-froze-fsh,9181,1.0,5.0,161512.85
+FL,fl,,,,247293.40999999997
+FL >   TRADE,fl>trade,7623,1.0,1.0,99856.02
+FL > TRADE,fl>trade,7623,1.0,1.0,99856.02
+FL-MILK,fl-milk,2033,1.0,1.0,57577.55
+FL-Y,fl-y,,,,160590.95
+FL-Y  ,fl-y,,,,160590.95
+FL/LGE PK,fl/lgepk,,,,12662.67
+FLA MLK,flamlk,2033,1.0,1.0,36950.78
+FLAVOUREDMLK,flavouredmlk,,,,114817.51
+FLOU > Spec,flou>spec,4977,1.0,3.0,220923.63999999998
+FLOUR & OIL,flour&oil,4977,0.75,4.0,94235.64
+FLOUR & SUGAR/CATERING,flour&sugar/catering,7623,1.0,1.0,52575.83
+FLOUR BULK,flourbulk,,,,116420.42
+FLOUR: CATERING,flour:catering,7623,1.0,2.0,42184.76
+FLR & FLO,flr&flo,7623,1.0,3.0,341156.17
+FLR - LGE PK,flr-lgepk,,,,208906.87
+FLR_Main,flr_main,4977,1.0,2.0,210818.16
+FLVRD MLK,flvrdmlk,,,,58861.77
+FO,fo,,,,57723.79
+FOI,foi,3754,1.0,2.0,94217.32
+FOI: Plus,foi:plus,,,,32428.71
+FOIL-Lge,foil-lge,,,,6959.02
+FOI_Plus,foi_plus,3754,1.0,1.0,7532.31
+FOOD > FOIL,food>foil,,,,273528.13
+FOOD > SANDWICHES,food>sandwiches,1273,1.0,1.0,24964.78
+FOOD FOIL,foodfoil,3754,1.0,1.0,18170.23
+FOOD-FOIL,food-foil,,,,109617.76999999999
+FOOD-FOIL & FLOUR,food-foil&flour,3754,1.0,1.0,46838.82
+FR FIS + BEEF,frfis+beef,,,,180076.95
+FR PA,frpa,8421,1.0,1.0,43971.31
+FR-CHIPSPOTATPRO + CH GUM,fr-chipspotatpro+chgum,4761,0.75,4.0,386599.76
+FR-CREAM,fr-cream,7386,1.0,2.0,18178.57
+FR/FRSH-PASTA,fr/frsh-pasta,1273,1.0,1.0,92355.61
+FR: APLS   PEARS,fr:aplspears,,,,351348.87
+FR: APLS PEARS,fr:aplspears,,,,351348.87
+FRE - FRSH.SO,fre-frsh.so,,,,13843.869999999999
+FRE: FRESH-SOU,fre:fresh-sou,5607,1.0,1.0,211841.96
+FRECR,frecr,7386,1.0,1.0,95678.76
+FRES - FRSH.PST,fres-frsh.pst,8421,0.5,4.0,56716.46
+FRES-FRESH-PST,fres-fresh-pst,8421,1.0,4.0,67942.98
+FRES-HE/TORTILLA CRN SNCKS,fres-he/tortillacrnsncks,7818,1.0,1.0,36068.020000000004
+FRESH CR,freshcr,7386,1.0,1.0,122185.68
+FRESH MI,freshmi,,,,249231.13999999998
+FRESH-CRE,fresh-cre,7386,1.0,2.0,82600.34
+FRESH-HRBS,fresh-hrbs,7818,1.0,2.0,153128.02
+FRESH-MILK,fresh-milk,,,,36185.48
+FRESH-SOUP,fresh-soup,5607,1.0,1.0,129324.11
+FRESH.CR/CHIPS POTATO PR,fresh.cr/chipspotatopr,7386,1.0,2.0,101548.84
+FRESHMI + PLNTB   DRNKS,freshmi+plntbdrnks,3201,1.0,1.0,98667.27
+FRESHMI + PLNTB DRNKS,freshmi+plntbdrnks,3201,1.0,1.0,98667.27
+FRESHMI + PLNTB DRNKS ,freshmi+plntbdrnks,3201,1.0,1.0,98667.27
+FRESHMILK,freshmilk,3201,1.0,4.0,61972.87
+FRES_FRES-PAS,fres_fres-pas,8421,1.0,1.0,72807.42
+FRO-DESSERTS,fro-desserts,,,,35239.09
+FROZ DESSE,frozdesse,2500,1.0,2.0,140693.66
+FROZ-DESSE,froz-desse,,,,48423.08
+FROZ/FROZEN RDY MLS,froz/frozenrdymls,3961,0.6666666666666666,3.0,66604.31
+FROZ: PIZZA,froz:pizza,3961,0.5,2.0,101436.45
+FROZE FSH,frozefsh,,,,109914.47
+FROZE-DESSERTS,froze-desserts,,,,43074.78
+FROZE-VEGETABLES,froze-vegetables,1458,1.0,3.0,79589.73
+FROZE.DESS,froze.dess,,,,108747.42
+FROZE.DESSERTS,froze.desserts,2500,1.0,4.0,366975.74
+FROZEN FISH + PRAWNS SEAFOOD,frozenfish+prawnsseafood,9181,0.8,5.0,274154.74
+FROZEN READY MLS,frozenreadymls,3961,0.5,2.0,77459.97
+FROZEN-DE,frozen-de,2500,1.0,1.0,108163.36
+FROZEN-VEGETABLES,frozen-vegetables,1458,1.0,3.0,82979.22
+FROZEN.FISH,frozen.fish,9181,1.0,5.0,191857.59
+FROZEN/FRZN-READY-MLS,frozen/frzn-ready-mls,,,,218960.58
+FROZRDYMEALS,frozrdymeals,,,,11728.18
+FRO_FRZN   DSRTS,fro_frzndsrts,2500,1.0,2.0,118962.35
+FRO_FRZN DSRTS,fro_frzndsrts,2500,1.0,2.0,118962.35
+FRSH FRSH PASTA,frshfrshpasta,,,,59779.619999999995
+FRSH HERBS & STONE FRUIT,frshherbs&stonefruit,7818,1.0,1.0,41452.07
+FRSH SOUP,frshsoup,5607,1.0,1.0,37677.01
+FRSH SOUP AND WRPS FLTBR,frshsoupandwrpsfltbr,5607,0.5,2.0,266033.18
+FRSH SP/LE,frshsp/le,,,,39028.14
+FRSH-PAS,frsh-pas,8421,1.0,4.0,212703.13999999998
+FRSHPAS,frshpas,,,,85641.69
+FRSH_FRESH SOUP,frsh_freshsoup,5607,0.6666666666666666,3.0,139261.77
+FRT - APP-PEAR,frt-app-pear,,,,66912.18000000001
+FRT - CIT FRUIT,frt-citfruit,4548,1.0,3.0,14245.84
+FRT - ST.FRT,frt-st.frt,,,,37334.88
+FRT BERRI & CITR FRUIT,frtberri&citrfruit,1475,1.0,3.0,126544.18000000001
+FRT YOGUR,frtyogur,,,,74775.95
+FRT YOGURT,frtyogurt,7219,1.0,2.0,104007.35
+FRT/CITR-FRUIT,frt/citr-fruit,,,,37382.81
+FRU YOG,fruyog,,,,58670.44
+FRU YOGUR,fruyogur,,,,17300.41
+FRUIT > ST-FRT,fruit>st-frt,9644,1.0,1.0,36417.87
+FRUIT YGRT,fruitygrt,4439,1.0,1.0,51405.439999999995
+FRUIT YOGUR,fruityogur,,,,38077.67
+FRUIT YOGURT,fruityogurt,4439,1.0,5.0,116180.02
+FRUIT YOGURT  ,fruityogurt,4439,1.0,5.0,116180.02
+FRUIT-STONE.FRT,fruit-stone.frt,9644,1.0,1.0,39583.16
+FRUIT-YGRT,fruit-ygrt,,,,190065.82
+FRUIT/BER/Ext,fruit/ber/ext,1475,1.0,1.0,101395.24
+FRUIT/STN-FRUI,fruit/stn-frui,,,,71324.15
+FRUIT_CITFRT & BERR,fruit_citfrt&berr,,,,260347.00999999998
+FRUYOGURT,fruyogurt,,,,24846.43
+FRZN - FROZ DES,frzn-frozdes,,,,287216.32
+FRZN - PIZZA,frzn-pizza,3903,1.0,4.0,259439.9
+FRZN > FROZE.READY.MLS,frzn>froze.ready.mls,,,,29577.68
+FRZN FISH,frznfish,,,,67607.34
+FRZN READY MEALS,frznreadymeals,3961,1.0,1.0,29469.209999999995
+FRZN-DE,frzn-de,2500,1.0,2.0,63288.75
+FRZN-PIZZA,frzn-pizza,3903,1.0,4.0,259439.9
+FRZN-VEG,frzn-veg,,,,90804.56
+FRZN.DESSERTS,frzn.desserts,2500,0.6666666666666666,3.0,235942.12
+FRZN.FSH,frzn.fsh,9181,1.0,3.0,143792.56
+FRZN.RDY.MEA,frzn.rdy.mea,3961,1.0,4.0,228146.74
+FRZNVEGE + CHIP POT PRODU,frznvege+chippotprodu,1458,0.5,2.0,59987.909999999996
+FR_FRSH SOUP,fr_frshsoup,,,,61354.5
+FSH/SM.FIS,fsh/sm.fis,,,,36969.73
+Fabriccondi,fabriccondi,4024,1.0,2.0,138975.44
+Fd - Foil,fd-foil,3754,1.0,3.0,190657.63
+Fd - Sandwiches,fd-sandwiches,5088,0.5,2.0,82452.78
+Fd Foil And Sugar,fdfoilandsugar,7788,0.6666666666666666,3.0,97376.08
+Fd/Fl,fd/fl,3754,1.0,2.0,45286.35
+Feature space,featurespace,1458,0.4,5.0,97361.63
+Feature space Spring,featurespacespring,1273,0.25,4.0,208399.78
+Feature space WK42,featurespacewk42,9278,1.0,2.0,148763.86000000002
+Fish - Prwns Seaf,fish-prwnsseaf,5655,1.0,3.0,57963.99
+Fish > Pr-seafood,fish>pr-seafood,5655,1.0,3.0,170113.74
+Fish > Prawnssfd,fish>prawnssfd,,,,48292.28
+Fish: Prwns se,fish:prwnsse,,,,172049.34999999998
+Fish_Pra Sfd,fish_prasfd,5655,1.0,2.0,62805.36
+Fl > Trade,fl>trade,7623,1.0,1.0,99856.02
+Flav.mi,flav.mi,2033,1.0,3.0,35479.12
+Flavmilk & Fresh mil,flavmilk&freshmil,,,,83613.98
+Flavoured-mlk,flavoured-mlk,2033,1.0,1.0,44638.0
+Flo,flo,4977,1.0,2.0,139176.13
+Flou Foodservice,floufoodservice,7623,1.0,1.0,52282.630000000005
+Flour,flour,4977,1.0,2.0,82205.1
+Flour + Flour,flour+flour,,,,76004.15000000001
+Flour - Bulk,flour-bulk,,,,90089.78
+Flr,flr,4977,1.0,1.0,24124.96
+Flr_Bulk Family,flr_bulkfamily,7623,1.0,1.0,76481.57
+Fo - Foil,fo-foil,9123,1.0,1.0,232306.96000000002
+Fo/Coo Meats,fo/coomeats,,,,216381.27
+Fo_Foil,fo_foil,3754,1.0,7.0,93829.91
+Foi and Wht wi,foiandwhtwi,3754,0.6666666666666666,6.0,525708.35
+Foi: Grp 3,foi:grp3,5181,0.3333333333333333,3.0,78744.8
+Foo > Fl-Single,foo>fl-single,3754,1.0,1.0,45795.57
+Food/Foi,food/foi,3754,1.0,5.0,143604.51
+Food/Sandw,food/sandw,1273,0.5,2.0,141025.72
+Fr Fis + Beef,frfis+beef,,,,180076.95
+Fr Milk/Fruit Yogur,frmilk/fruityogur,3201,0.75,4.0,277089.79
+Fr yogurt,fryogurt,4439,1.0,2.0,100311.11
+Fr-rdy-mls + Pizza,fr-rdy-mls+pizza,,,,85679.69
+Fr.herb,fr.herb,7818,1.0,2.0,197765.13
+Fre-milk,fre-milk,3201,1.0,3.0,103665.15000000001
+Fre.cre,fre.cre,2033,0.5,2.0,34000.8
+Fres Fresh.pasta,fresfresh.pasta,,,,21794.15
+Fres milk,fresmilk,3201,1.0,2.0,69063.27
+Fres-crea,fres-crea,2033,1.0,1.0,46925.41
+Fresh   Mi,freshmi,,,,249231.13999999998
+Fresh Mi,freshmi,,,,249231.13999999998
+Fresh milk,freshmilk,3201,1.0,4.0,61972.87
+Fresh pst,freshpst,8421,1.0,3.0,93552.12
+Fresh-mlk,fresh-mlk,,,,28296.66
+Fresh.cre,fresh.cre,7386,1.0,1.0,11355.109999999999
+Fresh.herb,fresh.herb,7818,1.0,3.0,85094.44
+Freshcream,freshcream,,,,49605.93
+Fro Fsh,frofsh,9181,1.0,2.0,116817.93000000001
+Fro Rdy Meals,frordymeals,,,,98459.98
+Fro rdy mls/Pizza,frordymls/pizza,,,,297645.88
+Fro.dess,fro.dess,2500,1.0,5.0,161644.86000000002
+Fro: Frzn vgtbl,fro:frznvgtbl,,,,2162.57
+Froz - Chipsptprdct,froz-chipsptprdct,4761,0.6,5.0,155454.04
+Froz Desserts,frozdesserts,,,,16782.92
+Froz Ready Meals,frozreadymeals,3961,1.0,1.0,128370.08
+Froz Vgtbl,frozvgtbl,,,,132742.59
+Froz: Pizza,froz:pizza,3961,0.5,2.0,101436.45
+Froze-desserts And Ale   St,froze-dessertsandalest,,,,350521.02999999997
+Froze-desserts And Ale St,froze-dessertsandalest,,,,350521.02999999997
+Frozen - Frozenrdymls,frozen-frozenrdymls,3961,1.0,1.0,96793.41
+Frozen - Pizza,frozen-pizza,,,,154590.55
+Frozen Veget,frozenveget,1458,1.0,1.0,32138.22
+Frozen fish + Co mts,frozenfish+comts,,,,128461.11
+Frozen vgtbl,frozenvgtbl,1458,1.0,1.0,78411.67
+Frozen-fsh & Prwns seafo,frozen-fsh&prwnsseafo,,,,48302.27
+Frozen-rdy-meals,frozen-rdy-meals,,,,226371.72
+Frozen-ve,frozen-ve,,,,59882.93
+Frozen-ve ,frozen-ve,,,,59882.93
+Frozen.fis,frozen.fis,9181,1.0,1.0,45259.54
+Frozen.fsh,frozen.fsh,,,,41216.560000000005
+Frozen/Pizza and Frzn vgtbl,frozen/pizzaandfrznvgtbl,3903,1.0,1.0,49436.51
+Frsh Milk,frshmilk,3201,0.7142857142857143,7.0,214992.4
+Frsh Milk  ,frshmilk,3201,0.7142857142857143,7.0,214992.4
+Frsh cream,frshcream,8993,0.5,2.0,133869.86
+Frsh herbs & Stone fruit,frshherbs&stonefruit,7818,1.0,1.0,41452.07
+Frsh mlk,frshmlk,3201,1.0,2.0,66047.17
+Frsh pasta,frshpasta,,,,247391.6
+Frsh sp,frshsp,,,,106651.26
+Frsh-pst,frsh-pst,8421,1.0,4.0,134590.91999999998
+Frsh.mlk,frsh.mlk,3201,1.0,1.0,18616.97
+Frsh.sp,frsh.sp,5607,1.0,1.0,38440.17
+Frshmi,frshmi,3201,1.0,5.0,249486.84
+Frt - Stnfru,frt-stnfru,9644,1.0,7.0,303188.74
+Frt > Apple.pears,frt>apple.pears,,,,147845.49
+Frt > Berr,frt>berr,1475,1.0,4.0,47301.64
+Frt/Ap-pea,frt/ap-pea,7245,1.0,2.0,33426.83
+Frt/Apples.pears,frt/apples.pears,,,,10065.83
+Frt_Berri,frt_berri,,,,132197.06
+Fruit - Aplspears,fruit-aplspears,,,,358956.27
+Fruit - Brs,fruit-brs,1475,1.0,4.0,38911.79
+Fruit > Trpcl-fruit,fruit>trpcl-fruit,,,,175056.91
+Fruit Yogu,fruityogu,,,,105680.63
+Fruit: Citr-fr,fruit:citr-fr,,,,59218.82
+Frzn   rdy meals,frznrdymeals,3961,0.75,4.0,103722.61
+Frzn Des,frzndes,,,,51357.05
+Frzn Desse,frzndesse,,,,15495.439999999999
+Frzn Vgtbl,frznvgtbl,,,,53648.08
+Frzn rdy meals,frznrdymeals,3961,0.75,4.0,103722.61
+Frzn-veg/Chps pt produ,frzn-veg/chpsptprodu,1458,0.7142857142857143,7.0,345637.4
+Frzn/Fr.ready.meal,frzn/fr.ready.meal,3961,0.6666666666666666,3.0,173697.37
+Fsh - Frznfish,fsh-frznfish,9181,1.0,3.0,38904.92
+Fsh/Smo-fsh,fsh/smo-fsh,5970,1.0,3.0,282476.75
+GARL-BRD/MFNS CRMPT,garl-brd/mfnscrmpt,,,,222069.94
+GARL.BRD & ROL BAPS,garl.brd&rolbaps,,,,457254.79
+GARLI BRE,garlibre,6200,1.0,1.0,100489.28
+GARLI BRE  ,garlibre,6200,1.0,1.0,100489.28
+GARLI BREAD,garlibread,,,,66878.74
+GARLIC BRD,garlicbrd,,,,73117.03
+GRA MLN,gramln,,,,150239.88999999998
+GRAPE MELO,grapemelo,,,,46301.28
+GRAPESMELO,grapesmelo,,,,59489.34
+GRE,gre,1352,1.0,3.0,43753.75
+GRNS: OL,grns:ol,,,,108666.07
+GRPS-MELO,grps-melo,8174,1.0,1.0,11492.970000000001
+GRPS-MLN,grps-mln,8174,1.0,4.0,82823.94
+Gar Bread,garbread,6200,1.0,4.0,323532.01
+Gar.brea,gar.brea,6200,1.0,2.0,29220.75
+Gondola end Spring,gondolaendspring,2537,0.5,4.0,437555.31
+Gondola end WK16,gondolaendwk16,,,,500733.89
+Gr & Root ve - Prem,gr&rootve-prem,1352,0.8,5.0,79344.68
+Gree/Sndwc,gree/sndwc,,,,210296.11
+Green + Onions Grlc,green+onionsgrlc,,,,323270.43
+Greens,greens,1352,1.0,2.0,42442.48
+Grlc Bre,grlcbre,,,,42317.7
+Grmelon,grmelon,8174,0.6666666666666666,3.0,130922.79
+Grns,grns,,,,113387.19
+Grns > Wk,grns>wk,1352,1.0,1.0,56340.47
+Grps mel,grpsmel,8174,1.0,1.0,63081.240000000005
+HARD CHS,hardchs,2931,1.0,2.0,160407.13
+HER DRI.HER.SP,herdri.her.sp,,,,23329.54
+HM BKNG MI,hmbkngmi,3762,0.5,2.0,130244.09
+HMBAKINMIXES,hmbakinmixes,3762,1.0,1.0,106704.0
+HOM-BAKI-MXS,hom-baki-mxs,3762,1.0,4.0,185622.57
+HOMBAKINGMIXES,hombakingmixes,3762,1.0,1.0,245967.85
+HOMEBAKIMXS,homebakimxs,3762,0.6666666666666666,3.0,143072.94999999998
+HOMEBAKINMIXES,homebakinmixes,3762,0.75,4.0,308737.83
+HOMEBAMXS,homebamxs,3762,1.0,3.0,52915.31
+HOT > COFFEE/SQSH,hot>coffee/sqsh,,,,61450.520000000004
+HOT > HOT CHOCO,hot>hotchoco,7773,1.0,3.0,101121.26000000001
+HOT CH,hotch,,,,511347.61
+HOT CHOC,hotchoc,7773,0.5,4.0,190916.91
+HOT TEA,hottea,4274,1.0,2.0,144040.24
+HOT-CHCLT + TEA,hot-chclt+tea,,,,89308.20000000001
+HOT.CH,hot.ch,,,,53732.5
+HOT.CHOCOLATE,hot.chocolate,7773,1.0,1.0,30504.12
+HOT/TEA,hot/tea,,,,812400.25
+HOT: TEA + LAGER/Lge,hot:tea+lager/lge,8945,1.0,1.0,94431.81
+HOTCHO,hotcho,7773,1.0,4.0,140305.93
+HOTCHOCOLATE,hotchocolate,7773,1.0,2.0,207501.24
+HOT_CF,hot_cf,,,,8667.14
+HOT_CO,hot_co,,,,177820.06999999998
+HOT_COFF,hot_coff,9269,1.0,1.0,14281.19
+HOT_TEA,hot_tea,4274,1.0,1.0,169381.41
+HR > SHA CNDTN,hr>shacndtn,5471,1.0,2.0,36790.5
+HR-SHCONDITIONER & LNDRY LQD CAPSULES,hr-shconditioner&lndrylqdcapsules,5471,0.6666666666666666,6.0,111781.44
+HRBS > DRD HERBS SPICE,hrbs>drdherbsspice,6054,1.0,4.0,146565.4
+HRBS DRD HERBS SPCS,hrbsdrdherbsspcs,6054,1.0,4.0,179277.23
+Her > Drd.hrbs.spices,her>drd.hrbs.spices,6054,1.0,1.0,15904.23
+Herbs: Drd.hrbs.spices,herbs:drd.hrbs.spices,,,,671821.26
+Hm.baki.mix,hm.baki.mix,,,,82923.66
+Hm.bakin.mixes,hm.bakin.mixes,,,,466757.44
+Hom-bkng-mxs: Lemo,hom-bkng-mxs:lemo,3762,1.0,1.0,39043.74
+Home Baking Mxs,homebakingmxs,3762,1.0,4.0,281882.66
+Home bkng mixes,homebkngmixes,4977,1.0,1.0,169488.93
+Home.baking.mxs,home.baking.mxs,3762,1.0,1.0,50620.44
+Hot - Hot Chocolate And Co,hot-hotchocolateandco,,,,137159.15
+Hot - Tea > X,hot-tea>x,4274,1.0,1.0,25280.04
+Hot > Coffee,hot>coffee,9269,1.0,2.0,59574.78
+Hot > Tea >   Ambient,hot>tea>ambient,4274,1.0,4.0,104972.54
+Hot > Tea > Ambient,hot>tea>ambient,4274,1.0,4.0,104972.54
+Hot chclt,hotchclt,7773,1.0,3.0,202577.99
+Hot cho,hotcho,7773,1.0,4.0,140305.93
+Hot-Cof,hot-cof,,,,44643.1
+Hot.cho,hot.cho,,,,60943.96
+Hot.choc,hot.choc,,,,57519.56999999999
+Hot/Coffee & Hot choc Imp,hot/coffee&hotchocimp,9269,1.0,2.0,50330.93
+Hot/hot.cho,hot/hot.cho,7773,1.0,1.0,21010.949999999997
+Hot: Hot.chclt,hot:hot.chclt,7773,1.0,1.0,57253.69
+Hot: Hot.cho,hot:hot.cho,7773,1.0,1.0,77347.05
+Hot_Tea_Sml,hot_tea_sml,4274,1.0,5.0,103104.91
+Hrbs   > Driherbsspi & Tnd Veget,hrbs>driherbsspi&tndveget,6054,0.6666666666666666,3.0,184704.81
+Hrbs > Driherbsspi & Tnd Veget,hrbs>driherbsspi&tndveget,6054,0.6666666666666666,3.0,184704.81
+ICE   CREAM_Imp,icecream_imp,,,,239871.4
+ICE > ICE.CREAM AND FRZN READY MEALS,ice>ice.creamandfrznreadymeals,,,,175058.61000000002
+ICE CREAM_Imp,icecream_imp,,,,239871.4
+ICE CREAM_Imp ,icecream_imp,,,,239871.4
+ICE ICE CRE & ICE LS,iceicecre&icels,,,,125712.01
+ICE ICE.LS,iceice.ls,8506,1.0,2.0,91114.26
+ICE LOLLIES,icelollies,8506,1.0,4.0,116206.68000000001
+ICE-CRE,ice-cre,6425,1.0,2.0,125290.79000000001
+ICE-CREAM,ice-cream,6425,1.0,1.0,41956.95
+ICE-ICE.CREAM,ice-ice.cream,6425,1.0,1.0,10840.01
+ICE.LO,ice.lo,8506,1.0,2.0,60414.24
+ICE/ICE CR - Basic,ice/icecr-basic,6425,1.0,3.0,150528.22999999998
+ICE: ICE CRM/HOME BAK MXS,ice:icecrm/homebakmxs,,,,196173.99
+ICECRE,icecre,6425,1.0,1.0,61302.03
+ICECREAM,icecream,,,,1571322.05
+ICECRM,icecrm,,,,139038.71
+Ice - Ice Cream,ice-icecream,,,,45018.32
+Ice - Ice-cream,ice-ice-cream,6425,1.0,1.0,59378.57
+Ice > Ice lollies,ice>icelollies,8506,1.0,2.0,65886.42
+Ice Lolli,icelolli,8506,0.6666666666666666,3.0,123963.12
+Ice Lolli  ,icelolli,8506,0.6666666666666666,3.0,123963.12
+Ice crea,icecrea,6425,0.75,4.0,214174.47999999998
+Ice-crea,ice-crea,6425,1.0,3.0,230176.13999999998
+Ice-crm,ice-crm,,,,33122.5
+Ice_Ice crm,ice_icecrm,6425,0.625,8.0,883969.18
+Icecr,icecr,6425,1.0,6.0,106094.89
+Icecream And Ice Lolli,icecreamandicelolli,,,,125866.12000000001
+JC ORAN JUI,jcoranjui,1919,1.0,1.0,35011.62
+JC-SMTHS,jc-smths,6975,1.0,3.0,82375.69
+JC: OTHR JU,jc:othrju,,,,19297.09
+JU > SMTHS,ju>smths,,,,164644.83000000002
+JU > SMTHS ,ju>smths,,,,164644.83000000002
+JUIC > SM,juic>sm,,,,24716.980000000003
+JUICE - ORNG.JUICE,juice-orng.juice,,,,105107.09
+JUICE - SMTHS,juice-smths,6975,1.0,2.0,209520.27
+JUICE/SMOOTHIES,juice/smoothies,6975,1.0,1.0,152688.36000000002
+Jc/Smoo,jc/smoo,6975,1.0,1.0,53894.9
+Ju Smoothies-Deli,jusmoothies-deli,6975,1.0,1.0,15749.3
+Juice/Smths,juice/smths,6975,1.0,2.0,46542.84
+Juice: Orng.juic,juice:orng.juic,1919,1.0,2.0,53194.14
+Juice: Smths,juice:smths,6975,1.0,5.0,224469.55
+KITCHEN RO,kitchenro,,,,62931.74
+KITCHEN ROLL,kitchenroll,,,,21697.12
+KITCHENROL,kitchenrol,5181,1.0,1.0,29694.91
+Kitchenrl,kitchenrl,5181,0.8333333333333334,6.0,179566.88
+LA,la,2980,1.0,1.0,47782.33
+LA Chilled,lachilled,5824,1.0,1.0,118894.36
+LA Wk,lawk,2980,0.8571428571428571,7.0,402531.16
+LA Wk  ,lawk,2980,0.8571428571428571,7.0,402531.16
+LAGER,lager,8945,1.0,4.0,430898.39
+LAGER - Classic,lager-classic,,,,66664.01000000001
+LAM Deli,lamdeli,2980,1.0,2.0,121477.53
+LAMB,lamb,2980,1.0,2.0,75043.86
+LAUN > LAUN-LQD-CPSLS,laun>laun-lqd-cpsls,2793,1.0,1.0,62555.68
+LAUN: WASHI PWDR,laun:washipwdr,5401,1.0,3.0,99149.48
+LAUND LAUN-LQD-CAPSULES,laundlaun-lqd-capsules,2793,1.0,1.0,79175.97
+LAUNDRY LI CAPS,laundrylicaps,,,,5068.25
+LAUNDRY LIQUID CAPSULES,laundryliquidcapsules,2793,1.0,3.0,62538.11
+LAUNDRYLIQUICAP,laundryliquicap,2793,1.0,1.0,104374.7
+LGR,lgr,8945,1.0,2.0,59638.54
+LGR > Organic,lgr>organic,,,,3407.29
+LMB + CHCKN,lmb+chckn,2980,1.0,1.0,133425.5
+LMB > Value,lmb>value,9318,1.0,1.0,83227.45999999999
+LNDRY LIQUID CPSLS,lndryliquidcpsls,2793,1.0,3.0,232289.85
+LNDRY.LIQU.CPSLS,lndry.liqu.cpsls,2793,1.0,1.0,87318.0
+La - Laundry liquid cpsls,la-laundryliquidcpsls,2793,1.0,2.0,86996.75
+Lam,lam,2980,1.0,1.0,13733.23
+Launches Oct,launchesoct,6788,0.5,2.0,0.0
+Laund-Fbrcco,laund-fbrcco,,,,20949.82
+Laundry - Laun.liqu.caps,laundry-laun.liqu.caps,2793,1.0,4.0,92184.34
+Laundry/Washing powder + Laundry liquid cap,laundry/washingpowder+laundryliquidcap,5401,0.5,2.0,45802.75
+Lmb + Prk,lmb+prk,,,,279453.75
+Lmb + Sau,lmb+sau,,,,68733.04000000001
+Lndry Li Caps,lndrylicaps,2793,0.5,2.0,569111.2
+Lndry Li Caps ,lndrylicaps,2793,0.5,2.0,569111.2
+ME > BACO,me>baco,,,,123173.59
+ME > PORK,me>pork,,,,996232.6
+ME-LMB,me-lmb,,,,67550.68000000001
+ME: ME + PET CARE-Export,me:me+petcare-export,1238,1.0,2.0,392623.27
+MEA BACON/Imported,meabacon/imported,9205,1.0,1.0,62813.3
+MEAT,meat,,,,10573.12
+MEAT PORK Select,meatporkselect,,,,98081.09
+MEAT-,meat-,1238,1.0,4.0,124983.2
+MEAT- - MEAT-FREE & GRA MLN,meat--meat-free&gramln,1238,0.6666666666666666,3.0,113718.8
+MEAT--MEAT-,meat--meat-,1238,1.0,3.0,141917.87
+MEAT-/Std Range,meat-/stdrange,1238,1.0,2.0,29599.7
+MEAT-: MTFR,meat-:mtfr,1238,1.0,2.0,97853.24
+MEAT-BCN,meat-bcn,4045,0.6666666666666666,3.0,166192.19
+MEAT-FREE,meat-free,1238,1.0,1.0,24518.98
+MEAT-FREE  ,meat-free,1238,1.0,1.0,24518.98
+MEAT-FREE MEA,meat-freemea,1238,1.0,2.0,240040.38
+MEAT-FREE Sml,meat-freesml,1238,1.0,4.0,120190.06
+MEAT-FREE_MEAT-,meat-free_meat-,1238,0.6666666666666666,3.0,73111.84
+MEAT-_MEAT,meat-_meat,1238,1.0,1.0,17729.17
+MEAT/BACO - Prem Range,meat/baco-premrange,9205,1.0,1.0,123615.06
+MEAT/PORK & SA,meat/pork&sa,5856,0.75,4.0,162299.08
+MEAT: BACON,meat:bacon,9205,0.7272727272727273,11.0,339659.9
+MEAT: MEAT-FREE-Ambient,meat:meat-free-ambient,1238,1.0,1.0,29720.33
+MEAT_LMB,meat_lmb,,,,14270.45
+MILK PLANT-BASED.DR,milkplant-based.dr,,,,64998.06
+MILK/FR-MILK,milk/fr-milk,,,,382142.16000000003
+MILK/PL DRINKS,milk/pldrinks,5179,1.0,2.0,45105.1
+MIL_FLAVO-MILK_STRAWBERRY,mil_flavo-milk_strawberry,2033,1.0,5.0,105280.42
+MISC,misc,1387,0.6666666666666666,3.0,311261.21
+MISC - OTHER,misc-other,8174,0.6666666666666666,3.0,339688.99
+MISC - OTHER - chilled,misc-other-chilled,6975,0.25,4.0,408995.95
+MISC - OTHER - drinks,misc-other-drinks,2033,0.5,4.0,69597.95999999999
+MISC - OTHER 2,misc-other2,4748,0.5,4.0,251389.37
+MISC - OTHER 6,misc-other6,3791,0.5,4.0,138462.71
+MOR: MFNS-CRUMPETS,mor:mfns-crumpets,9870,0.75,4.0,210531.02
+MORNING SCNS-TCKS,morningscns-tcks,1150,1.0,2.0,229734.37
+MORNING/CROISSANTS PSTRS + MUFF CRUMPETS,morning/croissantspstrs+muffcrumpets,9870,0.75,4.0,128592.97
+MORN_CRSNT PASTRIES,morn_crsntpastries,1416,1.0,3.0,192230.85
+MRNG SCONESTEACAKES,mrngsconesteacakes,,,,47418.91
+MRNG_CROISSANTS PASTR,mrng_croissantspastr,,,,159686.05
+MRNG_SCONES-TEACAKES,mrng_scones-teacakes,,,,80269.05
+MSHRM,mshrm,8530,1.0,3.0,140398.11
+MSHRM/COTTAGE CHS,mshrm/cottagechs,8530,1.0,1.0,95597.40000000001
+MT - BACON,mt-bacon,9205,0.5,6.0,207265.86
+MT > SAUSAGES,mt>sausages,6450,1.0,1.0,47710.39
+MT SAUSAGES,mtsausages,6450,1.0,1.0,107647.25
+MT: BAC,mt:bac,9205,1.0,6.0,290840.59
+MT: BACON,mt:bacon,9205,1.0,1.0,62026.46
+MTFR,mtfr,,,,42851.75
+MTFR AND ORNG JC > Prem Range,mtfrandorngjc>premrange,,,,41877.78
+MTFR-MTFR,mtfr-mtfr,1238,1.0,2.0,181580.03
+MTFR/MEAT,mtfr/meat,1238,1.0,2.0,32165.65
+MTFR/MEAT-FREE,mtfr/meat-free,1238,1.0,3.0,107308.38
+MTFR: MTFR,mtfr:mtfr,,,,347830.57
+MT_BACON,mt_bacon,9205,1.0,1.0,69949.83
+MT_BEEF & LAMB,mt_beef&lamb,,,,61939.41
+MT_SA & BACON,mt_sa&bacon,6450,1.0,1.0,95163.20999999999
+MUFFINS CRUMPETS,muffinscrumpets,9870,0.7777777777777778,9.0,376170.58
+MUFFINSCRMPT,muffinscrmpt,9870,1.0,2.0,85010.46
+MUSHR,mushr,4818,1.0,2.0,67537.59
+MUSHROOMS & DPS,mushrooms&dps,2154,1.0,1.0,55169.5
+Me,me,,,,44516.93
+Me Lamb,melamb,2980,1.0,2.0,122893.35
+Mea,mea,1238,1.0,1.0,31894.66
+Mea & Pz,mea&pz,,,,164131.8
+Mea Ba,meaba,,,,3293.4
+Mea/Sausa,mea/sausa,6450,1.0,1.0,120411.93000000001
+Meat   Bacon + Lam,meatbacon+lam,,,,66200.4
+Meat > Pork,meat>pork,,,,113359.29999999999
+Meat > Sausa,meat>sausa,6450,0.5,2.0,244367.23
+Meat > Sgs,meat>sgs,6450,1.0,2.0,41243.630000000005
+Meat Bacon + Lam,meatbacon+lam,,,,66200.4
+Meat Meat--Grp 1,meatmeat--grp1,,,,146622.64
+Meat- > Grp 1,meat->grp1,,,,76254.79
+Meat-/Dips,meat-/dips,1238,1.0,1.0,45256.56
+Meat-/Dips  ,meat-/dips,1238,1.0,1.0,45256.56
+Meat-/dips,meat-/dips,1238,1.0,1.0,45256.56
+Meat-free/Family,meat-free/family,,,,51205.54
+Meat: Bcn,meat:bcn,,,,556687.4
+Meat: La,meat:la,2980,1.0,2.0,24127.78
+Meat_Lamb,meat_lamb,,,,46131.86
+Mfns crmpt,mfnscrmpt,,,,148073.54
+Milk-Plan Drnks,milk-plandrnks,5179,0.6666666666666666,3.0,169315.66999999998
+Misc - frozen,misc-frozen,,,,240159.99000000002
+Misc lines,misclines,3117,0.5,2.0,247277.21
+Misc lines (old),misclines(old),,,,117229.25
+Misc lines 8,misclines8,6845,0.5,4.0,193611.13999999998
+Misc. (old),misc.(old),7219,1.0,1.0,148018.45
+Miscellaneous (old),miscellaneous(old),,,,69066.91
+Miscellaneous - ambient,miscellaneous-ambient,,,,196268.54
+Miscellaneous - drinks,miscellaneous-drinks,6663,0.5,2.0,137121.17
+Mlk/Flvrdmilk,mlk/flvrdmilk,2033,1.0,3.0,54572.56
+Mlk/Flvrdmilk ,mlk/flvrdmilk,2033,1.0,3.0,54572.56
+Mo Scns.teacakes/Muffins Crmpt,moscns.teacakes/muffinscrmpt,,,,57968.950000000004
+Mo/Croissants pastr + Muffins cr,mo/croissantspastr+muffinscr,,,,80009.42
+Mo_Scns-teaca,mo_scns-teaca,,,,134422.04
+Mor-Crsnt-pstrs,mor-crsnt-pstrs,,,,126799.03
+Mor: Crsnt-pastries And Fr Crea,mor:crsnt-pastriesandfrcrea,,,,82165.55
+Morni > Cro-past,morni>cro-past,1416,1.0,3.0,525127.38
+Morning: Croissants-pastries,morning:croissants-pastries,9870,1.0,1.0,55176.59
+Mt - Bcn Prem,mt-bcnprem,9205,1.0,1.0,17952.91
+Mt > Por,mt>por,5856,1.0,3.0,147245.03
+Mt Lamb,mtlamb,2980,1.0,2.0,72489.51
+Mt-Beef/Coo Meat,mt-beef/coomeat,,,,328953.81
+Mt_Beef,mt_beef,4045,1.0,2.0,152714.16
+Mt_Lamb/Range A,mt_lamb/rangea,,,,53183.06
+Mtfr - Meat,mtfr-meat,1238,1.0,3.0,126589.38
+Mtfr > Local,mtfr>local,1238,1.0,1.0,14678.64
+Mtfr Me: Prem   Range,mtfrme:premrange,,,,59103.13
+Mtfr Me: Prem Range,mtfrme:premrange,,,,59103.13
+Mtfr/Sandwiches,mtfr/sandwiches,1273,1.0,1.0,58523.25
+Mu,mu,8530,1.0,2.0,95819.38
+Muffins Cr And Whole Cks,muffinscrandwholecks,9870,1.0,1.0,188203.06
+Mushrooms,mushrooms,,,,91596.34000000001
+NA.YOGUR,na.yogur,7219,1.0,2.0,16457.760000000002
+NAP-WIPES AND PET CARE,nap-wipesandpetcare,,,,683600.9
+NAPP-WPS,napp-wps,8762,1.0,4.0,174693.83
+NAPP.WIP,napp.wip,8762,1.0,1.0,144805.47
+NAPP.WIPES,napp.wipes,8762,1.0,1.0,141568.02
+NAPPIES-WIPE & DOG FOOD,nappies-wipe&dogfood,8762,1.0,1.0,29700.7
+NAPPIES-WIPES,nappies-wipes,8762,1.0,2.0,115999.01999999999
+NAPPIES.WIPES,nappies.wipes,8762,1.0,3.0,84281.65
+NATUR YOGU,naturyogu,7219,1.0,2.0,226758.7
+NATUR YOGURT,naturyogurt,,,,139989.08000000002
+NATUR YOGURT  ,naturyogurt,,,,139989.08000000002
+NATYOGURT,natyogurt,,,,22630.949999999997
+NDLS,ndls,4718,0.6,5.0,212984.5
+NEW LINES May,newlinesmay,5756,1.0,1.0,0.0
+NEW PRODUCTS,newproducts,2931,1.0,1.0,0.0
+NEW PRODUCTS - non-food,newproducts-non-food,9318,1.0,2.0,0.0
+NEW PRODUCTS Q4,newproductsq4,3903,0.25,4.0,0.0
+NEW PRODUCTS Sept,newproductssept,5655,0.25,4.0,0.0
+NO,no,4718,1.0,4.0,48623.530000000006
+NOOD: Range B,nood:rangeb,4718,1.0,2.0,113625.92
+NPS WPS/BABY FOO,npswps/babyfoo,,,,363906.65
+NPS.WIPE,nps.wipe,,,,265716.24
+NPS.WIPES,nps.wipes,,,,119286.31999999999
+NTRL YOG,ntrlyog,,,,275181.14
+NTRL YOGURT,ntrlyogurt,7219,1.0,2.0,101095.77
+NU,nu,9983,1.0,1.0,93747.06999999999
+NU + CRISPS,nu+crisps,9983,1.0,1.0,121941.64
+NU Family,nufamily,9983,1.0,1.0,90061.08
+NU-Org,nu-org,,,,181699.75
+NUT: Sub,nut:sub,,,,34563.63
+NUTS - Value,nuts-value,9983,1.0,1.0,137638.27
+Na-yogurt,na-yogurt,,,,24445.37
+Na.ygrt + Fru Yogu,na.ygrt+fruyogu,,,,271254.21
+Na.yogurt,na.yogurt,7219,1.0,1.0,41932.57
+Nap-wipes,nap-wipes,,,,15709.720000000001
+Nappies wipes Plus,nappieswipesplus,,,,247503.7
+Nappies-wipe,nappies-wipe,,,,140095.07
+Nappiwipes,nappiwipes,,,,20495.2
+Napwipes,napwipes,8762,1.0,1.0,11606.92
+Natural ygrt,naturalygrt,7219,1.0,3.0,86142.34999999999
+Natural-ygrt,natural-ygrt,7219,1.0,4.0,355654.46
+Natural.yog,natural.yog,7219,1.0,1.0,120413.97
+Naturalyogu & Fru Ygrt,naturalyogu&fruygrt,,,,43482.77
+New Lines,newlines,2931,0.8333333333333334,6.0,0.0
+New Lines Q3,newlinesq3,5607,0.3333333333333333,6.0,0.0
+New Lines Q4,newlinesq4,8364,1.0,1.0,0.0
+New in,newin,6845,0.5,6.0,0.0
+New in - chilled,newin-chilled,3682,1.0,1.0,0.0
+New in Q1,newinq1,2768,0.5,2.0,0.0
+New lines - pending,newlines-pending,5747,0.5,2.0,0.0
+New lines - pending - chilled,newlines-pending-chilled,1201,0.25,4.0,0.0
+New lines - pending Jan,newlines-pendingjan,5655,0.4,5.0,0.0
+New lines - pending Jul,newlines-pendingjul,8882,0.5,4.0,0.0
+New lines - pending Q4,newlines-pendingq4,5856,0.6666666666666666,3.0,0.0
+New listings - ambient,newlistings-ambient,5471,1.0,1.0,0.0
+New listings - frozen,newlistings-frozen,1365,0.5,2.0,0.0
+New listings Q3,newlistingsq3,2674,0.5,2.0,0.0
+No/World foods,no/worldfoods,,,,196222.04
+Noo,noo,,,,214149.93
+Nood,nood,4718,1.0,3.0,93353.66
+Noodl,noodl,,,,116064.81
+Noodles,noodles,4718,1.0,1.0,103000.82
+Nps Wps,npswps,2870,0.6,5.0,186204.42
+Nps-wip,nps-wip,8762,1.0,3.0,91134.09
+Npswipes,npswipes,8762,1.0,1.0,93428.64
+Ntrl Yo,ntrlyo,,,,55469.0
+Ntrl-yogurt,ntrl-yogurt,,,,161251.16
+Ntrl.yo,ntrl.yo,,,,51760.0
+Ntrl.yog,ntrl.yog,7219,1.0,1.0,55571.9
+Ntrlygrt,ntrlygrt,7219,1.0,4.0,88665.05
+Ntrlyogur,ntrlyogur,7219,1.0,1.0,83810.12
+Nts - Imp,nts-imp,9983,1.0,1.0,31544.940000000002
+Nts/Chi Rdy Meals,nts/chirdymeals,,,,106334.49
+Nut,nut,9983,1.0,1.0,27500.48
+Nut Select,nutselect,,,,58518.83
+Nuts,nuts,,,,83476.56999999999
+Nuts & Cr,nuts&cr,,,,187180.27
+Nuts-Imported,nuts-imported,,,,63078.96
+OIL,oil,,,,131015.0
+OIL - Range C,oil-rangec,7014,1.0,3.0,65483.090000000004
+OIL AND OIL: LGE PK,oilandoil:lgepk,9991,1.0,1.0,32550.89
+OIL: OIL,oil:oil,9991,1.0,3.0,31059.95
+OILS > OIL,oils>oil,7014,1.0,2.0,28016.760000000002
+OILS/OIL/CTR,oils/oil/ctr,9991,1.0,1.0,37725.37
+OILS: OIL-Plus,oils:oil-plus,,,,212344.57
+OLS/OIL,ols/oil,,,,11959.86
+ONIO-GARLIC,onio-garlic,4818,0.6666666666666666,3.0,53328.4
+ONIONS-GA,onions-ga,,,,12975.1
+ONS GARLIC,onsgarlic,4818,1.0,6.0,194282.93
+ONSGARLIC,onsgarlic,4818,1.0,6.0,194282.93
+ORANGJC,orangjc,,,,22926.92
+ORNG JUICE,orngjuice,1919,1.0,6.0,345878.76
+ORNG-JUICE & SMTHS,orng-juice&smths,,,,78661.79
+ORNG.JUI,orng.jui,1919,1.0,4.0,159626.52
+OTHR JUICES,othrjuices,8882,1.0,4.0,57711.17
+Oil,oil,,,,131015.0
+Oil Std,oilstd,7014,1.0,1.0,116860.37
+Oil-Foodservice,oil-foodservice,9991,1.0,2.0,28184.82
+Oil-Oil/Oil,oil-oil/oil,,,,141211.59
+Oil/Range A,oil/rangea,7014,1.0,2.0,65392.869999999995
+Oil: Local,oil:local,7014,1.0,1.0,34691.29
+Oils Oil,oilsoil,,,,516609.54
+Oils-Oil-Foodservice,oils-oil-foodservice,7014,0.75,4.0,41104.61
+Ols: Oil,ols:oil,7014,0.5,4.0,74976.8
+Ols_Oil/Oil_CTR,ols_oil/oil_ctr,,,,126478.3
+Orang.juice,orang.juice,6845,1.0,1.0,81927.58
+Orange Juice,orangejuice,,,,80966.69
+Orange.juice & Smths,orange.juice&smths,6975,0.5,2.0,65658.72
+Orangejuice,orangejuice,,,,80966.69
+Orngjuice,orngjuice,1919,1.0,6.0,345878.76
+Oth juices & Ora jui,othjuices&orajui,,,,145765.95
+Other-juice & Smths,other-juice&smths,,,,72608.94
+PA,pa,1565,1.0,1.0,54046.47
+PA-TLTROL,pa-tltrol,5181,1.0,1.0,160507.51
+PA: KIT RL,pa:kitrl,5181,1.0,1.0,38408.68
+PAPE-TS,pape-ts,,,,21842.61
+PAPER - TOILET ROL,paper-toiletrol,3615,1.0,1.0,59842.71000000001
+PAPER TLTRL & KTCHN ROL,papertltrl&ktchnrol,,,,30439.46
+PAPER: TLT.RL,paper:tlt.rl,5181,1.0,1.0,142077.04
+PAPER_TIS + TND FRUIT,paper_tis+tndfruit,,,,69254.18
+PAPE_KTCHN RL,pape_ktchnrl,5181,0.8,5.0,175239.84
+PAPE_TS,pape_ts,9640,1.0,1.0,44694.73
+PAS - LGE PK,pas-lgepk,,,,164523.83000000002
+PAS SAUCES,passauces,,,,35255.96
+PAS-PST_Sml,pas-pst_sml,1565,1.0,3.0,334700.33
+PAST,past,,,,203014.96999999997
+PAST SAUCE - BA,pastsauce-ba,9535,1.0,3.0,245017.25
+PASTA,pasta,8868,1.0,1.0,17275.4
+PASTA-PASTA,pasta-pasta,1565,1.0,2.0,63741.530000000006
+PASTA.SAUCES,pasta.sauces,9535,1.0,1.0,51249.63
+PASTSCS,pastscs,,,,72295.61
+PA_LGE PK,pa_lgepk,8868,1.0,1.0,41273.14
+PCKLS CONDIMENTS,pcklscondiments,9023,1.0,7.0,358542.38
+PCKLS-CNDMN,pckls-cndmn,9023,1.0,1.0,79165.23
+PCKLS-COND,pckls-cond,9023,1.0,2.0,340914.1
+PCKLS-CONDIMENTS & PST SAUCES,pckls-condiments&pstsauces,,,,74547.48
+PCKLSCNDMN,pcklscndmn,9023,0.6666666666666666,3.0,1109064.5
+PCRN PR,pcrnpr,4803,1.0,2.0,159818.16
+PCRN PRET,pcrnpret,4803,1.0,2.0,53867.12
+PCRNPRET,pcrnpret,4803,1.0,2.0,53867.12
+PE > PET-CARE,pe>pet-care,,,,358215.57999999996
+PEPPE-CHLS AND MUS,peppe-chlsandmus,8530,0.6666666666666666,3.0,81346.94
+PEPPERS-CHI,peppers-chi,,,,174267.03
+PEPPERS.CH/PORR,peppers.ch/porr,5747,0.75,4.0,238002.84
+PET - CAT.FD/DOG FD,pet-cat.fd/dogfd,1387,0.6,5.0,405734.43
+PET CARE-Family,petcare-family,,,,72372.8
+PET CR,petcr,,,,89345.63
+PET CR: Select,petcr:select,7333,1.0,2.0,75130.01
+PET PET.CA,petpet.ca,7333,1.0,1.0,79002.38
+PET-CA,pet-ca,7333,1.0,4.0,135482.61000000002
+PET-CA > Sub,pet-ca>sub,7333,1.0,1.0,40897.38
+PET-CARE,pet-care,,,,161797.76
+PET-CARE/Y,pet-care/y,7333,1.0,10.0,217390.61
+PET-CARE: Spec,pet-care:spec,7333,1.0,3.0,223890.3
+PET-CR,pet-cr,,,,36848.86
+PET.CR > Wk,pet.cr>wk,7333,1.0,1.0,144346.66
+PETCARE Local,petcarelocal,7333,1.0,3.0,135163.29
+PETCR,petcr,,,,89345.63
+PETS > CAT-FD,pets>cat-fd,6111,1.0,1.0,178420.6
+PETS > PET-CARE & DOG FOOD,pets>pet-care&dogfood,,,,103931.94
+PETS > PET.CARE,pets>pet.care,7333,0.5,2.0,31327.26
+PETS-PET-CR,pets-pet-cr,,,,70150.94
+PETS/CAT.FD,pets/cat.fd,6111,1.0,3.0,46084.04
+PETS/PET CARE,pets/petcare,7333,1.0,4.0,151139.09
+PETS_PET CR-Sub,pets_petcr-sub,7333,1.0,1.0,69104.8
+PET_CAT FO,pet_catfo,1387,0.5,4.0,344493.71
+PET_CAT FO  ,pet_catfo,1387,0.5,4.0,344493.71
+PI CON,picon,,,,78222.16
+PICK CONDI,pickcondi,9023,1.0,2.0,164216.68
+PICKLCONDIMENTS,picklcondiments,9023,1.0,1.0,67559.62999999999
+PICKLES-CONDI,pickles-condi,9023,1.0,1.0,115545.53
+PIES - SVRY PIES,pies-svrypies,,,,59207.71
+PIES SVRYPIES,piessvrypies,,,,53370.62
+PIZZA,pizza,,,,67689.97
+PIZZA-HAM,pizza-ham,3903,1.0,1.0,16129.97
+PL DRINK,pldrink,5179,1.0,3.0,101781.5
+PLANDRINKS,plandrinks,,,,135100.09
+PLANT-BASED.DRNKS,plant-based.drnks,5179,0.5,4.0,505102.88
+PLNTB-DR/FRESH   MIL,plntb-dr/freshmil,5179,0.8571428571428571,7.0,106274.72
+PLNTB-DR/FRESH MIL,plntb-dr/freshmil,5179,0.8571428571428571,7.0,106274.72
+PLS GRAIN,plsgrain,,,,562686.16
+PLS GRNS,plsgrns,9228,1.0,1.0,97585.35
+POPC   PRTZL,popcprtzl,4803,1.0,1.0,179249.97
+POPC PRTZL,popcprtzl,4803,1.0,1.0,179249.97
+POR,por,8689,1.0,1.0,10366.64
+PORK,pork,5856,1.0,2.0,79440.29000000001
+PORR,porr,,,,64887.76
+PORR & CERE > Grp 3,porr&cere>grp3,,,,34505.52
+PORRIDGE + CEREALS,porridge+cereals,,,,394091.83999999997
+PORRIDGE/TOMATOES,porridge/tomatoes,6663,1.0,1.0,23310.08
+POTA,pota,9123,1.0,1.0,66051.12
+POTAT,potat,,,,20553.059999999998
+POTATOES AND SLD,potatoesandsld,9123,1.0,3.0,233525.6
+PR KITCHEN-ROLL,prkitchen-roll,,,,139264.66
+PR SEAFOOD,prseafood,5655,1.0,2.0,55339.06
+PR.SALADS,pr.salads,,,,74012.59
+PR/TOI RL,pr/toirl,3615,1.0,1.0,96933.44
+PR: TISS,pr:tiss,9640,1.0,1.0,113230.18
+PR: TS,pr:ts,9640,1.0,1.0,90104.53
+PRAWN.SEAF,prawn.seaf,5655,1.0,1.0,76924.73999999999
+PRE SALAD,presalad,,,,31978.3
+PRE.SLDS,pre.slds,5088,1.0,3.0,181041.95
+PREPARED SALA,preparedsala,8421,0.6666666666666666,3.0,104357.73
+PREPARED-SA,prepared-sa,,,,137489.66999999998
+PREPARED.SALADS,prepared.salads,2154,0.5,2.0,33663.4
+PREPAREDSALA,preparedsala,8421,0.6666666666666666,3.0,104357.73
+PREPAREDSLDS,preparedslds,5088,1.0,1.0,238527.77000000002
+PRESLDS Core,presldscore,5088,0.5555555555555556,9.0,814833.74
+PROMO,promo,7443,0.5,6.0,399959.03
+PROMO WK Easter,promowkeaster,,,,196501.38999999998
+PROMO WK Q3,promowkq3,,,,454627.41000000003
+PROMO WK3,promowk3,,,,307446.96
+PROMO WK33,promowk33,7219,1.0,1.0,515388.58999999997
+PRS CH,prsch,5747,1.0,3.0,153056.47
+PRWNS-SFD,prwns-sfd,5655,1.0,1.0,92149.31
+PRWNS-SFD ,prwns-sfd,5655,1.0,1.0,92149.31
+PRWNSSEAFOOD,prwnsseafood,5655,1.0,5.0,165245.3
+PS > SAVOURY PS,ps>savouryps,2363,1.0,5.0,200852.15
+PS/SVRY PS + SALAD,ps/svryps+salad,,,,223219.40000000002
+PST SAUCES,pstsauces,,,,53060.64
+PST/CATERING,pst/catering,,,,12090.130000000001
+PST_PST,pst_pst,1565,0.8,5.0,179769.01
+PTS & GREENS: Family,pts&greens:family,1352,0.5,2.0,89022.56999999999
+PTS > CAT-FD,pts>cat-fd,6111,1.0,1.0,93580.3
+PTS-Ambient,pts-ambient,9123,0.75,4.0,191870.23
+PTS_CATFOO,pts_catfoo,,,,105991.89
+PTS_PET.CR,pts_pet.cr,,,,753041.84
+PU-GRAIN,pu-grain,9228,1.0,1.0,22018.949999999997
+PUL-GRNS,pul-grns,,,,63960.82
+PULSES.GRAINS   AND BAKED BEA,pulses.grainsandbakedbea,9228,1.0,1.0,176274.05
+PULSES.GRAINS + ENRGY SPO DRINKS,pulses.grains+enrgyspodrinks,,,,312405.35
+PULSES.GRAINS + ENRGY SPO DRINKS ,pulses.grains+enrgyspodrinks,,,,312405.35
+PULSES.GRAINS AND BAKED BEA,pulses.grainsandbakedbea,9228,1.0,1.0,176274.05
+PULSES.GRNS,pulses.grns,,,,56542.63
+PULSESGRAIN,pulsesgrain,,,,56626.2
+PZ,pz,3903,1.0,15.0,726325.31
+PZ & CHIPS PT PRODU,pz&chipsptprodu,3903,1.0,1.0,72866.06
+Pape > Tissues,pape>tissues,9640,1.0,1.0,284635.49
+Paper > Tltro,paper>tltro,,,,113186.73
+Paper-Tissues,paper-tissues,9640,1.0,1.0,192180.65
+Paper_Tlt Roll,paper_tltroll,,,,129737.36
+Paper_tis + Tnd Fruit,paper_tis+tndfruit,,,,69254.18
+Pas,pas,1565,1.0,1.0,39085.1
+Past,past,,,,203014.96999999997
+Pasta Pst Lge Pk,pastapstlgepk,,,,49227.97
+Pasta-Foodservice,pasta-foodservice,,,,83896.13
+Pasta-sauces,pasta-sauces,9535,0.5,2.0,62953.78
+Pckls.cond,pckls.cond,9023,1.0,1.0,65968.89
+Pckls.cond & Drd Herbs Sp,pckls.cond&drdherbssp,9023,1.0,1.0,249876.75
+Pe > Pet-care,pe>pet-care,,,,358215.57999999996
+Peppers-chi,peppers-chi,,,,174267.03
+Pet > Pet care,pet>petcare,6054,1.0,1.0,249741.93
+Pet Ca,petca,,,,38067.9
+Pet Care,petcare,,,,473503.13
+Pet Care + Cat Food,petcare+catfood,,,,21739.7
+Pet Care + Cat Food ,petcare+catfood,,,,21739.7
+Pet Cr - X,petcr-x,,,,111478.56
+Pet Cr: Sml,petcr:sml,,,,36667.96
+Pet ca and Cat food,petcaandcatfood,7333,0.5,2.0,524460.02
+Pet-Pet Care-Deli,pet-petcare-deli,,,,114535.22
+Pet-care_Value,pet-care_value,,,,75624.96
+Pet.care,pet.care,,,,40675.67
+Pet.care > Select,pet.care>select,7333,1.0,1.0,72726.23
+Pet.cr,pet.cr,7333,0.5,2.0,51451.990000000005
+Petcare,petcare,,,,473503.13
+Pets - Cat.fd,pets-cat.fd,6111,0.75,4.0,231770.78
+Pets Catfood - Kids,petscatfood-kids,6111,1.0,2.0,162807.48
+Pets-Cat food,pets-catfood,6111,1.0,1.0,266869.7
+Pets-Pet cr,pets-petcr,7333,1.0,1.0,48559.56
+Pets-Pet-care-Sub,pets-pet-care-sub,,,,61303.58
+Pets-pet-care-sub,pets-pet-care-sub,,,,61303.58
+Pi-condiments,pi-condiments,9023,1.0,2.0,127656.25
+Pi.cndmn,pi.cndmn,,,,49289.25
+Pic   Cond,piccond,,,,76881.89
+Pic Cond,piccond,,,,76881.89
+Pickles Con,picklescon,9023,1.0,3.0,88998.27
+Pickles Condi,picklescondi,9023,1.0,1.0,51156.340000000004
+Pickles co,picklesco,,,,40963.42
+Pickles-cond,pickles-cond,9023,1.0,1.0,86852.99
+Picklescondiments,picklescondiments,9023,1.0,1.0,117704.98
+Pie - Svry pies,pie-svrypies,,,,70059.42
+Pie/Svry-pie,pie/svry-pie,5607,0.5,2.0,119380.58
+Pies Savo-pies,piessavo-pies,2363,1.0,1.0,85095.02
+Pizz + Fro Ready Mls,pizz+froreadymls,,,,110382.95999999999
+Pizz + Fro Ready Mls ,pizz+froreadymls,,,,110382.95999999999
+Plan drnks,plandrnks,,,,50320.08
+Plant-based   Dr,plant-baseddr,5179,1.0,3.0,185578.16
+Plant-based Dr,plant-baseddr,5179,1.0,3.0,185578.16
+Plant-baseddr,plant-baseddr,5179,1.0,3.0,185578.16
+Plntb Drink,plntbdrink,,,,110096.48
+Plntb-drinks and Flvrd mlk,plntb-drinksandflvrdmlk,,,,91913.29
+Pls - Pulse.grns,pls-pulse.grns,9228,1.0,1.0,114328.72
+Pls Grains,plsgrains,,,,89634.29000000001
+Pls/Pulses.gr,pls/pulses.gr,9228,1.0,8.0,254584.28
+Pls/Pulses.gr ,pls/pulses.gr,9228,1.0,8.0,254584.28
+Po,po,,,,118207.45
+Popcornpret,popcornpret,,,,126899.33
+Pork   and Beef_Grp 3,porkandbeef_grp3,,,,170848.48
+Pork and Beef_Grp 3,porkandbeef_grp3,,,,170848.48
+Porri,porri,8689,1.0,3.0,158171.31
+Porridge,porridge,8689,1.0,4.0,102274.25
+Porridge & Rice,porridge&rice,,,,62769.9
+Porridge/Hm Bakin Mixes,porridge/hmbakinmixes,,,,54075.49
+Porridge/Tomatoes,porridge/tomatoes,6663,1.0,1.0,23310.08
+Pot,pot,9123,0.6666666666666666,3.0,236564.28
+Potatoes,potatoes,,,,31181.489999999998
+Potatoes-Export,potatoes-export,,,,184250.71000000002
+Pr - Tlt.rl,pr-tlt.rl,,,,262420.32
+Pr Ti,prti,9640,1.0,3.0,56056.01
+Pr-Tissues,pr-tissues,9640,1.0,2.0,54529.02
+Pr-sal,pr-sal,5088,1.0,2.0,63564.5
+Pr: Tis and Dshws prdct,pr:tisanddshwsprdct,9640,1.0,2.0,288365.86
+Pr_Tissues,pr_tissues,,,,104416.88
+Pr_Tissues  ,pr_tissues,,,,104416.88
+Pra sfd,prasfd,5655,1.0,1.0,88767.94
+Prawn-seafood,prawn-seafood,5655,1.0,1.0,43901.7
+Prawns Seafood,prawnsseafood,,,,120154.65
+Prawns Sfd + Smo Fis,prawnssfd+smofis,5655,1.0,2.0,114478.89
+Prawns.seafo,prawns.seafo,,,,72019.02
+Prawnssfd,prawnssfd,,,,12748.01
+Prawsea & Sausages,prawsea&sausages,,,,127805.64000000001
+Prdg-Range C,prdg-rangec,8689,1.0,3.0,39836.23
+Pre.slds,pre.slds,5088,1.0,3.0,181041.95
+Prep-salad + Dps,prep-salad+dps,,,,241133.97
+Prepared Slds,preparedslds,5088,1.0,1.0,238527.77000000002
+Prepared-sala,prepared-sala,,,,79047.64
+Prepared-salads,prepared-salads,5088,1.0,2.0,32818.47
+Prepared-slds,prepared-slds,,,,48925.67
+Prepared-slds + Fres pst,prepared-slds+frespst,8421,1.0,1.0,104463.8
+Prepared.salads,prepared.salads,2154,0.5,2.0,33663.4
+Preparedslds,preparedslds,5088,1.0,1.0,238527.77000000002
+Prk,prk,4045,0.6666666666666666,3.0,505182.79
+Prk: Wk,prk:wk,5856,1.0,3.0,67378.45999999999
+Promo - Seasonal Q3,promo-seasonalq3,8191,0.5,2.0,123668.92
+Promo - Seasonal WK20,promo-seasonalwk20,4803,0.4,5.0,126318.25
+Promo - Seasonal Wk 47,promo-seasonalwk47,,,,131337.92
+Promo Q2,promoq2,,,,146595.42
+Promo Summer Q3,promosummerq3,7443,0.5,2.0,125925.2
+Promo Summer Q4,promosummerq4,1150,0.5,2.0,59413.66
+Promo Summer Wk 51,promosummerwk51,,,,247951.26
+Promo Xmas Q3,promoxmasq3,6633,0.4,5.0,293692.99
+Promo lines,promolines,,,,230029.56
+Promo lines Easter,promolineseaster,2674,0.6666666666666666,3.0,187754.16999999998
+Promo lines WK42,promolineswk42,7245,0.3333333333333333,3.0,209931.54
+Promotions Easter,promotionseaster,2638,0.6666666666666666,3.0,199338.57
+Promotions Q1,promotionsq1,4803,1.0,1.0,134873.89
+Promotions Q2,promotionsq2,1387,1.0,1.0,205240.48
+Promotions Winter,promotionswinter,,,,73366.54
+Prprd Sala,prprdsala,2154,1.0,1.0,22388.0
+Prprd.salads,prprd.salads,,,,89132.2
+Prprdsal,prprdsal,,,,79483.86
+Prprdsalads,prprdsalads,5088,1.0,3.0,79459.48999999999
+Prprdslds + Dips,prprdslds+dips,,,,165047.62
+Prwns Sfd,prwnssfd,5655,0.6,5.0,134992.17
+Prwns-sfd,prwns-sfd,5655,1.0,1.0,92149.31
+Prwns.seafood,prwns.seafood,,,,19904.79
+Prwns.seafood + Frzn fsh,prwns.seafood+frznfsh,9181,1.0,1.0,219381.38999999998
+Prwns.sfd,prwns.sfd,5655,1.0,1.0,13686.14
+Ps-Svry Ps & Wrld Foods,ps-svryps&wrldfoods,1201,0.5,4.0,233589.05
+Pts & Ro   vegetables,pts&rovegetables,,,,108803.24
+Pts & Ro vegetables,pts&rovegetables,,,,108803.24
+Pts Cat food,ptscatfood,6111,1.0,2.0,106795.02
+Pu Pulses grai,pupulsesgrai,9228,1.0,1.0,108367.28
+Pu-grains,pu-grains,,,,99437.01
+Pu-grains ,pu-grains,,,,99437.01
+Pu-grns,pu-grns,,,,36356.7
+Pugrains,pugrains,9228,1.0,1.0,24603.829999999998
+Pul Pulsegrains,pulpulsegrains,,,,52182.240000000005
+Pul.gra and Har cheese,pul.graandharcheese,,,,118859.53
+Puls Grns,pulsgrns,9228,1.0,4.0,74521.87
+Puls gra,pulsgra,9228,0.75,4.0,546401.96
+Puls grains,pulsgrains,,,,193515.36000000002
+Puls grains ,pulsgrains,,,,193515.36000000002
+Puls.grains,puls.grains,9228,1.0,2.0,46580.94
+Pulse grns,pulsegrns,,,,138668.46
+Pulses Grai,pulsesgrai,9228,1.0,1.0,13520.119999999999
+Pulses Grains,pulsesgrains,9228,1.0,1.0,25020.9
+Pulses Grains ,pulsesgrains,9228,1.0,1.0,25020.9
+Pulses grai,pulsesgrai,9228,1.0,1.0,13520.119999999999
+Pulses-grains,pulses-grains,9228,0.75,4.0,145339.28
+Pulses: Pls Grain,pulses:plsgrain,8506,0.5,2.0,101046.85
+Pulses: Plsgra,pulses:plsgra,9228,1.0,2.0,41455.28
+RE-CHILLEDREMEALS,re-chilledremeals,1531,1.0,2.0,57145.29
+RE: CHILLED.REA.MEALS,re:chilled.rea.meals,,,,16907.61
+RED WI,redwi,6670,1.0,3.0,61916.479999999996
+RED WINE > Y,redwine>y,6670,1.0,5.0,178868.53
+RED-WINE,red-wine,6670,1.0,2.0,30917.15
+RED.WIN,red.win,,,,220154.86000000002
+RED.WINE,red.wine,6670,1.0,2.0,58409.369999999995
+REDWN,redwn,6670,1.0,1.0,52464.44
+RI/LGE PK,ri/lgepk,7444,1.0,1.0,118151.3
+RICE RICE FS,ricericefs,,,,56047.299999999996
+RICE/BULK,rice/bulk,7444,1.0,1.0,28296.36
+RO.SPARKLING.WI,ro.sparkling.wi,9822,1.0,1.0,13693.259999999998
+ROLLS BAP + FL,rollsbap+fl,,,,58495.270000000004
+ROOVEGETABLES,roovegetables,4584,0.6,5.0,61917.03
+ROS SPA WN,rosspawn,,,,46158.520000000004
+ROSE SPA WINE,rosespawine,9822,1.0,1.0,114534.2
+ROSE SPA WINE  ,rosespawine,9822,1.0,1.0,114534.2
+ROSE SPAR WI,rosesparwi,9822,1.0,1.0,87848.45
+ROSE SPARKLING WIN,rosesparklingwin,,,,236190.07
+ROSE-SPRKL-WN,rose-sprkl-wn,9822,1.0,2.0,106955.28
+ROSE.SP.WINE,rose.sp.wine,9822,1.0,9.0,463916.11
+ROSESPRKLWINE,rosesprklwine,,,,37127.23
+ROSESPRKLWN,rosesprklwn,9822,1.0,2.0,47037.36
+RS SPARKLING WN,rssparklingwn,9822,0.5,2.0,42266.78
+RT   VEGETABLES,rtvegetables,4584,0.8,5.0,195793.94
+RT VEGETABLES,rtvegetables,4584,0.8,5.0,195793.94
+RT-VEGETABLES,rt-vegetables,,,,70879.76
+Re Chilled-ready-meal,rechilled-ready-meal,1531,1.0,1.0,74943.56
+Ready   > Ch.ready.me & Prprd Slds,ready>ch.ready.me&prprdslds,,,,488633.94
+Ready > Ch.ready.me & Prprd Slds,ready>ch.ready.me&prprdslds,,,,488633.94
+Ready > Ch.ready.me & Prprd Slds ,ready>ch.ready.me&prprdslds,,,,488633.94
+Red wine,redwine,,,,66473.04
+Ri And Rc,riandrc,7444,0.6666666666666666,3.0,95438.17
+Ric,ric,7444,1.0,6.0,358705.25
+Ric: Rc: Lge Pk,ric:rc:lgepk,,,,103174.36
+Rice,rice,7444,1.0,4.0,102806.16
+Rice > Foodservice,rice>foodservice,7444,0.8888888888888888,9.0,522511.12
+Rice/Bulk,rice/bulk,7444,1.0,1.0,28296.36
+Rice/Rice + Rice,rice/rice+rice,,,,159585.13999999998
+Rice_Foodservice,rice_foodservice,7444,1.0,3.0,52785.78999999999
+Rlsbaps,rlsbaps,4748,1.0,1.0,478121.2
+Ro Veget,roveget,,,,6860.38
+Ro spar wine,rosparwine,,,,138392.67
+Ro-baps,ro-baps,,,,251470.66
+Rol Bap,rolbap,4748,1.0,3.0,26980.81
+Rolls.bps,rolls.bps,4748,1.0,3.0,72773.99
+Rose Spar Wine & White Wn,rosesparwine&whitewn,9822,1.0,3.0,198958.02
+Rose Sparkling Wn,rosesparklingwn,,,,171743.84
+Rose.spar.wine And Rc,rose.spar.wineandrc,,,,38375.020000000004
+Rovgtbl,rovgtbl,4584,1.0,1.0,126561.07
+Rs Sprkl Wine,rssprklwine,,,,305037.47
+Rssparwi,rssparwi,,,,22181.23
+Rssprklwn,rssprklwn,9822,1.0,1.0,75917.7
+Rt.vgtbl & Gre,rt.vgtbl&gre,1352,0.6666666666666666,3.0,161773.58000000002
+SA AND GRAPES ME,saandgrapesme,4782,1.0,1.0,130680.55
+SA PI,sapi,2363,1.0,4.0,105665.57
+SA-BISCU,sa-biscu,,,,142266.35
+SA: PICK CNDMN/Prem,sa:pickcndmn/prem,,,,37104.76
+SALA,sala,,,,37892.47
+SALAD > Value,salad>value,4782,1.0,2.0,143562.54
+SALAD/TOM - Spec,salad/tom-spec,,,,117230.18000000001
+SALAD: Ext,salad:ext,4782,1.0,2.0,84409.81999999999
+SANDWICHES,sandwiches,1273,0.5,4.0,181341.48
+SAUC-PCKLS CONDIMENTS,sauc-pcklscondiments,,,,35841.02
+SAUCE PICK CNDMN,saucepickcndmn,9023,1.0,3.0,121892.22
+SAUCE/PICKL CNDMN,sauce/picklcndmn,,,,109081.3
+SAUCES - TBL.SAUCES,sauces-tbl.sauces,7070,1.0,1.0,75891.51999999999
+SAUCES PICKL CNDMN/TABLE SAU,saucespicklcndmn/tablesau,7070,0.75,4.0,150356.97999999998
+SAUCES-TABL SAUC,sauces-tablsauc,,,,146483.58
+SAUSAGES - Own Label,sausages-ownlabel,6450,1.0,1.0,73370.75
+SAUSAGES Imp,sausagesimp,6450,1.0,3.0,167298.73
+SAUSAGES Sub,sausagessub,6450,1.0,1.0,33578.79
+SAV BISCU,savbiscu,9978,0.5,6.0,359184.73
+SAVO BISCUITS,savobiscuits,6633,1.0,1.0,78955.73
+SAVO PIE,savopie,2363,1.0,4.0,141749.68
+SAVOPS,savops,2363,1.0,1.0,108986.41
+SAVOU PI,savoupi,2363,1.0,1.0,51263.49
+SAVOURY BISCU/SA,savourybiscu/sa,,,,53953.8
+SAVOURY BISCUITS,savourybiscuits,6633,1.0,1.0,118772.81
+SAVOURYBISCUITS,savourybiscuits,6633,1.0,1.0,118772.81
+SAVOURYPI,savourypi,,,,86306.07
+SAVOURYPIES AND WO FOODS,savourypiesandwofoods,1201,1.0,1.0,200665.33
+SA_TAB SCS & NAT YOGURT,sa_tabscs&natyogurt,,,,157470.34
+SC   TEACAKES,scteacakes,,,,283414.09
+SC TEACAKES,scteacakes,,,,283414.09
+SC.TCKS,sc.tcks,,,,114368.38
+SCNSTCKS,scnstcks,1150,0.8,5.0,576494.3
+SCONES TEACAKES,sconesteacakes,9870,1.0,1.0,133224.55
+SCONES-TEACA,scones-teaca,1150,1.0,4.0,229370.72
+SCONESTCKS,sconestcks,1150,1.0,3.0,198907.55
+SCONESTCKS + CRO PAS,sconestcks+cropas,,,,596289.68
+SCONTEACA & ROLLS BAP,sconteaca&rollsbap,,,,119030.31000000001
+SCS TA SAUCES,scstasauces,,,,89988.63
+SFT CHEE,sftchee,9117,1.0,1.0,6113.91
+SFT-SQSH,sft-sqsh,,,,84340.28
+SFT/SQUASH,sft/squash,,,,184613.24
+SGR,sgr,3834,1.0,3.0,58034.71
+SGR & SUGAR - Multi,sgr&sugar-multi,,,,67022.44
+SGR & SUGAR - Multi  ,sgr&sugar-multi,,,,67022.44
+SGR AND SUG,sgrandsug,7788,0.5,4.0,165108.89
+SGR/TRADE,sgr/trade,3834,1.0,2.0,76897.03
+SGS AND CH,sgsandch,8449,1.0,1.0,116700.25
+SH BATH + PET CARE,shbath+petcare,,,,131987.62
+SH CONDITIONER,shconditioner,5471,1.0,5.0,101254.54
+SHAMPOO   CNDTN,shampoocndtn,,,,154274.14
+SHAMPOO CNDTN,shampoocndtn,,,,154274.14
+SHAMPOO-CNDTN,shampoo-cndtn,5471,1.0,5.0,198003.50999999998
+SHMP-CON,shmp-con,5471,0.5,2.0,54900.64
+SHOWE BATH,showebath,,,,27294.8
+SHOWER BATH > HONEY,showerbath>honey,5824,1.0,2.0,175139.09
+SHOWER-BTH,shower-bth,5824,1.0,1.0,88148.57
+SHOWERBATH,showerbath,5824,1.0,1.0,19217.0
+SHWR BATH,shwrbath,,,,480468.24
+SHWR-BATH,shwr-bath,,,,279197.15
+SKI > SKINCR,ski>skincr,9134,1.0,4.0,97946.77
+SKIN CR AND SALAD,skincrandsalad,9134,0.8333333333333334,12.0,524590.24
+SKN CR,skncr,,,,45025.1
+SLD & GR,sld&gr,1352,1.0,1.0,39481.27
+SLD + BABY FD,sld+babyfd,,,,336070.39
+SM FISH,smfish,5970,1.0,2.0,16166.58
+SMKD FIS,smkdfis,5970,1.0,4.0,128939.54
+SMKD FISH,smkdfish,,,,213722.34
+SMKD FSH,smkdfsh,5970,1.0,2.0,66872.16
+SMO,smo,6975,1.0,1.0,46404.57
+SMO.FIS,smo.fis,5970,1.0,10.0,273546.28
+SMOKED FISH,smokedfish,5970,1.0,2.0,36204.92
+SMOKED FSH,smokedfsh,,,,4325.36
+SMOO Prem Range,smoopremrange,8882,1.0,1.0,58563.69
+SMOOTHIES AND WHIT BRE,smoothiesandwhitbre,,,,168848.25
+SMTHS/OL,smths/ol,,,,97163.11
+SN > DRIED FRU,sn>driedfru,,,,67952.82
+SNA/CEREAL-BARS,sna/cereal-bars,9978,1.0,1.0,40044.85
+SNACK-CRLBARS + DRIE   FRT,snack-crlbars+driefrt,,,,371844.25
+SNACK-CRLBARS + DRIE FRT,snack-crlbars+driefrt,,,,371844.25
+SNCK: CRLBRS,snck:crlbrs,9978,1.0,1.0,92402.25
+SNDWC,sndwc,1273,0.5,4.0,186595.26
+SO - SQUAS & SPIRI,so-squas&spiri,9849,1.0,1.0,102205.63
+SO/TINNED TO,so/tinnedto,2768,0.6666666666666666,3.0,36946.93
+SOF SQ,sofsq,,,,387263.87
+SOFT - SQUA,soft-squa,4366,1.0,1.0,112316.79000000001
+SOFT ENE.SP.DRINKS,softene.sp.drinks,9330,1.0,1.0,88567.87
+SOFT SQSH: X,softsqsh:x,,,,23713.3
+SOFT.CHEESE + HARD CHE,soft.cheese+hardche,9117,0.5,2.0,52385.72
+SOFT/COLA,soft/cola,3117,1.0,5.0,144408.98
+SOU,sou,2768,1.0,3.0,202640.61
+SP-WATER,sp-water,9396,1.0,1.0,39424.68
+SP/BL CHS,sp/blchs,,,,146965.55000000002
+SPARKLING WAT,sparklingwat,9396,1.0,3.0,71951.88
+SPARKLINGWTR,sparklingwtr,9396,1.0,1.0,79611.77
+SPARWA,sparwa,9396,1.0,1.0,85664.69
+SPAWATE,spawate,,,,18575.260000000002
+SPI,spi,9849,0.8333333333333334,6.0,151103.66999999998
+SPIR,spir,9849,1.0,2.0,46291.07
+SPIR/SPRTS,spir/sprts,,,,402579.68
+SPIRITS: SPIRITS,spirits:spirits,,,,81087.15999999999
+SPREADS,spreads,1464,1.0,3.0,187855.66
+SPREADS AND BUTTE,spreadsandbutte,1464,0.6666666666666666,3.0,103930.47
+SPREADS/OL,spreads/ol,,,,16455.3
+SPRKL WATE,sprklwate,,,,83057.13
+SPRTS:   SPIRITS,sprts:spirits,9849,1.0,2.0,71332.58
+SPRTS: SPIRITS,sprts:spirits,9849,1.0,2.0,71332.58
+SQSH,sqsh,,,,97127.84999999999
+SQU,squ,,,,94654.15
+SQUA,squa,,,,46982.12
+SQUA  ,squa,,,,46982.12
+SQUAS-Core,squas-core,,,,133990.04
+SQUAS-Core  ,squas-core,,,,133990.04
+SQUASH,squash,4366,1.0,1.0,25771.56
+SQUASH AND CO,squashandco,4366,1.0,1.0,77150.24
+SRFCCL/BATHR TOILE,srfccl/bathrtoile,2138,1.0,1.0,102204.54
+ST-FRUIT,st-fruit,9644,1.0,8.0,411018.01
+STNFRUIT,stnfruit,9644,1.0,8.0,319371.64
+STO   FRU,stofru,,,,104990.43
+STO FRU,stofru,,,,104990.43
+STO-FRUIT,sto-fruit,,,,18545.83
+STON.FRUIT,ston.fruit,5747,0.5,2.0,66270.01000000001
+STONE FR,stonefr,9644,1.0,4.0,149280.36
+STONE FRT,stonefrt,9644,1.0,1.0,31058.21
+SU,su,7788,1.0,2.0,127316.34999999999
+SU/SGR,su/sgr,7788,1.0,1.0,74916.54000000001
+SUGA-CTR,suga-ctr,3834,1.0,1.0,63063.99
+SUGAR + SUG,sugar+sug,,,,156977.1
+SUGAR_Organic,sugar_organic,7788,1.0,1.0,27519.5
+SUR CLNRS,surclnrs,2138,1.0,1.0,100421.70999999999
+SUR CLNRS  ,surclnrs,2138,1.0,1.0,100421.70999999999
+SURFA-CLEANERS/BATHROOM TOILET,surfa-cleaners/bathroomtoilet,,,,148735.99
+SURFA-CLNRS,surfa-clnrs,2138,1.0,3.0,297393.84
+SURFA-CLNRS  ,surfa-clnrs,2138,1.0,3.0,297393.84
+SURFACE CLNRS + BATHROOM TLT,surfaceclnrs+bathroomtlt,,,,78310.19
+SURFACL,surfacl,2138,1.0,1.0,165741.57
+SVRY BSCTS,svrybscts,6633,1.0,2.0,46220.46
+SVRY PIES,svrypies,,,,76768.44
+SVRY PIES ,svrypies,,,,76768.44
+SVRY PIES + LAUNDRY LIQUID CAPS,svrypies+laundryliquidcaps,2793,1.0,2.0,103589.0
+SW/Basic,sw/basic,8522,0.5,2.0,96251.21
+SWEET,sweet,6788,1.0,3.0,71596.73999999999
+SWEET BIS,sweetbis,9417,1.0,1.0,54660.020000000004
+SWEET.BISCU,sweet.biscu,,,,144433.81
+SWEETS & RI,sweets&ri,,,,235741.59
+SWEETS AND CHEWING GUM,sweetsandchewinggum,,,,117084.84
+SWEETS AND FLR,sweetsandflr,8522,1.0,4.0,301158.64
+SWEETS-Sml,sweets-sml,6788,0.5,2.0,100496.59
+SWTS,swts,,,,4764.12
+SWTS > Kids,swts>kids,8522,1.0,2.0,36745.51
+SWTS: Seasonal,swts:seasonal,8522,1.0,1.0,19015.69
+Sa,sa,4782,1.0,1.0,315547.18
+Sa > Value,sa>value,,,,230152.69
+Sa And Washing-up Liqui,saandwashing-upliqui,6643,0.5,2.0,229059.38
+Sa Ps,saps,2363,1.0,1.0,73936.22
+Sa biscuits,sabiscuits,,,,107263.1
+Sa_Tab Scs & Nat Yogurt,sa_tabscs&natyogurt,,,,157470.34
+Salad/Z,salad/z,4782,1.0,3.0,88022.93000000001
+San,san,1273,1.0,1.0,16969.989999999998
+Sauce > Table.scs,sauce>table.scs,,,,169210.25
+Sauce > Table.scs ,sauce>table.scs,,,,169210.25
+Sauces - Pasta   Sauces,sauces-pastasauces,,,,36751.9
+Sauces - Pasta Sauces,sauces-pastasauces,,,,36751.9
+Sauces-Pastascs,sauces-pastascs,9535,0.8,5.0,303589.23
+Saus,saus,,,,89954.07
+Saus + Bf,saus+bf,,,,251707.96
+Saus Grp 2,sausgrp2,,,,159222.08000000002
+Sausa,sausa,6450,1.0,4.0,53656.08
+Sausa-Main,sausa-main,6450,1.0,4.0,194562.61
+Sausages,sausages,,,,41403.72
+Sav Pies & Wshng Liqui,savpies&wshngliqui,5607,1.0,1.0,79098.1
+Sav pies,savpies,2363,1.0,1.0,130434.56999999999
+Sav-ps,sav-ps,2363,1.0,2.0,43107.81
+Savo pies,savopies,2363,1.0,2.0,67859.4
+Savopies,savopies,2363,1.0,2.0,67859.4
+Savou-bscts,savou-bscts,6633,1.0,4.0,92159.78
+Savoury biscu/Sw biscuits,savourybiscu/swbiscuits,,,,80239.17
+Savoury-bi,savoury-bi,,,,170898.38
+Savoury-bi_Ched,savoury-bi_ched,,,,71611.34
+Savoury-biscuits,savoury-biscuits,,,,123826.35
+Savoury-ps,savoury-ps,2363,1.0,3.0,104597.07
+Savourybisc & Nu,savourybisc&nu,,,,31517.74
+Sc.tcks,sc.tcks,,,,114368.38
+Scns Tcks,scnstcks,1150,0.8,5.0,576494.3
+Scns Teac,scnsteac,1150,1.0,5.0,460995.04000000004
+Scns tcks,scnstcks,1150,0.8,5.0,576494.3
+Scns.tcks,scns.tcks,1150,0.6923076923076923,13.0,806485.62
+Scns.teaca,scns.teaca,1150,1.0,1.0,70294.78
+Sco Teacakes,scoteacakes,1150,1.0,3.0,47082.71
+Scon-teaca,scon-teaca,,,,30701.940000000002
+Scon.tea + Whl Cks,scon.tea+whlcks,,,,162443.59999999998
+Scone Teaca,sconeteaca,1150,1.0,1.0,57114.29
+Scones-teacakes,scones-teacakes,1150,1.0,2.0,73821.57
+Sconteacakes,sconteacakes,,,,34691.1
+Scs - Pickl-cndmn,scs-pickl-cndmn,,,,12649.09
+Scs Tabl sauces Chilli,scstablsauceschilli,,,,29629.6
+Scs Table Scs,scstablescs,,,,53104.189999999995
+Sft - Energy sports dri,sft-energysportsdri,,,,17225.09
+Sft_Sqsh,sft_sqsh,4366,1.0,2.0,83985.26
+Sgr/Sugar,sgr/sugar,7788,0.7142857142857143,7.0,158809.69
+Sgs,sgs,6450,1.0,2.0,190294.83
+Shmp-con,shmp-con,5471,0.5,2.0,54900.64
+Sho.bath,sho.bath,,,,320009.98
+Shower-bath,shower-bath,5824,1.0,1.0,99239.6
+Shwr Bat,shwrbat,,,,289867.01
+Shwr Bath,shwrbath,,,,480468.24
+Shwr Bth & Fbrc Con,shwrbth&fbrccon,,,,37245.5
+Shwr-bath,shwr-bath,,,,279197.15
+Shwr-bath  ,shwr-bath,,,,279197.15
+Ski care,skicare,9134,1.0,1.0,41400.340000000004
+Ski-care,ski-care,9134,1.0,2.0,101787.08
+Skin.care,skin.care,,,,405934.36
+Skn-care & Deod,skn-care&deod,9134,1.0,2.0,53704.83
+Sld,sld,4782,1.0,1.0,168125.71
+Sld And Tomat,sldandtomat,4782,1.0,3.0,54025.99
+Sld_Grp 3,sld_grp3,,,,71226.77
+Smoo + Other juices,smoo+otherjuices,,,,130425.97000000002
+Smoot + Orng juice,smoot+orngjuice,6975,1.0,1.0,94464.59
+Smoothies,smoothies,6975,1.0,5.0,486865.12
+Smoothies-Prem Range,smoothies-premrange,,,,22387.309999999998
+Smths,smths,6975,1.0,1.0,7708.0
+Sna/Dried Fru,sna/driedfru,6788,1.0,2.0,33151.23
+Snack/Cer.ba/Ho,snack/cer.ba/ho,9978,1.0,2.0,48904.86
+So,so,2768,1.0,1.0,67407.89
+So - Squ,so-squ,,,,86271.53
+So-Sqsh,so-sqsh,4366,1.0,1.0,14558.91
+So_Sq and Cola,so_sqandcola,4366,1.0,1.0,274775.13
+Sof - Enesportsdrin,sof-enesportsdrin,,,,257836.55
+Sof - Sq/Rs sprkl wn,sof-sq/rssprklwn,,,,139956.5
+Sof - Squas,sof-squas,4366,1.0,1.0,50686.4
+Sof/Squash,sof/squash,,,,85774.48
+Soft-Sqsh,soft-sqsh,,,,265143.39
+Soft-Squash,soft-squash,,,,551430.67
+Soft-Squash ,soft-squash,,,,551430.67
+Soft-Squash Grp 3,soft-squashgrp3,,,,927185.12
+Soft-cheese,soft-cheese,,,,113187.47
+Soft.cheese,soft.cheese,9117,1.0,2.0,78525.35
+Soft/Squash,soft/squash,,,,472041.54
+Soft: Ene spor drnks + Cola,soft:enespordrnks+cola,7981,0.3333333333333333,3.0,70121.12
+Sou-Sml,sou-sml,,,,397591.89
+Soup,soup,7139,1.0,2.0,128081.12
+Soup_Basic,soup_basic,2768,1.0,6.0,170738.1
+Soup_Basic ,soup_basic,2768,1.0,6.0,170738.1
+Sp Water,spwater,,,,47830.56
+Sp_Grp 2,sp_grp2,2768,1.0,2.0,78681.48
+Spar.wa,spar.wa,9396,1.0,3.0,89581.36
+Sparkling Wate,sparklingwate,,,,25434.39
+Sparkling Wtr,sparklingwtr,9396,1.0,1.0,79611.77
+Sparkling-wat,sparkling-wat,,,,56719.58
+Sparkling.water,sparkling.water,9396,1.0,1.0,54769.13
+Sparwater,sparwater,9396,1.0,2.0,103411.86
+Spi: Spirits,spi:spirits,9822,1.0,1.0,11172.51
+Spirits,spirits,9849,1.0,6.0,86610.54000000001
+Spr,spr,1464,1.0,1.0,305424.2
+Spr - Z,spr-z,1464,1.0,1.0,28824.370000000003
+Spre,spre,1464,1.0,1.0,41911.25
+Spreads And Butte,spreadsandbutte,1464,0.6666666666666666,3.0,103930.47
+Sprkl Water,sprklwater,7286,1.0,2.0,271368.76
+Sprkl Water/Lm,sprklwater/lm,,,,72402.11
+Spwtr,spwtr,9396,0.5,4.0,265716.89
+Sq and Dishwasher prdct,sqanddishwasherprdct,4366,1.0,3.0,186063.12
+Sqsh and Ener spor dri,sqshandenerspordri,,,,248342.21
+Squ   & Ene sports dr,squ&enesportsdr,4366,1.0,1.0,53016.51
+Squ & Ene sports dr,squ&enesportsdr,4366,1.0,1.0,53016.51
+Squ & Ene sports dr ,squ&enesportsdr,4366,1.0,1.0,53016.51
+Squa,squa,,,,46982.12
+Squa - Organic,squa-organic,4366,1.0,1.0,78304.39
+Squash - Grp 1,squash-grp1,4366,1.0,5.0,294054.05
+Squash Core,squashcore,,,,28309.36
+Squash-Prem Range,squash-premrange,4366,1.0,2.0,190902.7
+Srfc clnrs + Bthrm toilet,srfcclnrs+bthrmtoilet,,,,323133.16
+Srfc-clean,srfc-clean,2138,1.0,6.0,129627.42
+Srfccl,srfccl,2138,1.0,2.0,46821.19
+St-fru,st-fru,7245,1.0,1.0,68815.8
+Still Water,stillwater,7286,1.0,1.0,217257.0
+Still wtr,stillwtr,7286,1.0,4.0,175305.06
+Stlwater,stlwater,7286,1.0,2.0,50497.99
+Stn Frt,stnfrt,,,,28033.04
+Stn.frt,stn.frt,9644,1.0,2.0,37498.869999999995
+Sto Fruit,stofruit,9644,1.0,2.0,86800.78
+Ston.fruit,ston.fruit,5747,0.5,2.0,66270.01000000001
+Stone Fruit,stonefruit,7245,0.5,2.0,119385.67
+Stone.frui,stone.frui,9644,1.0,1.0,106517.27
+Stonefruit,stonefruit,7245,0.5,2.0,119385.67
+Stonfrui,stonfrui,9644,1.0,4.0,179959.42
+Su/sgr,su/sgr,7788,1.0,1.0,74916.54000000001
+Suga,suga,7788,1.0,1.0,93616.04
+Suga  ,suga,7788,1.0,1.0,93616.04
+Sugar > FS,sugar>fs,3834,1.0,3.0,103112.16
+Sugar-Bulk,sugar-bulk,,,,172228.2
+Sugar-Local,sugar-local,7788,1.0,1.0,37492.08
+Sugar/Energy Sport Drnks,sugar/energysportdrnks,,,,114437.48
+Sugar/Sugar,sugar/sugar,,,,27760.21
+Sugar_CTR,sugar_ctr,3834,1.0,1.0,94017.68
+Sundries,sundries,9023,0.6,5.0,223744.24
+Sundries (old),sundries(old),,,,97657.88
+Sundries 4,sundries4,,,,344328.47
+Sur Cleaners + Bat Toile,surcleaners+battoile,,,,71952.91
+Surfa-cleaners/bathroom Toilet,surfa-cleaners/bathroomtoilet,,,,148735.99
+Svry Biscu,svrybiscu,6633,1.0,1.0,85170.67
+Svry pie,svrypie,2363,1.0,1.0,99416.25
+Svrybiscu + Sweet biscuits,svrybiscu+sweetbiscuits,9417,1.0,1.0,298333.5
+Sw,sw,,,,35222.61
+Swe.biscuits-Lemo,swe.biscuits-lemo,9417,1.0,12.0,1025578.5599999999
+Swee-bisc,swee-bisc,9417,1.0,1.0,24750.48
+Sweet,sweet,6788,1.0,3.0,71596.73999999999
+Sweet ,sweet,6788,1.0,3.0,71596.73999999999
+Sweet.biscuits,sweet.biscuits,,,,79294.65
+Sweets And Chewing Gum,sweetsandchewinggum,,,,117084.84
+Sweets_Grp 2,sweets_grp2,8522,1.0,7.0,544210.22
+Swt Bscts,swtbscts,9417,1.0,4.0,103007.84
+TA.SAUCE,ta.sauce,7070,1.0,2.0,24441.97
+TAB SAUCES,tabsauces,7070,1.0,2.0,56769.14
+TABL-SAUCES GRLC,tabl-saucesgrlc,7070,1.0,2.0,155454.28
+TBL.SCS CHL,tbl.scschl,,,,38421.100000000006
+TEA AND SMOOT,teaandsmoot,,,,372650.12
+TEA: Family,tea:family,,,,28137.28
+TEA_LEMON,tea_lemon,4274,1.0,2.0,86940.52
+TEA_Select,tea_select,4274,1.0,5.0,291667.42
+TI - TINNE VEGETABLES > Imp,ti-tinnevegetables>imp,9330,1.0,2.0,50286.11
+TI - TINNED-TMTS,ti-tinned-tmts,2416,1.0,1.0,42971.29
+TI > TIN FI,ti>tinfi,8191,1.0,3.0,85030.28
+TI FRUIT,tifruit,3682,1.0,2.0,139702.45
+TI-FRT,ti-frt,3682,1.0,2.0,108174.48
+TI-FRUIT,ti-fruit,,,,295306.63999999996
+TI.FRT + TINNED FI,ti.frt+tinnedfi,,,,304763.8
+TI.TO,ti.to,2416,0.3333333333333333,3.0,100188.81999999999
+TIFRUIT,tifruit,3682,1.0,2.0,139702.45
+TIN-TNDFRUIT,tin-tndfruit,3682,1.0,3.0,309685.68
+TIN.FRT,tin.frt,3682,1.0,1.0,101751.37000000001
+TIN.FRT  ,tin.frt,3682,1.0,1.0,101751.37000000001
+TINFRUI,tinfrui,2768,1.0,2.0,388633.1
+TINN FSH,tinnfsh,8191,1.0,2.0,123804.7
+TINN VEGETABLES,tinnvegetables,9330,1.0,1.0,209786.64
+TINN-VEGE,tinn-vege,9330,1.0,4.0,143802.41999999998
+TINN-VEGET,tinn-veget,,,,56122.44
+TINNE VEG,tinneveg,,,,257507.38
+TINNED FR,tinnedfr,3682,1.0,1.0,130815.49
+TINNED TMTS,tinnedtmts,,,,242634.39
+TINNED TOMATOES,tinnedtomatoes,2416,1.0,2.0,179610.9
+TINNED VEGETABLES,tinnedvegetables,9330,1.0,1.0,101699.58
+TINNED VGTBL,tinnedvgtbl,9330,1.0,2.0,142250.51
+TINNED-FRUIT,tinned-fruit,,,,27229.5
+TINNED-VGTBL,tinned-vgtbl,9330,1.0,1.0,43330.840000000004
+TINNED.TOMAT,tinned.tomat,2416,1.0,3.0,48908.17
+TINNED.TOMATOES_Range A,tinned.tomatoes_rangea,2416,1.0,2.0,104280.51000000001
+TINNEDFR,tinnedfr,3682,1.0,1.0,130815.49
+TINNEDFRT/TIN FISH,tinnedfrt/tinfish,3682,0.6,5.0,390382.59
+TINNEDTOMATOES,tinnedtomatoes,2416,1.0,2.0,179610.9
+TINNEFRT,tinnefrt,,,,1014987.89
+TINS > SOU,tins>sou,2768,1.0,2.0,220296.83
+TINS BABEA,tinsbabea,,,,70358.73
+TINS-SOUP,tins-soup,2768,1.0,1.0,197706.63
+TINS-TIN TOM,tins-tintom,,,,73138.2
+TINS/TINN FRT,tins/tinnfrt,,,,53157.77
+TINS/TINN TMTS,tins/tinntmts,2416,1.0,2.0,252548.02
+TINS_SOU,tins_sou,,,,48094.65
+TINS_SOUP,tins_soup,2768,1.0,1.0,151574.73
+TIS,tis,,,,126594.49
+TISSU,tissu,9640,1.0,1.0,89794.39
+TISSU/Branded,tissu/branded,,,,43133.96
+TISSUES-Value,tissues-value,,,,72487.78
+TLT.RL,tlt.rl,3615,1.0,2.0,68041.73999999999
+TMTS,tmts,6663,1.0,8.0,462305.6
+TMTS ,tmts,6663,1.0,8.0,462305.6
+TMTS  ,tmts,6663,1.0,8.0,462305.6
+TMTS_Wk,tmts_wk,,,,13770.01
+TND TMTS,tndtmts,2416,1.0,1.0,169828.56
+TND VEGET,tndveget,,,,64374.85
+TND-FRT,tnd-frt,3682,1.0,2.0,59661.85
+TND-FRUIT,tnd-fruit,3682,1.0,2.0,95050.82
+TND-TOMA,tnd-toma,,,,20868.02
+TND-VEGET AND TINNE FRT,tnd-vegetandtinnefrt,,,,157917.3
+TND-VEGETABLES,tnd-vegetables,9330,1.0,4.0,231677.5
+TND.FRUIT,tnd.fruit,,,,32358.35
+TNDFRT,tndfrt,,,,317177.81
+TNS TINNED TOMATOES,tnstinnedtomatoes,,,,318058.44
+TNS-SP-ON,tns-sp-on,2768,1.0,2.0,60827.59
+TNS/BAKED.BEANS,tns/baked.beans,7139,1.0,1.0,24640.91
+TNS/TNDTOMATOES,tns/tndtomatoes,2416,1.0,3.0,129308.88
+TNS: TINNED VEGET,tns:tinnedveget,,,,53583.53
+TNS_BABNS & TINNED VEG,tns_babns&tinnedveg,9330,0.6666666666666666,3.0,223623.0
+TNS_TND VEGET,tns_tndveget,9330,1.0,2.0,159201.91
+TO,to,,,,131532.61
+TO ROL,torol,,,,37435.89
+TOIL ROLL,toilroll,3615,0.75,4.0,255919.68
+TOILE RL,toilerl,3615,1.0,1.0,77970.61
+TOILET RL,toiletrl,3615,1.0,5.0,292894.71
+TOILET ROL + KTCHN ROLL,toiletrol+ktchnroll,,,,76817.73
+TOM,tom,6663,1.0,3.0,57661.79
+TOMAT,tomat,,,,263912.12
+TOMATOES,tomatoes,,,,54115.79
+TOMATOES-Prem,tomatoes-prem,6663,1.0,4.0,206551.08
+TOR-COR-SNCKS,tor-cor-sncks,,,,72050.67
+TORTI-CRN-SNA,torti-crn-sna,9841,1.0,2.0,85601.23
+TORTICORNSNAC,torticornsnac,,,,135458.88
+TROPI.FRUIT,tropi.fruit,4632,1.0,9.0,175249.23
+TROPICAL FRUIT,tropicalfruit,4632,1.0,5.0,450700.47000000003
+TROPICALFRUIT,tropicalfruit,4632,1.0,5.0,450700.47000000003
+TS,ts,,,,76574.35
+TS Chilled,tschilled,,,,185917.15
+TS/Kids,ts/kids,,,,60748.47
+Ta Scs,tascs,,,,501714.11
+Tabl sauces,tablsauces,7070,1.0,3.0,151646.13999999998
+Tabl.sa,tabl.sa,7070,1.0,6.0,224086.34
+Table Sauc,tablesauc,,,,69461.95
+Table-sauces: Chilli,table-sauces:chilli,7070,1.0,4.0,170794.29
+Tbl.sauces,tbl.sauces,7070,0.5714285714285714,7.0,389844.4
+Tea & Hot choc > Local,tea&hotchoc>local,4274,0.75,4.0,58713.49
+Tea - Y,tea-y,4274,1.0,2.0,150020.29
+Tea > Core,tea>core,4274,1.0,2.0,264014.83
+Tea Prem,teaprem,4274,0.7142857142857143,7.0,359070.61
+Tea/Orang Juice,tea/orangjuice,,,,143329.69
+Tea/Range C,tea/rangec,4274,1.0,1.0,81832.63
+Tea/Sub,tea/sub,4274,0.75,4.0,327035.99
+Tea_Lemon,tea_lemon,4274,1.0,2.0,86940.52
+Ti,ti,,,,82252.99
+Ti - Tinned.fr,ti-tinned.fr,,,,211959.38
+Ti.to,ti.to,2416,0.3333333333333333,3.0,100188.81999999999
+Ti.vgtbl,ti.vgtbl,9330,1.0,1.0,53798.24
+Ti/Grp 3,ti/grp3,9640,0.6666666666666666,3.0,60042.31
+Tin   tomatoes,tintomatoes,3682,1.0,1.0,61740.02
+Tin > Tinned Fruit,tin>tinnedfruit,3682,1.0,1.0,71363.81
+Tin fruit,tinfruit,3682,1.0,1.0,27669.690000000002
+Tin tomatoes,tintomatoes,3682,1.0,1.0,61740.02
+Tin tomatoes ,tintomatoes,3682,1.0,1.0,61740.02
+Tinn-fruit + Baked bns,tinn-fruit+bakedbns,,,,84361.48000000001
+Tinn.tomatoes,tinn.tomatoes,2416,1.0,1.0,103020.34
+Tinned To,tinnedto,2416,1.0,1.0,82343.08
+Tinned fruit,tinnedfruit,,,,89892.11
+Tinned tom,tinnedtom,2416,0.8333333333333334,6.0,276104.52999999997
+Tinned tom ,tinnedtom,2416,0.8333333333333334,6.0,276104.52999999997
+Tinned vege,tinnedvege,,,,121718.33
+Tinned-fish,tinned-fish,8191,1.0,3.0,76479.09
+Tinned-to,tinned-to,,,,745573.7
+Tinned-to  ,tinned-to,,,,745573.7
+Tinnedfruit,tinnedfruit,,,,89892.11
+Tinnefru,tinnefru,,,,19894.54
+Tinneveget,tinneveget,,,,6201.59
+Tins - Tnd fruit,tins-tndfruit,3682,1.0,1.0,19750.43
+Tins > Tinfru,tins>tinfru,3682,1.0,2.0,73894.01
+Tins/Bkd bean,tins/bkdbean,7139,1.0,5.0,292238.46
+Tis/Kit roll,tis/kitroll,,,,60146.52
+Tissues,tissues,,,,27086.99
+Tissues - Plus,tissues-plus,5181,1.0,1.0,22970.81
+Tivegetables,tivegetables,9330,1.0,1.0,27851.48
+Tivegetables ,tivegetables,9330,1.0,1.0,27851.48
+Tlt Roll,tltroll,,,,36140.1
+Tmts + Apples pea - Branded,tmts+applespea-branded,,,,187243.75
+Tnd Frt,tndfrt,,,,317177.81
+Tnd Tom,tndtom,2416,1.0,2.0,46775.6
+Tnd-fr,tnd-fr,3682,1.0,2.0,279232.84
+Tnd-tomatoes,tnd-tomatoes,2416,0.6666666666666666,3.0,128976.48
+Tnd.tmts/Bkd Beans,tnd.tmts/bkdbeans,,,,54211.1
+Tnd.tomatoes,tnd.tomatoes,,,,118295.77
+Tndfish,tndfish,,,,46701.21
+Tns > Tinn.frui - Chilled,tns>tinn.frui-chilled,3682,1.0,1.0,71773.35
+Tns > Tinned To,tns>tinnedto,,,,41797.97
+Tns > Tinned to,tns>tinnedto,,,,41797.97
+Tns Tinnedtomat,tnstinnedtomat,2416,1.0,1.0,150254.72
+Tns/Sp,tns/sp,2768,1.0,1.0,118776.1
+Tns/Ti Tmts,tns/titmts,2416,1.0,2.0,161654.79
+Tns: Tin-tomat,tns:tin-tomat,2416,1.0,3.0,204385.43
+Tns: Tnd-vege,tns:tnd-vege,,,,121824.87
+Tocornsnacks,tocornsnacks,,,,124610.26
+Toilroll,toilroll,3615,0.75,4.0,255919.68
+Toiroll,toiroll,3615,1.0,2.0,104919.8
+Toma,toma,,,,104512.79000000001
+Tomatoes + Chip Pt Pro,tomatoes+chipptpro,,,,395234.86
+Tomatoes And Potat,tomatoesandpotat,,,,317825.85000000003
+Tor corn sncks,torcornsncks,9841,0.9,10.0,242146.01
+Torti crn snacks,torticrnsnacks,8530,0.6666666666666666,3.0,54358.82
+Tortilla.corn.snacks,tortilla.corn.snacks,9983,0.5,2.0,192541.31
+Tortillacornsnacks,tortillacornsnacks,9841,1.0,3.0,244300.07
+Trofrt,trofrt,4632,1.0,3.0,64100.96
+Tropicalfrt,tropicalfrt,4632,1.0,2.0,32363.75
+VEG > SALAD,veg>salad,4782,1.0,2.0,89908.23
+VEG SALA,vegsala,,,,63462.329999999994
+VEG-TOMATOES + RT VEG,veg-tomatoes+rtveg,,,,188864.44
+VEGE/POTA,vege/pota,9123,0.5,2.0,106077.77
+VEGE/POTA ,vege/pota,9123,0.5,2.0,106077.77
+VEGET-SLD,veget-sld,,,,31110.07
+VEGETABLES - MUSHROOMS,vegetables-mushrooms,,,,84244.37
+VEGETABLES - SALAD-Old,vegetables-salad-old,4782,1.0,1.0,46854.1
+VEGETABLES-MSHRM - Sml,vegetables-mshrm-sml,8530,1.0,1.0,19075.34
+VEGETABLES:   TOMATOES,vegetables:tomatoes,,,,32919.5
+VEGETABLES: TOMAT,vegetables:tomat,6663,1.0,1.0,118668.29
+VEGETABLES: TOMATOES,vegetables:tomatoes,,,,32919.5
+VEGETABLES_SALAD/Grp 1,vegetables_salad/grp1,4782,1.0,3.0,118607.48
+VGTBL - POTATOES,vgtbl-potatoes,6663,0.5,2.0,68589.9
+VGTBL - SA Deli,vgtbl-sadeli,4782,1.0,4.0,339771.71
+VGTBL > ONS.GARLIC,vgtbl>ons.garlic,4818,1.0,1.0,60405.69
+VGTBL > TO,vgtbl>to,6663,1.0,2.0,222884.41
+VGTBL GREENS,vgtblgreens,1352,1.0,1.0,25620.59
+VGTBL-POT,vgtbl-pot,,,,73448.91
+VGTBL-POTA,vgtbl-pota,9123,1.0,10.0,368655.78
+VGTBL-TOMATOES,vgtbl-tomatoes,6663,1.0,1.0,26265.15
+VGTBL: TMTS,vgtbl:tmts,,,,283803.72
+Ve Salad,vesalad,7818,0.5,2.0,160677.43
+Veg -   Sal,veg-sal,4782,1.0,1.0,67076.12
+Veg - Sal,veg-sal,4782,1.0,1.0,67076.12
+Veget > Fresh-herbs,veget>fresh-herbs,7818,1.0,3.0,111688.70000000001
+Veget-Tomatoes/Peppers   Chi,veget-tomatoes/pepperschi,,,,296382.56
+Veget-Tomatoes/Peppers Chi,veget-tomatoes/pepperschi,,,,296382.56
+Veget/Sala,veget/sala,,,,35396.450000000004
+Vegetables - Mushrooms,vegetables-mushrooms,,,,84244.37
+Vegetables - Rt Vgtbl,vegetables-rtvgtbl,4584,1.0,2.0,91229.7
+Vegetables - Tomatoes,vegetables-tomatoes,6663,0.5,2.0,116169.1
+Vegetables Tmts,vegetablestmts,,,,284420.06
+Vegetables-Gr & Root vgtbl,vegetables-gr&rootvgtbl,1352,0.8,5.0,69107.72
+Vegetables-Tomatoes,vegetables-tomatoes,6663,0.5,2.0,116169.1
+Vegetables-tomatoes,vegetables-tomatoes,6663,0.5,2.0,116169.1
+Vegetables_Tom,vegetables_tom,6663,1.0,3.0,174894.94
+Vgtbl >   To,vgtbl>to,6663,1.0,2.0,222884.41
+Vgtbl > Mshrm-Core,vgtbl>mshrm-core,8530,0.6666666666666666,3.0,40627.380000000005
+Vgtbl > To,vgtbl>to,6663,1.0,2.0,222884.41
+Vgtbl Fresh her,vgtblfreshher,7818,1.0,4.0,228900.44999999998
+Vgtbl Prs-chil,vgtblprs-chil,5747,1.0,1.0,38894.57
+Vgtbl-Tmts: Select,vgtbl-tmts:select,6663,1.0,1.0,22239.18
+Vgtbl-pota,vgtbl-pota,9123,1.0,10.0,368655.78
+WA PWDR,wapwdr,,,,17811.36
+WA: SPARKLING WTR: LEMON,wa:sparklingwtr:lemon,9396,1.0,1.0,74115.73
+WAS LIQUI,wasliqui,,,,67821.63
+WASHING POWDER,washingpowder,,,,194650.82
+WASHING-POWDER + LAUNDRY LIQU CAPSULES,washing-powder+laundryliqucapsules,,,,100128.37999999999
+WASHING-POWDER + LAUNDRY LIQU CAPSULES ,washing-powder+laundryliqucapsules,,,,100128.37999999999
+WASHING-UP LIQU,washing-upliqu,6643,1.0,5.0,272313.77
+WASHING-UP LIQU & DSHWS PRODUCTS,washing-upliqu&dshwsproducts,,,,131682.6
+WASHING-UP LQD,washing-uplqd,6643,1.0,1.0,77079.24
+WATER/SPRKL.WATER,water/sprkl.water,,,,49151.62
+WATER: SPARK.WA,water:spark.wa,9396,1.0,1.0,89436.7
+WH BRD,whbrd,5363,1.0,2.0,90398.95
+WH CAKE,whcake,1365,0.5,2.0,226050.83
+WH-WN,wh-wn,1025,1.0,7.0,468056.68
+WHIBREAD,whibread,8297,0.75,4.0,170292.72
+WHITE BREAD/WRAPS FLATB,whitebread/wrapsflatb,,,,69767.51999999999
+WHITEBREA,whitebrea,8297,1.0,1.0,104598.72
+WHL CKS,whlcks,1501,1.0,1.0,18144.91
+WHL.CKS,whl.cks,1501,1.0,2.0,60727.719999999994
+WHLCAKES,whlcakes,,,,224790.54
+WHO-CA,who-ca,,,,232507.40999999997
+WHO.CAKES/CA SLCS BARS,who.cakes/caslcsbars,,,,230938.44999999998
+WHOL CAKES + GRLC BRD,wholcakes+grlcbrd,,,,83413.75
+WHOL.CAKES,whol.cakes,1501,1.0,1.0,12745.26
+WHOLE CAK,wholecak,,,,113660.09
+WHOLE-CAKES + CAKE SLICES BARS,whole-cakes+cakeslicesbars,1501,1.0,1.0,787779.11
+WHOLE.CAKES,whole.cakes,,,,179181.2
+WHOLEMEAL.BRD AND WRPS FLATBREADS,wholemeal.brdandwrpsflatbreads,,,,75500.48
+WIN RED.WINE,winred.wine,6670,1.0,1.0,38674.49
+WINE RED WINE,wineredwine,,,,131121.63
+WINE_RED WINE,wine_redwine,6670,1.0,2.0,96253.55
+WN - RED WINE,wn-redwine,6670,1.0,3.0,82055.71
+WN > REDWINE,wn>redwine,1025,0.3333333333333333,3.0,202737.76
+WN: RSSPARKLINGWINE,wn:rssparklingwine,,,,109263.52
+WO/NOODLES,wo/noodles,4718,1.0,3.0,622286.64
+WOFOODS & DISHW PROD,wofoods&dishwprod,,,,242231.89
+WOFOODS & DISHW PROD ,wofoods&dishwprod,,,,242231.89
+WORLD > WRLDFOODS,world>wrldfoods,,,,71757.81
+WORLD FOODS,worldfoods,,,,104848.1
+WORLD NDLS > Std Range,worldndls>stdrange,4718,0.6666666666666666,3.0,86954.21
+WORLD NOODL,worldnoodl,,,,444752.38
+WORLD_WORFDS,world_worfds,,,,65141.92
+WORLD_WORLD-FOODS,world_world-foods,1201,1.0,1.0,196045.22
+WRAFLTBR,wrafltbr,6200,1.0,1.0,300914.03
+WRAP.FLA,wrap.fla,2674,0.6,10.0,457769.96
+WRAPS FLTBR,wrapsfltbr,2674,1.0,1.0,54495.05
+WRLD FOO,wrldfoo,1201,1.0,5.0,89969.43
+WRLDFOODS,wrldfoods,1201,1.0,3.0,203478.68
+WRPS FLAT,wrpsflat,2674,1.0,2.0,70644.38
+WRPS-FLATBREADS,wrps-flatbreads,,,,134048.09
+WRPS.FLTBR & WHITE BREAD,wrps.fltbr&whitebread,,,,169355.8
+WTR > SPAR WTR,wtr>sparwtr,,,,121342.27
+WTR/SPA WATER,wtr/spawater,9396,1.0,3.0,161169.72
+Wa po,wapo,,,,102790.97
+Wa.pwdr,wa.pwdr,5401,1.0,1.0,24243.55
+Was liqu,wasliqu,,,,28526.31
+Was lqd,waslqd,,,,86863.72
+Washing Pwdr,washingpwdr,5401,1.0,3.0,271102.83
+Washing-up-lqd: Lime,washing-up-lqd:lime,6643,1.0,1.0,118080.08
+Washliq,washliq,,,,26976.75
+Wat/Sparkwater,wat/sparkwater,,,,804031.75
+Wat_Stl water,wat_stlwater,,,,317272.55
+Wate > Stlwtr,wate>stlwtr,7286,1.0,2.0,162349.45
+Wate_Sprklwtr,wate_sprklwtr,9396,1.0,1.0,20774.13
+Wh Cks_prem Range,whcks_premrange,1501,1.0,1.0,62437.86
+Wh cake,whcake,1365,0.5,2.0,226050.83
+Wh.bread,wh.bread,,,,49852.95
+Wh.ca,wh.ca,,,,67002.18
+Whit brd,whitbrd,8297,1.0,2.0,133499.64
+Whit-brd,whit-brd,8297,1.0,6.0,225463.16
+Whl Ca,whlca,,,,135704.94
+Whl-cks,whl-cks,1501,1.0,1.0,72635.36
+Whl.ca,whl.ca,1501,1.0,2.0,357717.49
+Whl.ca  ,whl.ca,1501,1.0,2.0,357717.49
+Who bread,whobread,5363,0.5,2.0,294029.23
+Whol.cake,whol.cake,1501,1.0,1.0,63776.89
+Whole Cakes,wholecakes,1501,1.0,1.0,77865.14
+Whole-cakes,whole-cakes,1501,1.0,1.0,49444.35
+Whole-cks,whole-cks,1365,1.0,1.0,202333.69999999998
+Whole.ca,whole.ca,1365,1.0,1.0,51956.740000000005
+Wholecak,wholecak,,,,113660.09
+Wholecake,wholecake,,,,33536.770000000004
+Wholecks,wholecks,1501,1.0,5.0,303170.65
+Wholemeal Brd,wholemealbrd,2674,0.5,2.0,151472.84
+Wholemeal.bread,wholemeal.bread,,,,116388.29
+Wht-brd,wht-brd,,,,36697.729999999996
+Wht-wine,wht-wine,,,,43569.15
+Wht-wine ,wht-wine,,,,43569.15
+Wht.brea,wht.brea,8297,1.0,1.0,112757.49
+Wi Red wn,wiredwn,,,,171552.64
+Wine/Ros Sparkling Wine,wine/rossparklingwine,9822,1.0,1.0,25773.36
+Wine_Red.wn,wine_red.wn,6670,1.0,3.0,169831.71
+Wn Ro sp wine,wnrospwine,9822,1.0,1.0,77828.21
+Wn_Rose.sprkl.wn,wn_rose.sprkl.wn,9822,1.0,2.0,117982.91
+World > Wrld.food,world>wrld.food,1201,1.0,1.0,78472.18
+World Ndls,worldndls,,,,84851.58
+World Noodles - Std Range,worldnoodles-stdrange,4718,1.0,2.0,85088.95
+World.foods,world.foods,1201,1.0,2.0,155924.16
+World/Ndls + Bacon,world/ndls+bacon,,,,84855.87
+World: Noodl,world:noodl,,,,86672.91
+World_World Foods And Noo,world_worldfoodsandnoo,,,,177624.55
+Wra fltbr,wrafltbr,6200,1.0,1.0,300914.03
+Wrap.fltbr And Wholemeal Bread,wrap.fltbrandwholemealbread,,,,80690.23
+Wrld > Ndls/Ext,wrld>ndls/ext,1201,0.5,2.0,90346.17
+Wrld food,wrldfood,1201,1.0,3.0,147810.15
+Wrld-fo,wrld-fo,1201,1.0,1.0,45089.79
+Wrld-foods,wrld-foods,1201,1.0,4.0,186114.57
+Wrld/Noodl,wrld/noodl,4718,1.0,2.0,39979.08
+Wrld/Noodl  ,wrld/noodl,4718,1.0,2.0,39979.08
+Wrld_Noo > Lge,wrld_noo>lge,4718,1.0,2.0,64649.29
+Wrldfds,wrldfds,,,,440236.24
+Wrps flatbreads,wrpsflatbreads,2674,1.0,3.0,79403.96
+Wshng Liquid_Lime,wshngliquid_lime,,,,113883.93
+Wshng-li,wshng-li,,,,142084.05
+Wtr/Spa water,wtr/spawater,9396,1.0,3.0,161169.72
+Wtr/Spa water  ,wtr/spawater,9396,1.0,3.0,161169.72
+YGRT > NATURAL.YOGURT,ygrt>natural.yogurt,,,,29535.15
+YGRT > YO DRINK,ygrt>yodrink,2537,0.5,2.0,170240.34
+YGRT DRIN,ygrtdrin,,,,427181.72
+YGRT-DRNKS & NATU YGRT,ygrt-drnks&natuygrt,2537,1.0,4.0,216486.87
+YGRT-NTRLYOGURT,ygrt-ntrlyogurt,7219,1.0,1.0,48621.13
+YGRT_NATUR.YGRT,ygrt_natur.ygrt,7219,1.0,2.0,105982.51
+YO > NTRL YO AND YOGURT DRINK,yo>ntrlyoandyogurtdrink,7219,1.0,1.0,53088.869999999995
+YO > NTRL YOG,yo>ntrlyog,7219,1.0,4.0,41944.12
+YO.DRIN,yo.drin,,,,24446.35
+YO.DRINKS,yo.drinks,,,,64027.83
+YOGU.DRINKS,yogu.drinks,,,,33851.33
+YOGUR-DRI,yogur-dri,,,,141713.64
+YOGURDRINK/FRT YGRT,yogurdrink/frtygrt,4439,1.0,1.0,280878.88
+YOGURT FRYOGURT AND NTRL YOGURT,yogurtfryogurtandntrlyogurt,,,,661929.95
+YOGURT-DRI,yogurt-dri,2537,1.0,1.0,37839.96
+YOGURT-YOGUR-DRINKS,yogurt-yogur-drinks,,,,65511.56
+YOGURT-YOGURT DRINK,yogurt-yogurtdrink,,,,578664.51
+YOGURT-YOGURTDRINKS,yogurt-yogurtdrinks,,,,601959.9099999999
+YOGURTDRINK,yogurtdrink,,,,269044.52999999997
+YOGURT_NATURAL YOGURT/FR YOGURT,yogurt_naturalyogurt/fryogurt,,,,132463.15
+YOGU_FRUIT-YGRT,yogu_fruit-ygrt,4439,1.0,1.0,30462.45
+YOGU_YGRTDRINKS,yogu_ygrtdrinks,,,,135445.7
+Ygrt - Ntrl-yogurt,ygrt-ntrl-yogurt,,,,41169.95
+Ygrt drinks,ygrtdrinks,2537,0.75,4.0,444571.86
+Ygrt drnks,ygrtdrnks,2537,1.0,1.0,124538.86
+Ygrt-Fryogurt & Yogurt Drnks,ygrt-fryogurt&yogurtdrnks,4439,1.0,1.0,30801.27
+Ygrt.drink And Frt Yog,ygrt.drinkandfrtyog,2537,0.5555555555555556,9.0,183240.61000000002
+Ygrt_Yog-drnks,ygrt_yog-drnks,2537,1.0,1.0,223391.22
+Yog.drnks,yog.drnks,,,,112737.19
+Yogu-drinks,yogu-drinks,2537,1.0,2.0,54310.14
+Yogu.drnks,yogu.drnks,2537,1.0,2.0,154497.71
+Yogur-Frt.yogu,yogur-frt.yogu,4439,0.6666666666666666,3.0,141194.24
+Yogur-drinks,yogur-drinks,2537,1.0,1.0,129007.85
+Yogurt Drink,yogurtdrink,,,,269044.52999999997
+Yogurt Ygrtdrinks,yogurtygrtdrinks,,,,18962.65
+Yogurt-drinks,yogurt-drinks,3201,1.0,1.0,83358.44
+Yogurt-drnks,yogurt-drnks,2537,1.0,2.0,106917.27
+Yogurt: Na-yogurt,yogurt:na-yogurt,,,,165607.50999999998
+Yogurt_natural Yogurt/fr Yogurt,yogurt_naturalyogurt/fryogurt,,,,132463.15
+apples pears,applespears,7245,0.8333333333333334,6.0,68863.03
+apples-prs,apples-prs,7245,1.0,2.0,289628.35
+applespears,applespears,7245,0.8333333333333334,6.0,68863.03
+ba & sgs-Chilled,ba&sgs-chilled,,,,41014.53
+ba be,babe,,,,25008.16
+ba toilet + surfa cl,batoilet+surfacl,,,,124559.81999999999
+ba-Seasonal,ba-seasonal,9205,1.0,1.0,96379.25
+ba/sug,ba/sug,,,,42299.15
+bab fd,babfd,2870,1.0,2.0,147941.93
+bab foo,babfoo,2870,1.0,3.0,55824.96
+baby > nap.wipes,baby>nap.wipes,8762,1.0,1.0,57250.31
+baby fo,babyfo,2870,1.0,1.0,134596.79
+baby food,babyfood,,,,4335.400000000001
+baby: na wps,baby:nawps,8762,1.0,2.0,74263.44
+baco/Ext,baco/ext,,,,19450.649999999998
+baco/Ext  ,baco/ext,,,,19450.649999999998
+bacon and sausa,baconandsausa,,,,50217.64
+bacon/smkd fsh,bacon/smkdfsh,,,,35322.229999999996
+bak - sgr,bak-sgr,7788,1.0,1.0,103605.08
+bak-ingrd   + hm bkng mixes,bak-ingrd+hmbkngmixes,,,,82126.59
+bak-ingrd + hm bkng   mixes,bak-ingrd+hmbkngmixes,,,,82126.59
+bak-ingrd + hm bkng mixes,bak-ingrd+hmbkngmixes,,,,82126.59
+bakebea,bakebea,7139,1.0,1.0,69071.1
+bakedbe,bakedbe,,,,196586.05
+baking-hm.bakin.mxs,baking-hm.bakin.mxs,3762,1.0,1.0,42241.97
+baking.ingredients,baking.ingredients,3791,1.0,1.0,64799.17
+baking/bkng-ingr,baking/bkng-ingr,3791,1.0,2.0,90672.44
+baking/hm-bkng-mxs,baking/hm-bkng-mxs,3762,1.0,2.0,52421.950000000004
+baking/suga/catering,baking/suga/catering,,,,56217.17
+bakingingredients,bakingingredients,,,,18707.07
+bath   - showerbth/sweets,bath-showerbth/sweets,5824,1.0,1.0,32651.79
+bath - showerbth/sweets,bath-showerbth/sweets,5824,1.0,1.0,32651.79
+bathroom toilet,bathroomtoilet,,,,139696.0
+bathroomto,bathroomto,3743,1.0,11.0,835019.91
+battoilet,battoilet,3743,1.0,1.0,42249.43
+be + sgs,be+sgs,4045,1.0,3.0,223952.72
+bee/ale.st,bee/ale.st,,,,479479.75
+bee: lager/Value,bee:lager/value,7789,1.0,2.0,168647.31
+beef + bcn,beef+bcn,4045,0.5,2.0,87388.47
+beer - cdr and ale stout,beer-cdrandalestout,7789,0.5,4.0,97238.05
+beer/cider,beer/cider,,,,34475.15
+biscuits_svry bscts,biscuits_svrybscts,6633,1.0,1.0,56921.04
+bkd-beans,bkd-beans,8191,1.0,2.0,214628.28
+bkdbeans,bkdbeans,7139,1.0,3.0,43484.77
+bkng sugar: Grp 2,bkngsugar:grp2,7788,1.0,1.0,105608.84
+bkng-flr,bkng-flr,4977,1.0,1.0,96154.38
+bkng-ingredients,bkng-ingredients,,,,57631.85
+bkng-su,bkng-su,7788,1.0,4.0,171975.35
+bkng/sugar + suga,bkng/sugar+suga,,,,336832.33999999997
+bkng: bkng-ingrd,bkng:bkng-ingrd,,,,339226.35
+br - whol.bread & scns teacakes,br-whol.bread&scnsteacakes,,,,484931.49
+brd whit brea,brdwhitbrea,8297,1.0,4.0,295106.45
+brd_wraps-fltbr,brd_wraps-fltbr,2674,1.0,1.0,39242.49
+brd_wraps-fltbr  ,brd_wraps-fltbr,2674,1.0,1.0,39242.49
+bre-wrps.fla,bre-wrps.fla,2674,1.0,2.0,205543.09
+bread > wrpsfltbr and to,bread>wrpsfltbrandto,2674,1.0,1.0,140355.23
+bread_whole bread,bread_wholebread,,,,186882.24
+breakfast_po,breakfast_po,,,,208705.13
+brkfs - cere,brkfs-cere,,,,64718.51
+brkfs/porridge-Value,brkfs/porridge-value,,,,49580.97
+bthrm toile,bthrmtoile,,,,8488.64
+bthrm.tlt,bthrm.tlt,3743,1.0,2.0,33445.32
+bthrm.tlt/sndwc,bthrm.tlt/sndwc,3743,1.0,1.0,71817.55
+bthrm.tlt/sndwc ,bthrm.tlt/sndwc,3743,1.0,1.0,71817.55
+btr & sprds_Old,btr&sprds_old,,,,32094.82
+btr/spr & fr mlk,btr/spr&frmlk,1464,1.0,5.0,354541.92
+btr: Deli,btr:deli,,,,138928.28
+bu - butte,bu-butte,,,,149142.02
+butte,butte,8993,1.0,3.0,88273.12
+butter,butter,8993,1.0,3.0,408392.0
+butter_sprea + btr,butter_sprea+btr,,,,120031.11
+by nappies-wipes,bynappies-wipes,,,,116945.03
+ca: ck slice ba,ca:cksliceba,,,,137956.62
+cak > ck slices bar,cak>ckslicesbar,1365,1.0,6.0,107631.11
+cak > wh cks,cak>whcks,,,,98198.07
+cak-ck.slices.bars,cak-ck.slices.bars,,,,93365.7
+cake > whl.cakes + gar bre,cake>whl.cakes+garbre,,,,176970.8
+cake whlca,cakewhlca,,,,121135.29000000001
+cake-slices-brs,cake-slices-brs,,,,107536.35
+cake.slice.bars,cake.slice.bars,9023,1.0,1.0,288061.39
+cakes: whole-cakes,cakes:whole-cakes,,,,12813.86
+cakesliceba & whl cakes,cakesliceba&whlcakes,,,,248478.69
+cat food,catfood,,,,325330.58
+cat-food,cat-food,6111,1.0,2.0,358886.03
+cat-food > Lge,cat-food>lge,6111,1.0,1.0,22092.81
+cat.foo + pet cr,cat.foo+petcr,,,,34671.07
+catfood,catfood,,,,325330.58
+cdr-Y,cdr-y,7789,1.0,2.0,53360.740000000005
+ce,ce,,,,50444.89
+ce & porri,ce&porri,,,,303526.92
+ce/Seasonal,ce/seasonal,1484,1.0,2.0,130366.43
+cer Plus,cerplus,1484,1.0,3.0,58078.5
+cer and tinned fruit: Own Label,cerandtinnedfruit:ownlabel,1484,0.6666666666666666,3.0,96863.37
+cereals and por,cerealsandpor,,,,155228.95
+cereals and world food,cerealsandworldfood,,,,71152.69
+ch po products,chpoproducts,4761,1.0,3.0,157172.86
+chclt bar orange,chcltbarorange,6788,1.0,3.0,99836.61
+chees-har chs,chees-harchs,,,,54838.81
+chewing-gum,chewing-gum,,,,23499.26
+chill dsrts/nood,chilldsrts/nood,,,,267725.11
+chill rdy me,chillrdyme,1531,1.0,4.0,254809.92
+chilled-rdy-mls,chilled-rdy-mls,1531,1.0,2.0,172573.41
+chilledde + ygrt drnks,chilledde+ygrtdrnks,,,,488074.97
+chillrdyme,chillrdyme,1531,1.0,4.0,254809.92
+chipsptprdct,chipsptprdct,4761,1.0,3.0,19295.89
+chldreadymeals,chldreadymeals,1531,1.0,2.0,58059.55
+chps potato prdct,chpspotatoprdct,,,,111188.26000000001
+chwng gum - Imported,chwnggum-imported,5411,1.0,5.0,276840.29
+chwng.gum,chwng.gum,5411,1.0,2.0,58960.61
+chwnggum,chwnggum,,,,285054.09
+cider,cider,,,,16047.72
+cider - Std Range,cider-stdrange,,,,26673.37
+cider/lgr,cider/lgr,,,,120063.25
+citrus frt,citrusfrt,4548,1.0,1.0,38125.13
+citrus.fr,citrus.fr,4548,1.0,3.0,97972.92
+ckd-meats,ckd-meats,9318,1.0,3.0,70447.38
+cl/Std Range,cl/stdrange,,,,165753.69
+cl: surfaclnrs/bathroom to,cl:surfaclnrs/bathroomto,2138,0.5,2.0,31757.02
+clean: surface cleaners,clean:surfacecleaners,,,,18599.2
+clean: surface cleaners  ,clean:surfacecleaners,,,,18599.2
+cleaning: ba-to,cleaning:ba-to,3743,1.0,2.0,53688.77
+clng_bthrmtoilet,clng_bthrmtoilet,,,,15536.619999999999
+cnfct-swe + chewing gum,cnfct-swe+chewinggum,5411,0.6666666666666666,3.0,256216.99000000002
+co.che,co.che,,,,24176.36
+co.cheese/hard chs,co.cheese/hardchs,,,,19610.85
+co/chwng-gum,co/chwng-gum,,,,220617.97
+co_chewing.gum/Spec,co_chewing.gum/spec,5411,1.0,3.0,344835.83999999997
+coffee > Range B,coffee>rangeb,9269,1.0,8.0,228572.62
+confe - che.gum,confe-che.gum,,,,10514.8
+confectionery > chewgum,confectionery>chewgum,,,,280674.19
+confectionery: chwnggum,confectionery:chwnggum,,,,13930.219999999998
+cookedmeat,cookedmeat,9318,0.75,4.0,139919.3
+cookisauces,cookisauces,,,,15105.39
+cosauces,cosauces,,,,192514.46
+cr & chewing gum,cr&chewinggum,4268,0.75,4.0,481766.49
+cr-Own   Label,cr-ownlabel,,,,243571.56
+cr-Own Label,cr-ownlabel,,,,243571.56
+cr-Own Label  ,cr-ownlabel,,,,243571.56
+cr_nut,cr_nut,,,,23729.600000000002
+cra,cra,7626,1.0,1.0,31790.390000000003
+crac,crac,7626,1.0,1.0,46616.44
+crisp > sw,crisp>sw,,,,25082.629999999997
+crisp OL,crispol,,,,164954.96
+crisps and nts,crispsandnts,,,,51477.5
+crisps-nuts_Std,crisps-nuts_std,9983,1.0,3.0,142115.59
+crisps/crisps,crisps/crisps,,,,791447.24
+crisps/nuts,crisps/nuts,9983,1.0,3.0,109709.14
+crisps: nts,crisps:nts,9983,1.0,2.0,182407.62
+crisps: pop pret,crisps:poppret,4803,1.0,1.0,58581.88
+crl-brs,crl-brs,9978,1.0,1.0,105262.0
+crls,crls,1484,0.5,4.0,170152.97
+crls > Basic,crls>basic,1484,0.3333333333333333,3.0,118070.89
+crls-Family,crls-family,,,,46096.24
+croipastr,croipastr,,,,247027.48
+croissants pastr,croissantspastr,1416,1.0,1.0,189674.66
+croissants pastr ,croissantspastr,1416,1.0,1.0,189674.66
+croissants pastries,croissantspastries,1416,1.0,3.0,118057.33
+crpastr,crpastr,1416,1.0,4.0,220540.43
+crpastries/scones tcks,crpastries/sconestcks,1416,1.0,4.0,82593.63
+crpastries/scones tcks ,crpastries/sconestcks,1416,1.0,4.0,82593.63
+crpastries/scones tcks  ,crpastries/sconestcks,1416,1.0,4.0,82593.63
+crsnt-pstrs,crsnt-pstrs,1416,1.0,4.0,146782.35
+crsnt.pstrs/scns te,crsnt.pstrs/scnste,,,,154005.76
+crsps > crckr,crsps>crckr,8882,1.0,1.0,353686.22
+crsps > onio_Imported,crsps>onio_imported,4268,1.0,1.0,50278.479999999996
+crsps-crsps,crsps-crsps,4268,1.0,8.0,511480.62
+crsps_crack,crsps_crack,7626,1.0,1.0,19258.98
+crsps_crisps,crsps_crisps,,,,86687.64
+ctrs.frt,ctrs.frt,,,,27032.079999999998
+ctrsfr,ctrsfr,,,,48088.26
+de - den ca,de-denca,8449,1.0,2.0,54246.67
+den > de-cr and chwng gum,den>de-crandchwnggum,,,,71809.84
+dentacr,dentacr,8449,1.0,2.0,134469.54
+dental - dntl cr,dental-dntlcr,8945,1.0,1.0,64597.46
+dental care,dentalcare,,,,40333.51
+deodorant,deodorant,,,,242376.72
+des_chill-dess,des_chill-dess,1034,1.0,3.0,359362.56
+dess > chilled de,dess>chilledde,1034,1.0,3.0,100956.01
+dess/chld.desserts,dess/chld.desserts,1034,1.0,3.0,74761.3
+di prdct,diprdct,,,,77411.83
+di prdct  ,diprdct,,,,77411.83
+di/dshws pro,di/dshwspro,,,,114589.03
+dip: prprdslds,dip:prprdslds,5088,0.8333333333333334,6.0,206055.79
+dip_dps - Range A,dip_dps-rangea,2154,1.0,2.0,214722.53
+dip_dps - Range A  ,dip_dps-rangea,2154,1.0,2.0,214722.53
+dips & sugar Std Range,dips&sugarstdrange,2154,0.5714285714285714,7.0,233779.46
+dips > Deli,dips>deli,2154,1.0,1.0,31029.18
+dips: dip,dips:dip,,,,99338.1
+dips_dips/ch rdy meals,dips_dips/chrdymeals,,,,387398.32
+dish prdct,dishprdct,5756,1.0,1.0,370947.87
+dishw: dis-prdct,dishw:dis-prdct,,,,101944.95000000001
+dishwashing_wshnglqd,dishwashing_wshnglqd,6643,1.0,5.0,441324.54
+dntl-care,dntl-care,,,,67590.9
+dntl-dntlcare/hrd chs,dntl-dntlcare/hrdchs,,,,411273.64
+dog fd,dogfd,1387,1.0,2.0,292962.37
+dog-fd,dog-fd,,,,953446.91
+dog-food + nappies wipe,dog-food+nappieswipe,4632,1.0,2.0,168127.9
+dps   > Chilled,dps>chilled,2154,1.0,1.0,42304.380000000005
+dps >   Chilled,dps>chilled,2154,1.0,1.0,42304.380000000005
+dps > Chilled,dps>chilled,2154,1.0,1.0,42304.380000000005
+drd her spi,drdherspi,6054,1.0,1.0,9861.54
+drd.hrbs.sp,drd.hrbs.sp,6054,1.0,1.0,41896.770000000004
+drd.hrbs.sp  ,drd.hrbs.sp,6054,1.0,1.0,41896.770000000004
+drie-frt,drie-frt,,,,113448.34
+dried fruit,driedfruit,1093,1.0,4.0,177224.69
+dried her spcs,driedherspcs,6054,0.75,4.0,254210.26
+dried-her-spcs,dried-her-spcs,,,,239509.03
+dried-herbs-spice,dried-herbs-spice,6054,1.0,2.0,20299.93
+drnt > drnt,drnt>drnt,,,,101849.52
+dsrts_chi.desserts,dsrts_chi.desserts,,,,172313.26
+eggs,eggs,8090,1.0,1.0,150225.36
+eggs + enrgy sports drnks,eggs+enrgysportsdrnks,7981,0.75,4.0,202616.26
+eggs: egs,eggs:egs,8090,1.0,1.0,47587.380000000005
+egs: eggs_Wk,egs:eggs_wk,,,,34641.78
+en spo drin,enspodrin,,,,104584.7
+ene-sprts-drinks,ene-sprts-drinks,,,,15813.990000000002
+ener sprts drin,enersprtsdrin,7981,1.0,1.0,100008.15
+energy sprts   drin,energysprtsdrin,,,,191237.0
+energy sprts drin,energysprtsdrin,,,,191237.0
+energy-sports-drin/sq,energy-sports-drin/sq,,,,191939.96
+energy-sports-drnks,energy-sports-drnks,,,,23220.73
+enrgy-spor-drin,enrgy-spor-drin,7981,1.0,1.0,104680.31
+enrgy-sports-dri,enrgy-sports-dri,7981,1.0,3.0,132900.4
+enrgy-sports-drnks & white wine,enrgy-sports-drnks&whitewine,,,,49954.05
+fabr conditioner,fabrconditioner,4024,1.0,3.0,79245.98
+fabricconditioner and washi pwdr,fabricconditionerandwashipwdr,,,,212746.7
+fbrc cndtn,fbrccndtn,4024,1.0,1.0,72290.19
+fis_prwns seafo & smkd fish,fis_prwnsseafo&smkdfish,5655,0.6666666666666666,3.0,283125.92
+fish/prwnssfd and sm fis,fish/prwnssfdandsmfis,,,,87197.25
+fl Value,flvalue,,,,143348.2
+flou,flou,4977,1.0,1.0,41859.64
+flour Sml,floursml,4977,1.0,6.0,215621.32
+flour bulk,flourbulk,,,,116420.42
+flr - lge pk,flr-lgepk,,,,208906.87
+foil,foil,3754,1.0,2.0,98900.29000000001
+foo fl,foofl,,,,51156.89
+foo: sandw,foo:sandw,,,,198122.11000000002
+food-fo,food-fo,9181,1.0,1.0,60022.22
+fr pasta,frpasta,8421,1.0,2.0,13053.0
+fr ready mls,frreadymls,,,,43124.2
+fr-rdy-mls + pizza,fr-rdy-mls+pizza,,,,85679.69
+fres.soup,fres.soup,,,,161870.57
+fres/fresoup,fres/fresoup,,,,51159.03999999999
+fres: fresh sp,fres:freshsp,5607,1.0,1.0,111503.55
+fresh sp,freshsp,5607,1.0,4.0,142696.34
+fresh.soup,fresh.soup,5607,1.0,1.0,45786.38
+freshsp,freshsp,5607,1.0,4.0,142696.34
+froz fish,frozfish,9181,0.6666666666666666,3.0,134933.61
+froz vgtbl & cereal bars,frozvgtbl&cerealbars,,,,91951.23
+froz/frozen rdy mls,froz/frozenrdymls,3961,0.6666666666666666,3.0,66604.31
+froze vege,frozevege,1458,0.7,10.0,376423.83
+frozen chips pt pr,frozenchipsptpr,,,,201561.34
+frozen chips pt pr  ,frozenchipsptpr,,,,201561.34
+frozen vegetables,frozenvegetables,,,,35819.86
+frozen.rdy.mls and pizza,frozen.rdy.mlsandpizza,3961,1.0,4.0,70390.83
+frozen/froze-vgtbl,frozen/froze-vgtbl,1458,1.0,1.0,151036.85
+frozen/frzn.des,frozen/frzn.des,,,,52099.91
+frozen_frozen.rdy.me,frozen_frozen.rdy.me,,,,83060.62
+frsh > fresh-pasta,frsh>fresh-pasta,8421,1.0,2.0,55369.26
+frsh > freshsp,frsh>freshsp,1273,1.0,1.0,40343.649999999994
+frsh crm,frshcrm,7386,1.0,4.0,156036.63
+frsh herbs & stone fruit,frshherbs&stonefruit,7818,1.0,1.0,41452.07
+frsh sou,frshsou,,,,97011.23
+frsh.cr,frsh.cr,,,,50584.32
+frsh.herbs,frsh.herbs,7818,1.0,5.0,169758.65
+frsoup,frsoup,,,,103872.54999999999
+frt > citrus-fr,frt>citrus-fr,4548,1.0,2.0,28034.4
+frtygrt,frtygrt,4439,1.0,1.0,64925.46000000001
+frtygrt ,frtygrt,4439,1.0,1.0,64925.46000000001
+fruit - appl pears,fruit-applpears,,,,23925.01
+fruit stone fru,fruitstonefru,,,,206258.56
+fruit.yogu,fruit.yogu,4439,1.0,4.0,127108.61
+fruit.yogurt,fruit.yogurt,4439,1.0,1.0,29165.62
+fruit.yogurt ,fruit.yogurt,4439,1.0,1.0,29165.62
+fruit/citrus-fr,fruit/citrus-fr,4548,1.0,1.0,49234.03
+fruit: aplspea,fruit:aplspea,7245,1.0,1.0,69951.14
+fruit: grapes mln,fruit:grapesmln,,,,8227.279999999999
+fruit_gra.melo,fruit_gra.melo,8174,1.0,2.0,34357.76
+frzn - pz,frzn-pz,3903,1.0,1.0,44420.270000000004
+fsh: pra sfd + ts,fsh:prasfd+ts,,,,116463.26000000001
+ga-bread and wrap flatbreads,ga-breadandwrapflatbreads,6200,0.75,4.0,440846.56
+gar-brd,gar-brd,,,,73542.56999999999
+garl-brd/mfns crmpt,garl-brd/mfnscrmpt,,,,222069.94
+garli bre,garlibre,6200,1.0,1.0,100489.28
+garli-bread,garli-bread,6200,1.0,1.0,15474.279999999999
+garlicbrea,garlicbrea,6200,1.0,1.0,52987.25
+green,green,1352,0.75,4.0,60910.74
+green + onions grlc,green+onionsgrlc,,,,323270.43
+ha.che,ha.che,2931,1.0,2.0,71100.75
+hard.chee,hard.chee,2931,1.0,1.0,159027.63999999998
+hm baking mix,hmbakingmix,3762,1.0,1.0,29339.1
+hm bkng mixe,hmbkngmixe,,,,103292.97
+home.bkng.mixes,home.bkng.mixes,3762,0.6666666666666666,3.0,546808.95
+homebakingmxs,homebakingmxs,3762,1.0,4.0,281882.66
+hot > coffee/sqsh,hot>coffee/sqsh,,,,61450.520000000004
+hot chocolate,hotchocolate,7773,1.0,2.0,207501.24
+hot-chocolate,hot-chocolate,9822,0.5,2.0,31574.96
+hot.chclt,hot.chclt,7773,1.0,2.0,133454.23
+hot.chclt/orange,hot.chclt/orange,7773,1.0,1.0,19023.239999999998
+hot.choco,hot.choco,,,,530518.21
+hot/hot.cho,hot/hot.cho,7773,1.0,1.0,21010.949999999997
+hot:   tea,hot:tea,4274,0.5,2.0,74329.92
+hot: tea,hot:tea,4274,0.5,2.0,74329.92
+hot: tea ,hot:tea,4274,0.5,2.0,74329.92
+hot_hot chclt,hot_hotchclt,7773,1.0,2.0,149480.4
+hotchclt,hotchclt,7773,1.0,3.0,202577.99
+hrd chee and spr,hrdcheeandspr,2931,1.0,2.0,86775.78
+ice > icecream/fro vgtbl,ice>icecream/frovgtbl,,,,197756.23
+ice cream,icecream,,,,1571322.05
+ice crm > Grp 1,icecrm>grp1,6425,1.0,3.0,121106.68
+ice.cream,ice.cream,6425,1.0,3.0,37057.12
+ice.lollies,ice.lollies,8506,0.6666666666666666,3.0,26516.29
+ice_ice-crea/Basic,ice_ice-crea/basic,6425,1.0,1.0,56714.549999999996
+icelolli,icelolli,8506,0.6666666666666666,3.0,123963.12
+jc: orange juice + other juice,jc:orangejuice+otherjuice,,,,90268.27
+juic/othr juices,juic/othrjuices,8882,1.0,1.0,41756.869999999995
+juic_smths and other juices,juic_smthsandotherjuices,,,,568405.38
+juice-smoothies,juice-smoothies,6975,1.0,1.0,41736.55
+ktchn ro,ktchnro,5181,0.5,2.0,45099.44
+la/chicken,la/chicken,,,,254338.08000000002
+la: lndry.liqui.capsu,la:lndry.liqui.capsu,2793,1.0,1.0,130687.61
+lage,lage,8945,1.0,1.0,44838.58
+lauliquidcaps,lauliquidcaps,2793,0.5,2.0,64818.25
+laun: washi-pwdr,laun:washi-pwdr,,,,329048.16000000003
+lmb,lmb,,,,48042.53
+lmb/Chilled,lmb/chilled,,,,61622.33
+lndry - laundry liqu capsules,lndry-laundryliqucapsules,,,,30948.969999999998
+lndry/washingpwdr,lndry/washingpwdr,5401,1.0,1.0,10431.380000000001
+me-Range B,me-rangeb,5088,1.0,2.0,525050.53
+mea & pz,mea&pz,,,,164131.8
+mea-Local,mea-local,,,,69027.32
+mea-bacon,mea-bacon,9205,1.0,1.0,108482.09
+meat bacon + lam,meatbacon+lam,,,,66200.4
+meat sgs,meatsgs,6450,1.0,1.0,25256.550000000003
+meat-: meat-free,meat-:meat-free,,,,8484.85
+meat-free > Org,meat-free>org,1238,1.0,1.0,96220.19
+meat/sau/beef,meat/sau/beef,6450,1.0,1.0,98474.53
+meat/sausages,meat/sausages,6450,1.0,3.0,115055.15
+meat: bacon,meat:bacon,9205,0.7272727272727273,11.0,339659.9
+meat: lmb,meat:lmb,,,,304992.68
+meat: lmb ,meat:lmb,,,,304992.68
+meat: pork/Seasonal,meat:pork/seasonal,5856,1.0,7.0,261433.44
+mi_flavoured.mlk,mi_flavoured.mlk,,,,12314.13
+milk/plant-baseddrinks,milk/plant-baseddrinks,,,,46801.3
+milk: pl.dr + dps,milk:pl.dr+dps,5179,1.0,1.0,43109.35
+misc items (old),miscitems(old),9228,0.5,6.0,176098.54
+misc items - chilled,miscitems-chilled,8737,0.5,2.0,171684.34
+misc items 8,miscitems8,2931,0.5,2.0,64876.1
+mlk: frshmi/popcorn prtzl,mlk:frshmi/popcornprtzl,,,,120631.77
+mo - crpastries,mo-crpastries,1416,1.0,2.0,180507.69
+mor: sconeste,mor:sconeste,1150,1.0,2.0,96516.76
+morning > croissants pstrs,morning>croissantspstrs,1416,1.0,3.0,157121.96
+morning crsnt.pstrs,morningcrsnt.pstrs,,,,82846.48
+morning/sconestea,morning/sconestea,1150,1.0,1.0,128542.81999999999
+mrng > croi past,mrng>croipast,1416,1.0,1.0,44061.49
+mt/sa,mt/sa,,,,33301.32
+mt_bf,mt_bf,,,,56680.05
+mtfr - mtfr,mtfr-mtfr,1238,1.0,2.0,181580.03
+mtfr_mtfr_Prem,mtfr_mtfr_prem,1238,1.0,3.0,101462.55
+mus,mus,,,,462668.89
+na.wipe + pet care,na.wipe+petcare,,,,91421.43000000001
+na.yogurt and frt ygrt,na.yogurtandfrtygrt,,,,95413.11
+napp.wi,napp.wi,8762,1.0,1.0,73340.36
+nappies.wipes,nappies.wipes,8762,1.0,3.0,84281.65
+nappies.wps and baby fd,nappies.wpsandbabyfd,,,,43892.799999999996
+natu-yogur and hrd chs,natu-yogurandhrdchs,2931,1.0,1.0,136137.87
+natural yo,naturalyo,7219,1.0,1.0,71379.3
+natural-yogurt,natural-yogurt,,,,49974.229999999996
+naturyogur,naturyogur,7219,1.0,1.0,38813.07
+nood and world fds,noodandworldfds,,,,145603.73
+noodl & wrld foods,noodl&wrldfoods,,,,117378.51
+nps-wipes,nps-wipes,8762,1.0,4.0,157104.82
+ntrl-yo,ntrl-yo,,,,106552.02
+ntrl.yogu,ntrl.yogu,,,,24600.17
+ntrlyogu,ntrlyogu,,,,72671.91
+ntrlyogu ,ntrlyogu,,,,72671.91
+nts,nts,,,,67195.51
+nuts & cr,nuts&cr,,,,187180.27
+nuts + drie fruit,nuts+driefruit,,,,285185.55
+nuts Range A,nutsrangea,,,,168566.04
+nuts-Wk,nuts-wk,9983,1.0,3.0,193457.72999999998
+nuts/sweet,nuts/sweet,,,,260470.94999999998
+oil - Imp,oil-imp,7014,1.0,1.0,90324.12999999999
+oil_fs > Classic,oil_fs>classic,9991,1.0,1.0,17730.41
+oniogarl,oniogarl,4818,1.0,4.0,100789.96
+onionsgrlc,onionsgrlc,4818,1.0,9.0,149510.57
+or jc,orjc,1919,1.0,2.0,43712.909999999996
+ora-juice,ora-juice,1919,1.0,5.0,382332.3
+orange jc,orangejc,,,,354476.88
+orng juice,orngjuice,1919,1.0,6.0,345878.76
+other juic,otherjuic,8882,1.0,5.0,198809.59999999998
+othr-juices,othr-juices,8882,1.0,7.0,151459.51
+pa - tlt.roll,pa-tlt.roll,,,,178888.43
+pa sauces,pasauces,9535,1.0,4.0,68241.77
+paper > ti,paper>ti,9640,1.0,2.0,179691.77
+paper_ti/Branded,paper_ti/branded,9640,1.0,1.0,84076.92
+paper_tis + tnd fruit,paper_tis+tndfruit,,,,69254.18
+pas-scs,pas-scs,9535,1.0,3.0,69015.05
+past,past,,,,203014.96999999997
+pasta & pasta,pasta&pasta,,,,56408.34
+pasta - past & past,pasta-past&past,,,,139366.58000000002
+pasta: lge pk,pasta:lgepk,,,,58524.08
+pasta_fs,pasta_fs,8868,1.0,1.0,19363.74
+pckls cndmn,pcklscndmn,9023,0.6666666666666666,3.0,1109064.5
+pcklscndmn,pcklscndmn,9023,0.6666666666666666,3.0,1109064.5
+pcklscondiments,pcklscondiments,9023,1.0,7.0,358542.38
+pe_pet cr,pe_petcr,7333,1.0,2.0,63109.369999999995
+pep chil,pepchil,5747,0.6666666666666666,3.0,54464.83
+peppers-chi,peppers-chi,,,,174267.03
+pet care/Z,petcare/z,,,,43586.159999999996
+pet-care,pet-care,,,,161797.76
+pet.care,pet.care,,,,40675.67
+pet.care & cat food,pet.care&catfood,7333,1.0,2.0,56012.340000000004
+pet_catfd > Range C,pet_catfd>rangec,6111,1.0,2.0,182391.24
+pets-pet care,pets-petcare,7333,1.0,3.0,131755.21
+pets: cat-fd: chic,pets:cat-fd:chic,6111,1.0,2.0,194074.17
+pets: pet cr,pets:petcr,7333,1.0,1.0,17665.32
+pi cndmn,picndmn,9023,1.0,2.0,27229.97
+pic cndmn,piccndmn,,,,11398.24
+pic.con,pic.con,,,,87816.3
+pickcond and table sauce,pickcondandtablesauce,,,,124765.45999999999
+pickles cndmn,picklescndmn,,,,48318.26
+pizz,pizz,3903,1.0,1.0,47957.32
+plant-based-drinks + frsh milk,plant-based-drinks+frshmilk,,,,57428.66
+pls.grai,pls.grai,,,,61887.75
+pls.grai and cere brs,pls.graiandcerebrs,,,,178528.71000000002
+pls.grns,pls.grns,9228,1.0,2.0,163266.11
+pop-pretzels,pop-pretzels,4268,1.0,1.0,97467.03
+pop-pretzels ,pop-pretzels,4268,1.0,1.0,97467.03
+popcornpr,popcornpr,,,,379945.48
+popcornprtzl + crsps,popcornprtzl+crsps,,,,76937.34
+porridge > Wk,porridge>wk,,,,47012.18
+pot_Branded,pot_branded,,,,61666.36
+potatoes + peppers chil,potatoes+pepperschil,9123,0.8,5.0,132658.47
+pr > ts,pr>ts,9640,1.0,4.0,222948.29
+pr_ts,pr_ts,,,,914140.21
+prdg,prdg,,,,26347.379999999997
+pre.slds,pre.slds,5088,1.0,3.0,181041.95
+prepared.sala,prepared.sala,5088,0.6666666666666666,3.0,80900.84
+prepared.slds,prepared.slds,5088,1.0,1.0,12560.88
+preparedsalads,preparedsalads,,,,223700.49
+preparedslds,preparedslds,5088,1.0,1.0,238527.77000000002
+prwns seafood,prwnsseafood,5655,1.0,5.0,165245.3
+ps/svry ps + salad,ps/svryps+salad,,,,223219.40000000002
+pst,pst,1565,1.0,1.0,49028.54
+pst & pasta,pst&pasta,8868,1.0,2.0,77017.5
+pst - pst - trade,pst-pst-trade,8868,1.0,2.0,21241.67
+pts,pts,9123,1.0,1.0,138652.07
+pts > petca: Plus,pts>petca:plus,7333,1.0,2.0,40093.36
+pts_cat fo,pts_catfo,6111,1.0,1.0,62660.990000000005
+pul-grns,pul-grns,,,,63960.82
+puls-grains/noodles,puls-grains/noodles,,,,446864.53
+pulses > pls-grns,pulses>pls-grns,,,,230276.7
+red win,redwin,6670,1.0,4.0,154286.41
+red-wi,red-wi,,,,87751.89
+redwin,redwin,6670,1.0,4.0,154286.41
+rice rice fs,ricericefs,,,,56047.299999999996
+rls baps,rlsbaps,4748,1.0,1.0,478121.2
+ro-ba,ro-ba,,,,215641.72
+root.vegetables,root.vegetables,4584,1.0,2.0,31087.28
+rose spar wine & white wn,rosesparwine&whitewn,9822,1.0,3.0,198958.02
+rose spark wn,rosesparkwn,9822,1.0,1.0,44733.18
+rose-sparkling-wi,rose-sparkling-wi,,,,153342.51
+rosesparklingwine,rosesparklingwine,,,,9594.310000000001
+rs sprkl wi,rssprklwi,,,,207284.54
+sa/ckng sauces,sa/ckngsauces,7443,1.0,3.0,76099.36
+sal,sal,4782,1.0,1.0,18747.63
+sal: Sml,sal:sml,4632,0.5,8.0,527946.29
+sala,sala,,,,37892.47
+salad,salad,4782,1.0,2.0,53358.28
+salad > Lge,salad>lge,,,,27865.5
+salad/onion gar,salad/oniongar,4782,0.5,4.0,60455.08
+sandw: chicken,sandw:chicken,1273,1.0,1.0,62230.0
+sau/froze fish,sau/frozefish,,,,74215.54
+sau_tbl-sauce,sau_tbl-sauce,,,,31001.77
+sauce > table.scs,sauce>table.scs,,,,169210.25
+sauce_tbl sauc + hard chees,sauce_tblsauc+hardchees,,,,218799.62
+sauces - pst sau,sauces-pstsau,9535,1.0,6.0,202196.17
+savou-pi,savou-pi,2363,1.0,1.0,28492.85
+savou-pies + lam,savou-pies+lam,,,,127396.44
+savoury biscuits,savourybiscuits,6633,1.0,1.0,118772.81
+savourypies and wo foods,savourypiesandwofoods,1201,1.0,1.0,200665.33
+sc teacakes,scteacakes,,,,283414.09
+scns.te,scns.te,1150,1.0,1.0,25274.85
+scnsteac,scnsteac,1150,1.0,5.0,460995.04000000004
+scone-tcks,scone-tcks,1150,1.0,2.0,69224.95
+scones tcks,sconestcks,1150,1.0,3.0,198907.55
+scs pickcndmn Classic,scspickcndmnclassic,9023,1.0,1.0,54270.37
+scs: picndmn,scs:picndmn,9023,1.0,1.0,51596.1
+sft squa-Core,sftsqua-core,,,,436747.49
+sft_squa,sft_squa,4366,1.0,2.0,61531.29
+sgr-Value,sgr-value,7788,1.0,1.0,29105.39
+showe.bath,showe.bath,5824,0.875,8.0,287249.69
+shwr.bth,shwr.bth,5824,1.0,1.0,97396.43
+sm,sm,6975,1.0,1.0,59528.55
+smok fis + froz fish,smokfis+frozfish,5970,1.0,1.0,28365.83
+smoo,smoo,6975,1.0,4.0,320063.55
+smoot,smoot,6975,1.0,1.0,16759.07
+smths/orng jui,smths/orngjui,,,,195154.87
+snack driefru,snackdriefru,1093,0.875,8.0,219416.95
+so-chs - garlic,so-chs-garlic,9117,1.0,5.0,88903.19
+sof - col,sof-col,,,,64498.5
+sof - sqsh_Y,sof-sqsh_y,4366,1.0,4.0,71463.62
+sof chs,sofchs,,,,51018.909999999996
+sof-sqsh,sof-sqsh,3117,0.75,4.0,46974.03
+sof/squa,sof/squa,,,,49375.53
+soft - sqsh,soft-sqsh,,,,265143.39
+soft - sqsh  ,soft-sqsh,,,,265143.39
+soft-sqsh + cl,soft-sqsh+cl,3117,1.0,1.0,27764.920000000002
+soft: energy-sports-drinks,soft:energy-sports-drinks,7981,1.0,1.0,54639.96
+soup,soup,7139,1.0,2.0,128081.12
+sp,sp,,,,35075.91
+sp wtr and still wat,spwtrandstillwat,,,,287182.65
+spa.wtr,spa.wtr,9396,1.0,2.0,101448.04000000001
+spark.water,spark.water,,,,656148.88
+spirits > Grp 3,spirits>grp3,,,,61894.2
+sprds,sprds,1464,1.0,1.0,50236.69
+sprts,sprts,9849,1.0,2.0,84615.68
+sprts ,sprts,9849,1.0,2.0,84615.68
+sprts: spirits,sprts:spirits,9849,1.0,2.0,71332.58
+sq,sq,4366,1.0,4.0,414603.36
+sq/energy sprts drin,sq/energysprtsdrin,4366,0.6666666666666666,3.0,73676.81999999999
+sqsh/Org,sqsh/org,4366,1.0,2.0,241666.29
+sqsh_Seasonal,sqsh_seasonal,,,,43446.91
+squas,squas,,,,45413.83
+sti water,stiwater,7286,1.0,5.0,102123.46
+stil wtr/sprkl wate,stilwtr/sprklwate,7286,0.6666666666666666,3.0,129805.23000000001
+ston fr & be,stonfr&be,,,,351520.33
+su/sgr,su/sgr,7788,1.0,1.0,74916.54000000001
+sug & baking ing,sug&bakinging,,,,416279.8
+sug: ctr,sug:ctr,3834,1.0,1.0,53717.0
+sugar,sugar,,,,44703.04
+sugar > Organic,sugar>organic,7788,1.0,1.0,60271.24
+sugar > catering,sugar>catering,,,,26233.14
+surf.cle,surf.cle,,,,50572.8
+surfa-cleaners/bathroom toilet,surfa-cleaners/bathroomtoilet,,,,148735.99
+surface.clnrs,surface.clnrs,2138,1.0,1.0,64735.159999999996
+svry biscuits,svrybiscuits,6633,1.0,1.0,163883.81
+svry pies,svrypies,,,,76768.44
+svry.biscuits,svry.biscuits,,,,15017.57
+svrypi,svrypi,2363,1.0,1.0,79236.17
+sw & che gum,sw&chegum,8522,1.0,1.0,247481.88
+sweet bisc,sweetbisc,,,,101936.41
+sweet bscts lmn,sweetbsctslmn,9417,1.0,2.0,37864.13
+sweets,sweets,,,,23354.96
+sweets - Y,sweets-y,8522,1.0,1.0,39093.409999999996
+tabl-sauces/sp,tabl-sauces/sp,2768,0.6666666666666666,3.0,57131.16
+table sau,tablesau,7070,1.0,2.0,101536.87
+table sauce,tablesauce,,,,86298.64
+table sauces > garlic,tablesauces>garlic,,,,45769.8
+table scs,tablescs,7070,1.0,1.0,2904.52
+table-sauces,table-sauces,,,,137265.89
+tablesauces ga,tablesaucesga,7070,1.0,3.0,151545.36000000002
+tbl-scs,tbl-scs,7070,1.0,3.0,63260.5
+tea,tea,,,,412882.14
+tea & coffe,tea&coffe,,,,328050.79
+tea-mint,tea-mint,4274,1.0,1.0,28051.39
+tea/Deli,tea/deli,9269,1.0,1.0,53942.33
+tea: Plus,tea:plus,,,,55180.3
+ti > tinntom & cook scs,ti>tinntom&cookscs,7443,0.5,2.0,66352.14
+ti vgtbl,tivgtbl,9330,1.0,8.0,454221.58
+tifrt,tifrt,3682,0.5,4.0,64345.130000000005
+tin - tinned-fish,tin-tinned-fish,,,,489185.66000000003
+tin.vgtbl,tin.vgtbl,,,,8531.09
+tinn-tomat,tinn-tomat,2416,1.0,1.0,53028.079999999994
+tinn.vegetables,tinn.vegetables,,,,234011.76
+tinn.vegetables ,tinn.vegetables,,,,234011.76
+tinne frt,tinnefrt,,,,1014987.89
+tinne-fsh,tinne-fsh,8191,1.0,2.0,53758.12
+tinned frt,tinnedfrt,,,,206358.63
+tinned frt  ,tinnedfrt,,,,206358.63
+tinned-frt,tinned-frt,3682,1.0,4.0,259150.02
+tinned.frui,tinned.frui,3682,1.0,3.0,221049.45
+tinned.fruit/soup,tinned.fruit/soup,,,,74493.66
+tinned.vegetables,tinned.vegetables,9330,1.0,1.0,105960.4
+tinnedfrt,tinnedfrt,,,,206358.63
+tinnetomatoes and ric,tinnetomatoesandric,,,,97527.08
+tinnevegetables,tinnevegetables,,,,211950.57
+tins - tinn-tmts,tins-tinn-tmts,2416,1.0,2.0,181005.06
+tins tintom,tinstintom,,,,26886.85
+tins: tinned fsh,tins:tinnedfsh,,,,166063.19
+tintmts,tintmts,,,,36203.86
+tiss,tiss,,,,90185.24
+tissues/laundry liqu ca,tissues/laundryliquca,2793,1.0,1.0,257186.63
+tlt ro,tltro,3615,1.0,3.0,170525.9
+tmts Organic,tmtsorganic,6663,1.0,2.0,15403.7
+tns > sp,tns>sp,2768,1.0,1.0,106152.9
+tns tnd frt,tnstndfrt,3682,1.0,1.0,85426.19
+tns tnd tomatoes,tnstndtomatoes,2416,1.0,1.0,113985.84
+tns_soup and tnd fru,tns_soupandtndfru,3682,1.0,1.0,68367.26000000001
+to,to,,,,131532.61
+to.roll,to.roll,,,,118108.81999999999
+toil.roll,toil.roll,,,,34153.64
+toilet-rl,toilet-rl,3615,1.0,2.0,306599.67
+toiletrl,toiletrl,3615,1.0,5.0,292894.71
+tomat_Lge,tomat_lge,6663,1.0,2.0,169709.30000000002
+tomatoes - Local,tomatoes-local,6663,1.0,1.0,22762.62
+trtl cor snacks,trtlcorsnacks,8522,1.0,1.0,114097.6
+veg to,vegto,6663,1.0,3.0,199882.58
+vege-sld,vege-sld,,,,55690.58
+veget-tomatoes/peppers chi,veget-tomatoes/pepperschi,,,,296382.56
+veget: tomatoes & mushrooms,veget:tomatoes&mushrooms,8530,1.0,2.0,44645.79
+vegetables-tomatoes,vegetables-tomatoes,6663,0.5,2.0,116169.1
+vgtbl-pts,vgtbl-pts,9123,1.0,1.0,39795.01
+vgtbl_fresh-hrbs,vgtbl_fresh-hrbs,7818,0.75,4.0,150691.07
+was powder,waspowder,5401,0.6,5.0,219607.1
+washing-powder + laundry liqu capsules,washing-powder+laundryliqucapsules,,,,100128.37999999999
+washing-up.liquid,washing-up.liquid,6643,1.0,1.0,21683.21
+washing-up.liquid ,washing-up.liquid,6643,1.0,1.0,21683.21
+wat: spar water,wat:sparwater,9396,1.0,2.0,56859.439999999995
+water - sparkling.water,water-sparkling.water,,,,93463.90000000001
+water/sti.wtr,water/sti.wtr,,,,74901.79000000001
+wh cks_Prem Range,whcks_premrange,1501,1.0,1.0,62437.86
+white wn,whitewn,,,,121099.15
+whl-cks,whl-cks,1501,1.0,1.0,72635.36
+whlca,whlca,,,,135704.94
+whlml br,whlmlbr,5363,1.0,3.0,41119.520000000004
+whlml.brea,whlml.brea,,,,22484.18
+who.bread,who.bread,,,,35895.73
+whole cks,wholecks,1501,1.0,5.0,303170.65
+wht brd,whtbrd,,,,107610.25
+wht brd  ,whtbrd,,,,107610.25
+wht bread,whtbread,,,,239652.92
+win rosspwn,winrosspwn,9822,1.0,2.0,43317.63
+wine - red-win Range C,wine-red-winrangec,6670,1.0,3.0,79424.96
+wine rosesparklingwn,winerosesparklingwn,,,,131793.8
+wo fds + sugar,wofds+sugar,,,,264001.17
+wo/nood,wo/nood,4718,1.0,1.0,114224.26
+wo/noodles,wo/noodles,4718,1.0,3.0,622286.64
+wor > noodles: X,wor>noodles:x,4718,1.0,2.0,22806.260000000002
+worfds,worfds,1201,1.0,2.0,130395.31
+world > ndls,world>ndls,4718,1.0,1.0,26303.3
+wraps-fl,wraps-fl,2674,1.0,1.0,112874.31
+wraps-fltbr,wraps-fltbr,2674,1.0,3.0,167730.41
+wrld fds,wrldfds,,,,440236.24
+wrld foods,wrldfoods,1201,1.0,3.0,203478.68
+wrld_wrld.fds and ice   lol,wrld_wrld.fdsandicelol,,,,266824.13
+wrld_wrld.fds and ice lol,wrld_wrld.fdsandicelol,,,,266824.13
+wrps.flatb,wrps.flatb,,,,20638.239999999998
+wtr_still.wtr,wtr_still.wtr,,,,492528.49
+ygrt - yogurt drnks,ygrt-yogurtdrnks,4748,0.5,4.0,293789.14
+ygrtdrinks,ygrtdrinks,2537,0.75,4.0,444571.86
+yog-drnks,yog-drnks,2537,1.0,1.0,164388.29
+yogu drnks,yogudrnks,2537,1.0,1.0,43656.89
+yogu: yogur dr,yogu:yogurdr,,,,39134.36
+yogu_fruit-ygrt,yogu_fruit-ygrt,4439,1.0,1.0,30462.45
+yogur/fruit.yogur,yogur/fruit.yogur,2537,1.0,1.0,33407.74
+yogurt dr,yogurtdr,2537,1.0,2.0,110506.84
+yogurt-yogurt drink,yogurt-yogurtdrink,,,,578664.51
+yogurt.drnks,yogurt.drnks,2537,1.0,15.0,635820.79
+yogurt_frt-yogu,yogurt_frt-yogu,,,,71841.68
+yogurtdrink,yogurtdrink,,,,269044.52999999997
