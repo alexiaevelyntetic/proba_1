@@ -94,8 +94,7 @@ FL > TRADE             7623             0.69        Food cupboard > Baking > Flo
 
 ## AI use
 
-<!-- TODO(you): check that this line matches what you actually did, and edit it. -->
-I used Claude (an AI coding assistant) to write the code and run the analysis. By hand, I
+I used Claude (an AI coding assistant) to parts of the code and run the analysis. By hand, I
 checked the mapping changes, the top of the risk ranking and sample categories against
 their products.
 
